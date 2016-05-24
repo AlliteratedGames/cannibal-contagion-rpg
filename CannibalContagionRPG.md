@@ -7,7 +7,7 @@
 
 Third Document Revision - Summer 2016
 
-*Cannibal Contagion* is Copyright © 2008-2010 Nathanael Phillip Cole  
+*Cannibal Contagion* is Copyright © 2008-2016 Nathanael Phillip Cole  
 http://cannibalcontagion.com  
 http://alliteratedgames.com
 
