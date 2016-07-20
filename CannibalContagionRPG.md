@@ -373,4 +373,525 @@ Below are some example characters you can use for your own games, should you wan
 * **Gear:** 8 (11) Slots: Plaid Skirt (1), Backpack (+3), Schoolbooks (2), Ball & Chain (2, +2H) 
 * **Psychotrigger:** afraid of insects
 
+# Part 3: The Rules
+
+“In a world where the dead are returning to life,  
+the word “trouble” loses much of its meaning.”
+
+*Kaufman, from* Land of the Dead
+
+## Surviving the Game
+
+Most of the game will be handled through free-form role-playing. Players will state their intentions, explore the scenes together, and generally free-play on their own without need of too much guidance from the CiC. Sometimes, there might be an issue or question at hand, like “Do we find some hidden caches of grenades inside this dumpster?” or “Can I use this hypo-spray stuff to clean the Infected wound?” and such. In these moments, the CiC is free to make an instant call on it and just say “sure, that’s awesome” or “hell no, that’s retarded,” but she may also decide instead to leave it to chance and let the cards decide. This involves a **<span style="font-variant:small-caps;">Quickie</span>** test.
+
+Other times, one or more players may directly oppose the narration of another player at the table, or even the CiC. In such cases, the CiC can declare that the conflict requires them to take it to a **<span style="font-variant:small-caps;">Showdown</span>**, and let their cards and Characteristics determine whose version of the story holds true.
+
+### When to Use the Cards
+
+In an ideal game, the CiC should never have to actually solicit the players to break out the cards. The CiC will set the Scene and narrate elements into it, the players will state their actions in the scene, and the CiC will narrate the outcomes of those actions how she sees fit. If ever a player feels her character should be able to affect the outcomes differently than the CiC’s narration, and that different outcome is important to her, then she can choose to evoke the card mechanics and try to adjust the situation to one more fitting her desires. Essentially, the CiC’s narration holds true until the players use the cards to alter it; **or in other words, the CiC is right until the players choose to try and make the cards say otherwise**.
+
+Players, you are encouraged to use the cards often: Seize the Moment! If you want to affect the scene somehow, and the CiC narrates otherwise, then you should narrate a way for your character to take the initiative and change the world around her. If you say your character does something, and the CiC says that she fails, then you can call upon the cards to try and *not* fail. If the CiC says that something happens to your character, and you think it shouldn’t, then evoke the cards and see if she can change her fate. If the CiC says that falling rocks kill everyone, then it happens unless you bring the cards out and make them say otherwise.
+
+Just be warned: don’t call on the cards unless you are prepared to narrate your potential success. There’re few things more irritating in a game than a player who is trigger-happy with the cards but can’t follow through with the story. If you’ve got any idea for something cool, then go for it! But if you’re just throwing cards down without foresight, I encourage you to put some imagination into your actions *before* resorting to the cards.
+
+### When to Quickie, When to Showdown, and When to Move On
+
+Okay, so now you’ve decided that your character is not going to accept the CiC’s decision for her fate. Which of the card Mechanics in the next section do you use? Well, if the situation is mostly one-sided, or of the “do I succeed or do I fail?” nature, then you call upon a Quickie to decide the results. However, if you are being directly opposed by another force in the game, of you are working against a Threat that the CiC has purchased into the game with her Adversity Tokens, then you use a Showdown. Quickies are meant to allow you to quickly decide an outcome and move on, while Showdowns are meant to be dramatic and important, and full of delicious smack-talking.
+
+## Card Mechanic #1: The Quickie
+
+Quickies are typically called upon in two different situations. The first is to allow the cards of fate to quickly make a decision on an unexpected in-game question. If the CiC feels that there’s a chance something random and unexpected might happen, such as a character hacking into a network and accessing the sprinklers in a building, or another character finding a hidden Glock under their neighbor’s mattress, she can allow the players to make Quickies to see what happens. In some ways, this can be seen as the general “skill check” of the ***CC*** rules.
+
+The other situation most often arises when the players have to resist some in-game effect, such as Infectious zombie bites. In these cases, players are allowed to call upon certain Characteristics to resist these game effects. For example, by spending a Survival token, you can use **<span style="font-variant:small-caps;">Grit</span>** to reduce Hurtin’ received from combat-focused Showdowns.
+
+In either situation, the mechanics are the same. When a Quickie is called upon, the CiC states the relevant Characteristic for the situation, and the player draws that many cards from the deck (I *highly* encourage CiCs to allow the players to draw their own cards, as it helps to connect them directly to the game mechnics). If any of them are faces or aces, the player wins; otherwise the Quickie is a failure. The CiC narrates the success and failure consequences of Quickies, but is free to allow the players to do so as well (forcing a player to narrate their own failure can lead to some really fun moments). In most cases, one ace or face denotes basic success, and additionals should encourage the player to add a bit more flair to the narration. If the purpose of the Quickie was to resist some incoming Hurtin’ or other such effect, each face or ace denotes one point resisted. Keep in mind that the draw of a Joker counts as *two* faces or aces. No narration is necessary for Quickies made to resist mechanical effects, but it doesn’t hurt, and can only make the scene cooler.
+
+You can get additional card draws by evoking Gear and negotiating with your Mad Half for more. Evoking Gear is described on page 65, while the process of Mad Half negotiation is described on page 91. If a character has no ranks in the relevant Characteristic, they can only attempt a Quickie by evoking Gear and/or Negotiating with their Mad Half for more cards. Otherwise, the CiC’s narration holds.
+
+> **Quickie Example #1:** Vera’s character Carla is in desperate need of some serious firepower after barely escaping from that pack of wild slime zombies with her life and sanity intact. She ducks into a locally-owned hardware store in search of something to use in a pinch. Screg (the CiC) says that the store has been looted almost entirely dry, and nothing of importance can be found. Vera believes that there might be a chance that something useful got left behind in the chaos of this morning’s riots. Screg says what the hell, and agrees to let her try a **<span style="font-variant:small-caps;">Savvy</span>** Quickie to see if anything might be scrounged up. Carla’s **<span style="font-variant:small-caps;">Savvy</span>** score is 3, so Vera draws three cards: the 2 of Spades, the 10 of Clubs, and the Jack of Clubs. Because she succeeded at the Quickie with a Jack, Screg decrees that she manages to find a baseball bat, a box of shotgun shells, a hubcap for a 1972 Pinto hatchback, and a welder’s mask. The baseball bat is definitely useful as a weapon, and the shells could help her out on Juice checks should she ever find a shotgun. As for the other two, well, your ideas are as good as mine.
+
+> **Quickie Example #2:** Karo’s character, Roger the Suit, is in a bad spot. He’s currently surrounded by a handful of contagious cannibals, and one of them just bit him! At the end of the conflict, Screg afflicted Roger with three points of Hurtin’ and two points of Infection. Karo elects to spend Survival Tokens to make **<span style="font-variant:small-caps;">Grit</span>** Quickies to attempt to resist some, if not all, of the incoming Hurtin’ and Infection. He spends one token to start the first Quickie, drawing two cards (his **<span style="font-variant:small-caps;">Grit</span>** rank): an Ace and a King! Woot! He resists two of the Hurtin’ (one for each face or ace drawn), and decides to take the third. He then spends another token to try a **<span style="font-variant:small-caps;">Grit</span>** Quickie to resist the Infection, drawing a five and a nine. Oh no! It looks like Roger is now on the spiraling path to zombification!
+
+### Optional Rule: Quickie Difficulty
+
+In most situations, a simple face-or-ace success is satisfactory to win a Quickie. However, the CiC might feel that in some circumstances, the chances are a bit tighter. Kicking in a dead-bolted door might be doable with a simple **<span style="font-variant:small-caps;">Kill</span>** quickie, sure, but getting past an electrified fence or a sealed security door at a military bunker might be a whole other realm of difficulty. For situations like this, the CiC can choose to evoke the two grades of tougher Quickie difficulties.
+
+The first grade of increased difficulty is called the **<span style="font-variant:small-caps;">Royal Pain</span>**, and requires Queens and Kings. In order for the player to succeed, she must draw Kings and Queens – Jacks and Aces just won’t cut it. The second (and highest) grade of increased difficulty is called the **<span style="font-variant:small-caps;">Longshot</span>**, and requires Aces – so the player fails unless they have one or more Aces in their draw. So from the previous example, the dead-bolted door would be a normal Quickie, the electrified fence a Royal Pain Quickie, and the security door a Longshot. **In both situations, Jokers are wild**.
+
+## Card Mechanic #2: The Showdown
+
+Whenever any player’s choice of narration (and this includes the CiC) is directly contested by any other person at the table, a Showdown begins, and the mechanics of the game enter play. To initiate a Showdown, the contesting player must state “I challenge you!” At that point, the contested player can choose to commit or relent. If they relent, then the contesting player narrates the outcome instead, although of course than anyone can choose to counter-challenge that new narration. In any case, if players commit to a challenge, then the Showdown officially begins. **Once a Showdown begins, you are committed, and cannot relent until the cards are all played!**
+
+A Showdown is a quick card battle played out between the contestants. Players go back and forth, playing higher cards and adding more dramatic smack-talking narration until one side wins. Chances are, the Showdown will most likely involve some bad-ass combat, with some crazy moments of bloody carnage. Don’t worry, this is intended!
+
+### Showdown Flow
+
+There are ten quick steps to each showdown. This may seem like a lot, but in truth each step is a quick moment or two of action or decision, and once you get the flow down you will notice your Showdowns flow by with a quickness (crazy narration considered, of course!).
+
+#### Step 1: State Actions
+
+Once a Showdown has been declared and accepted, both sides state their action. The player who initiated the challenge states their intended action first, telling everyone what they’re doing. The challenged player follows suit. The stated actions should, of course, obviously conflict.
+
+When stating your action, you should focus on the actual action part of it, and not what you intend to accomplish with that action. Stating “I run across the room screaming at him, sword in hand” is acceptable, but stating “I run at him and cleave him in half with my sword, screaming maniacally as I eat his flesh” is not. Leave the outcome open to the interpretation of the winner.
+
+#### Step 2: Draw Cards
+
+Once the actions are fully stated, the CiC tells each side which of their Characteristics apply to their action. The CiC then deals each involved player a number of cards from the deck equal to their rank in that Characteristic. Do NOT look at them just yet!
+
+If a participating player has no ranks in the relevant Characteristic, they can only participate by using Gear and/or Negotiating with their Mad Half (see below for details on both). Either side can boost their initial draws with Gear or Negotiation, but once the cards start being played, no more can be drawn. Again, there is no Hand limit, which means that it is entirely possible for characters to skate along (and win!) entirely on their own Gear and Crazy-go-Psycho.
+
+#### Step 3: Gear and Allies
+
+Once each involved player has their cards face-down in front of them, they can choose to evoke any of their Survivor’s (or Threat’s!) applicable Gear, provided they can narrate how their survivor is directly applying that Gear. You can choose to either Activate or Sacrifice your Gear in a Showdown, but you *can not* do both at once.
+
+If you Activate, you can pick a piece of Gear and, narration permitting, evoke that Gear for a single bonus draw, pulled from the deck and added face-down with your other cards. For each rank in your **<span style="font-variant:small-caps;">Savvy</span>** characteristic, you can choose to Activate another piece of Gear, with each one giving you another bonus draw, provided you can narrate the Gear’s applicability. Note that if you intend on applying a Custom Weapon’s Hurtin’ bonus to the outcome of this Showdown, you *can not* also Activate it for a bonus card at this point – you must decide which is more important: bonus cards or bonus Hurtin’.
+
+If you instead choose to Sacrifice, you can pick a single item of your Gear list and destroy it for an immediate four-card bonus to your draw. Again, you must be able to acceptably narrate the sacrificing of the Gear.
+
+Allies are special, and can be evoked regardless of how you choose to use your Gear. See the Allies section on page 76 for more information.
+
+#### Step 4: Consider Your Hand
+
+Now each player can pick up their cards and look at them. Take a quick moment to consider your strategy for this Showdown, and how effective your current hand of cards is for helping you achieve that.
+
+#### Step 5: Negotiation
+
+Do you feel that you need more cards? If so, you’re going to have to negotiate with your Mad Half for more. This involves you practically begging them for more cards. Should your Characteristics be low and your Gear be non-applicable, then you will *have* to do this if you want more cards, and a better chance of success.
+
+Negotiating is a separate process described in the Mad Half section (see page 91). Note that if your character is already at Stage 5 on the Meter, then you *can not* Negotiate for more cards until you somehow raise your Madness stage back to a higher level.
+
+#### Step 6: Play Cards
+
+Once you have your final Hand ready to go, it’s time to play the cards. The initiating player starts by playing a card face-up on the table, and then the challenged player plays a higher one (by rank and then suit) face-up. The initiating player can then return by stating how they are “**<span style="font-variant:small-caps;">Stepping it Up</span>**,” narrating how their action is being intensified, and then playing another card higher than the one their opponent just played. The challenger can then follow suit, if able. Stepping It Up is essentially a game of back-and-forth smack-talking, wherein each participant narrates a bit more oomph into their action.
+
+When you step it up, your extra narration of each additional card you play is *crucial* to the flow. In order to play an additional card, you *must* Step It Up, and in order to Step It Up, you *must* be able to play a higher card than the last player’s. It makes these card battles all the more fun, and can get some really evocative smack-talking to happen.
+
+#### Step 7: Determine Winner
+
+Play continues back and forth like this, with each player stepping it up and playing another card, until one side cannot beat the other side’s played card. At this point, the Showdown is over, and the player with the last-played card has won. Any cards played remain in the Play Pile. Any cards left in the hands are discarded, face-up, into the Discard Pile.
+
+#### Step 8: Apply the Results
+
+Whichever player wins now gets to narrate the outcome of the Showdown. Their initially-stated action succeeds and all of their “Steppings” should be factored into this narration, and they can now use the cards played by both sides to add additional effects to the outcome.
+
+The cards played by everyone during the Showdown are now used to determine the results of the conflict. Cont the played card: each card in the pile translates into a single point of **<span style="font-variant:small-caps;">Hurtin’</span>** generated, which the winner can deal out to her opponents. Hurtin’ can be applied as damage in offensive Showdowns, but is otherwise useless in most other Showdowns. Different weapons and effects may drastically modify this damage output. Some weapons may do bonus damage, others may multiply it, and others have different effects altogether, so factor them in too. See Page 61 for the rules on using Hurtin’.
+
+Additionally, if there are any Aces or Faces in the pile, the victor can choose to exchange them to either buy **<span style="font-variant:small-caps;">Facts</span>** or gain Survival Tokens. Cards thus exchanged take away from the Hurtin’ total, but they have their own special rewards. Remember: Jokers count as two such cards! Read below for the details.
+
+##### Exchanging Cards for Facts
+
+Each Fact purchased allows the character to add a little something extra to the scene’s current narration, above and beyond the success of their stated action. For example, if Carla just succeeded in diffusing a bomb that was about to kill everyone, she could then use a Fact to narrate how she was also able to completely recover the C4 and the blasting materials for later use. Here are some other examples:
+
+* As I punch him, I grab his gun and wrench it from his grasp.
+* Once I dive out the door, the building collapses behind me!
+* After killing the zombies in the shower room, I find my kid brother hiding in a locker!
+* After climbing the dangerous rubble, I run into another group of flesh-starved demons, OMG!
+
+The player can pretty much narrate anything as a Fact provided it somehow fits within the scope, theme, and feel of the game and the scene at hand. There are some set limits, though:
+
+**Players cannot narrate the death of another specific character**, *as long as that character has Characteristic scores or was paid for using Adversity tokens*. The deaths of these characters must be determined by weapons, dangers, and Hurtin’. However, if the character in question is only “background color” of the current scene (i.e., a “wallflower”), and has no Characteristics or Threat, he can be slain at will through narration. (“Sadly, while I carved through the monsters with ease, one of them managed to bite the head off of poor Wilson before I could kill it.”)
+
+**You can narrate any kind of wound or hardship to be inflicted upon the losing opponent, and they must role-play it from then on.** However, it does not cause actual Hurtin’ or Characteristic damage unless the damage rules say so. But keep in mind: sure, if you cut their trigger hand off, they may still somehow have all their Characteristic ranks, but they won’t be able to use that gun anymore. (“My sword cleaves off his arm as well, and he stands there clutching it as blood spurts out like a fountain.”)
+
+**If your narration includes something that the CiC decides directly affects the other characters, those other players must agree to it.** If they don’t, either re-phrase it or take it to another Showdown with the affected parties.
+
+Otherwise, go to town. You are encouraged to go wild and crazy when narrating your Facts. Destroy the environment, blow things up, create histories that weren’t there before, and so on. If you want to narrate that a crushed VW Microbus crashes through the wall and breaks someone’s leg, go for it (although that would probably be two separate Facts, one for the bus and one for the broken leg). It is advisable to have the narration make sense within the context of the scenario, unless you all agree that it is going to be one of *those* kinds of games.
+
+##### Exchanging Cards for Survival/Adversity Tokens
+
+If the victor chooses to exchange face-or-ace cards for Survival Tokens, each *single* card thus exchanged gives him *one* bonus token. If the CiC wins, he can choose to exchange faces or aces to directly increase his Adversity Pool on a one-for-one basis.
+
+#### Step 9: Check Juice Tallies
+
+Once the results are applied, anyone who used a Juice-requiring Gear should compare the highest-played card to their Gear’s Juice Tally. If the card’s rank is greater than or equal to the tally, move on. But if it is less than the tally, the weapon has run out of Juice. See page 66 for more info on Juice.
+
+#### Step 10: Cleanup.
+
+Once the Showdown is resolved, all players put all the cards left in their hands and the Play Pile into the discard pile. The deck is *not* reshuffled unless the cards have run out. If either side used a Juice-requiring weapon, apply the Juice Mod first and then check to see if you’re out of Juice.
+
+> **Showdown Example:** While exploring an abandoned subway station, Jian kicked in an office door to find a trio of diseased cannibals tearing apart the body of a policeman (Screg introduced them as a single entity, Hindrance Role, Threat 5). Hunter (Jian’s player) takes the initiative and announces that he is going to charge in and slice them to zombie shreds. Screg declares that this will require a Showdown.
+> 
+> Hunter has already stated his action, and Screg says it will require the Kill Characteristic (obviously), which Jian has at rank 3. For the cannibals’ action, he states “They lose all interest in the policeman’s corpse and lunge at you, their jaws a-slobberin’ with rottenness.” Screg deals three cards to Hunter, and since the cannibals are Hindrance-Role Threats, he deals himself three cards (Hindrance-role Threats always enter a Showdown with three cards). Hunter decides he wants one more card, so he first chooses to activate his sword as a piece of Gear, giving himself a bonus card to the draw. Since Screg is just using the standard “weapons as Gear” rule, he doesn’t have to worry about losing any particular Hurtin’ bonus.
+> 
+> Hunter still wants more cards, though, so he Negotiates with the Mad half to draw more cards. His Mad Half agrees to let him draw up to two cards, which he does, taking two points of CGP and marking them on his tally. Screg sticks with his three base cards. Both sides satisfied, the play begins.
+> 
+> Since Hunter started the Showdown, he plays the first card. He has an Ace of Diamonds in his hand, and he’s sure he’s going to win with it, so he decides to milk the bad guys for as many cards as he can in order to boost his outcome. He opens low, starting with a four of Diamonds. The CiC also has a pretty good card in his hand, so he plays along, following with the seven of Spades.
+> 
+> If the Showdown is to continue past this point, then Hunter and Screg are going to have to Step It Up. Hunter now plays the nine of Hearts, and states aloud “My sword is razor-sharp; once it enters the fray, there’s nothing can resist its edge.” Screg counters with the nine of Spades (which trumps the nine of Hearts), adding “The policeman just tasted awful to these guys, so their hunger is even more intense and it drives up their intensity to rip you to shreds.” Back to Hunter, who plays the Jack of Clubs, and says “Their intensity pales in comparison to the relentless will that drives my zombie-slaying survival instincts.” Screg again counters, playing the King of Spades and saying “That’s too bad, because your survival instincts fail when matched against their superior primal instincts.” Screg thinks he’s won, but now Hunter lays down that Ace of Diamonds, stating “Primal instincts be damned! With a whirl of wind and a flash of steel, their heads are removed and I stand victorious.”
+> 
+> Hunter came out victorious, so he counts the total number of cards in the Play Pile: Seven! Four of the cards in the pile are numerical, with two faces and an ace. Hunter applies five of them (the four numbers and the Jack) as points of Hurtin’ to the cannibals, in addition to whatever Hurtin’ bonus his sword might apply. Five is enough to eliminate their entire Threat score! Hunter takes the narrative reins as a result of his success and states “I charge into the room, leap and slide across the desk and land right on top of the cannibals. I stand in a dramatic pose and immediately start spinning with my sword, all chop-chop murderiffic action and such. In mere moments, their heads are flying into the air in a slow, almost synchronized dance of blood and gore, their hungers eternally quelled.” He then uses one of the two remaining face cards to add a Fact to the scene: “When the blood is settled, I notice a gun, a walkie-talkie, and a ring of keys on the dead cop’s belt.” He trades in the other remaining face card for a bonus Survival Token.
+> 
+> The five points of Hurtin’ completely eliminate the zombies as a viable Threat, and the additional Fact allowed Hunter to throw a weapon and some extra gear into the scene. Additionally, he was able to acquire a new Survival Token. Sweet!
+
+### Who’s Next?
+
+When the Showdown is resolved, anyone else can take actions of their own. Whoever states their response first, acts first, and is considered the “challenging” player for the new follow-up Showdown. Let everyone have a turn at the action before anyone takes a second or third go. It’s usually easiest to just go around the table in order of seating.
+
+### Multi-Player Showdowns, or “Us Against Them”
+
+The standard Showdown process makes it quite possible (and easy!) for multi-player Showdowns. Playing with three or more players follows the exact same rules, and can lead to some crazy Showdowns. If there is more than one character involved in an in-game conflict, be they working together or all against each other, the rules work the same.
+
+When multiple players are participating in a Showdown, the play starts with the challenged player and moves along to their left. Everyone states their actions as normal, narrates their stepping-ups as normal, and resolves the outcome as normal. Players can choose to work together and strategize, but they ***can not*** show each other their cards. Once the cards start playing, however, there can be no more inter-player strategizing. Once participants start playing, again the flow goes around the table until no one can trump the last card played. You can’t skip a turn, either; once you can’t beat the last-played card, you can no longer affect the winning decision by playing any new cards.
+
+Like any other Showdown, the winner narrates the outcome. If other players were helping the winner out, he can choose to consider their assistance in his choice of outcome narration, or even allow the assisting players to chime in for themselves. If, for example, he was assisted by another fellow combatant, she can include not only the effects of her weapon in the final Hurtin’ count, but their weapon as well. This makes multi-player Showdowns pretty ideal for resolving big multi-character combat scenes with just one or two hands. It can also make it pretty damn painful to get ganged-up on by a large number of opponents.
+
+Hurtin’ and Facts are handled as per normal rules. If the winner of a combat-focused Showdown was against multiple players, she can choose to divvy out any of the Hurtin’ generated to her opponents as she sees fit (although the victims still get to pick which Characteristics take the hits). The winner can choose to use faces or aces to generate Facts and reduce CGP points, and dole them out to participants as she sees fit.
+
+Note that if the CiC is controlling multiple Threats in the same Showdown, and they are working together, then their Hands are added together into one big Hand. Thus, two separate Hindrances give the CiC a hand of six cards, three for each Hindrance!
+
+> **Multi-Player Showdown Example:** Jian (played by Hunter) has joined up with Carla (played by Vera), and they’ve been cornered by another pack of cannibals (Hindrance, Threat 10) in the sewers beneath New York. Once the cards have been dealt and the characters have Negotiated for bonus draws, Hunter has four in his hand, Vera has six, and Screg (the CiC) has four. Since the zombies initiated, Screg leads with a three of Diamonds, Hunter (to Screg’s left) plays a three of Hearts, Vera a three of Spades. They go around the circle once more stepping it up, and when it gets back to Screg, six cards have been played and he finished with an Ace of Spades. That’s a final play of seven cards, which he can choose to divide between Jian and Carla as he chooses. He sends four Hurtin’ at Jian and three at Carla, who then get to determine how it is applied.
+> 
+> Jian and Carla then decide to return the love, launching a counter offensive against the zombies. Another round of hands is dealt, and after three rounds of card-plays, Carla wins with the ninth card, a King of Clubs. That’s potentially nine points of Hurtin’ coming at those zombies! Nice!
+
+### What Characteristic Do I Use?
+
+If you wish to use violence, hurting, direct action, and force to overcome the conflict, use Kill. If you wish to approach the obstacle from unexpected angles, use the environment, assist your allies, hack the mainframe, or otherwise use guile, wit, resourcefulness and insight to overcome the conflict, use **<span style="font-variant:small-caps;">Savvy</span>**. Sometimes the situation is pretty obvious – usually, if your intention is to cause direct Hurtin’ to a person, place, or thing, then you use use **<span style="font-variant:small-caps;">Kill</span>**, and if your intention is to bypass a conflict or challenge through less direct means, then you use **<span style="font-variant:small-caps;">Savvy</span>**.
+
+### Showdown Strategies
+
+The main strategic decision in a Showdown is when to play your highest card. Ask yourself the following question: “Do I want to win *Big*, or do I want to win *Now*?” You can play early and try to win ASAP, or save it and hope to win later and increase your outcome. However, if you hold off, you could make your opponent’s success all the more powerful. If you play high early and you fail, you’ve at least limited your opponent’s outcome. On the other hand, if you’re sure you have a nigh-unbeatable card, holding off on it until the last possible moment can backfire should your opponent actually beat it. The more cards played, the more potential Facts and Hurtin’ you can generate by winning.
+
+Another strategy involves the effective management of your Crazy-Go-Psycho levels. By successfully Negotiating with your Mad Half, you can acquire points of CGP for the *chance* of one or more better cards to help you win the Showdown. By gaining a lot of CGP you can definitely work to increase your chances of success, but you can also limit your future effectiveness in the game as your sanity grows ever the more fragile. Sure, faces and aces in a winning hand can allow you to eliminate some of those CGP points, but in order for that to happen, not only must there be aces or faces in the play, but you’ve also got to win in the first place.
+
+## Hurtin’: How to “Bring It”
+
+If you win a Showdown and your narration involved dealing bodily harm to another character (or pack of zombies), then you can potentially deal damage to your opponent, based on the cards in the Play Pile and possibly what weapon you are currently using. Upon winning a Showdown with any cards in the Play Pile, you can choose to cause some hurt to your opponent.
+
+In order to cause Hurtin’ to an opponent, your initial statement of action must have included an obvious statement of your intent to harm. If the CiC or the opponent do not agree that it did, and you want to use your results to hurt them, the only way to do so is to spend one of the aces or faces in the play pile to create a Fact that somehow turns the outcome into one of pain and suffering (for your opponent, at least). Doing so is the same as any Fact, and you must narrate how the original action was turned into an attack of some kind. This is most likely to happen when you are the defender in a Showdown, and your initial statement was merely to get the hell away.
+
+The base damage of any attack-based action is determined by the Hurtin’ generated through that action’s Showdown. That base damage is then modified by the stats of the weapon or maneuver being used by the winner. The damage is immediately applied to the opponent as a direct and permanent reduction of their Characteristic scores. The opponent chooses how their scores are reduced. If the attack was against a Threat (such as a horde of cannibals), the damage directly reduces its Threat score. When a Survivor’s Characteristic ranks or a Threat’s score are completely eliminated, they are dead.
+
+The actual damages and special effects of the various weapons are determined by the CiC when the weapons are introduced to the session. When the base damage is combined with weapon effects, it is not at all unusual to see your opponents slaughtered ruthlessly before your eyes as your Hurtin’ is raised sky-high.
+
+### Resisting the Hurtin’
+
+Fortunately, characters can attempt to nullify some of this damage by tapping into their craziness. At the time the Hurtin’ is received, you can spend one of your Survival Tokens to try a Quickie, using your current **<span style="font-variant:small-caps;">Grit</span>** rank and any additional bonuses you may have from other sources. Count the aces and faces you draw, as each one allows you to nullify a single point of incoming Hurtin’. Like any Quickie, you can Negotiate with your Mad Half for bonus cards if you feel you need them.
+
+CiC-controlled Threats can also try this, with the CiC spending Adversity tokens to allow them a Quickie using their role-based hand size, as well as for drawing any necessary bonus draws.
+
+See page 81 in the Survival Tokens section for more details.
+
+### Removing the Hurtin’
+
+Characteristic ranks lost to Hurtin’ can be restored by using Survival tokens during the between-scene downtimes. See page 83 for more details.
+
+### Biting the Bullet
+
+Violence in ***Cannibal Contagion*** can be quite deadly. This is intended. If you experience an entire multi-hour gaming session without anyone dying, then either your players are really frickin’ awesome or your CiC is really frickin’ lax, or both.
+
+As the game progresses and the Showdowns are played out, your character will very likely suffer many points of Hurtin’, which directly reduce your Characteristics. When your character runs out of Characteristic ranks, her death is an imminent and unfortunate fact. Either immediately upon having your ranks eliminated, or at least very soon thereafter, your character should suffer some form of grisly, disturbing, and/or hilarious demise. The other Survivors should be encouraged to react to this, and possibly change the focus of the scene to how they decide to deal with your death.
+
+Fortunately, character death is not the end of the line for you in a game of ***Cannibal Contagion***. When you eventually reach that crossroads, there are several options available to you, including making a new Survivor, turning an existing Ally into a Survivor, or even continuing play as an Infected cannibal.
+
+#### Creating a New Survivor
+
+Should you wish to keep on fighting the good fight, you can easily just stat up a new character (the random character generation rules are great for this) and jump back in when the CiC deems it dramatically appropriate. Introducing a new character usually requires the player waiting for a new scene to be framed, unless the CiC thinks a new character can easily be introduced on the fly during the current scene, perhaps by simply converting an existing “wallflower” character. The rules for creating this new character are the same as for creating any other Survivor. Keep playing the game with your new character and enjoy the quest for survival.
+
+#### Promoting an Ally
+
+You can even take over the role of any Allies that might have been previously narrated into the game. In such a case, quickly give the Ally some Characteristics and a Crazy-Go-Psycho meter (they start with a number of CGP determined by the CiC). If the Ally has taken any Hurtin’ previously, then be sure to subtract that amount from their newly-assigned Characteristic ranks before continuing. Their previous Ally Rank becomes their new starting Survival Token stash.
+
+#### Playing a Turned Survivor
+
+But what if your Survivor has become Infected and turned by the game’s Contagion? Usually this means that she becomes a turned Threat under the control of the CiC. But if the CiC is cool with it, you might be able to keep playing as the infected cannibal version of your old character. If this is something both of you think would be fun, then ask the CiC how it is done (the rules are in the CiC section of this book). A planned future supplement will cover rules for playing an entire group of infected Cannibals, and turning the tables back around on those pesky Survivors!
+
+## Gear and Weapons
+
+Gadgets, swords, medkits, gas masks, toboggans and more, when you’re trying to survive against the cannibals hordes, you need to be well-equipped. In a game of ***CC***, there are two types of equipment that have any mechanical importance: **<span style="font-variant:small-caps;">Gear</span>** and **<span style="font-variant:small-caps;">Weapons</span>**.
+
+### Gear
+
+Gear in ***CC*** is considered any tangible item or possession that could somehow be used to help you do stuff. Cars, medical supplies, survival kits, flares, crowbars, trench coats, life jackets, beer steins, ancient scrolls of divine protection, ammo boxes, Kevlar vests – these are just a few examples. In ***CC***, just about *anything* can be considered gear with the right narration and the CiC’s consent. When you acquire new Gear, write it on your character sheet. You can call upon your Gear in Quickies and Showdowns to draw extra cards to help you win, provided you are able to convincingly narrate how that Gear is helping you out.
+
+Gear can be used in a Quickie or Showdown for bonus cards drawn before the play. You can use any one piece of Gear for one of two different results. You can choose to **<span style="font-variant:small-caps;">Activate</span>** a piece of Gear for a single card bonus to your draw. Doing so allows you to keep that Gear through to the next scene (aside from any other circumstances which might remove it from your possession, of course). Unless the Gear specifically requires Juice (see further below), you can activate this piece of Gear an unlimited number of times during a scene for a bonus draw. Instead of activating and Gear in a test, you can instead choose to **<span style="font-variant:small-caps;">Sacrifice</span>** a single piece of Gear, removing it from your possession permanently in exchange for an immediate **four-card** draw bonus to your current Quickie or Showdown. You *must* declare which effect you are using *before* you draw the bonus cards during the Showdown.
+
+Any time you use Gear, you must be able to satisfactorily narrate exactly how the Gear is being used. You must state aloud how you are throwing that Gas Can to try and add more damage to your attack (most likely a sacrifice). You must narrate how those awesome lockpicks bypass that complex security door (activate). You must be able to describe how that bulletproof vest is giving you extra protection against that magnum (activate). Gear that cannot be evoked to the satisfaction of the CiC cannot be used – just having that “Lucky Hat” won’t give you any extra oomph, for example. You have to be able to narrate exactly *how* it is helping you.
+
+Here are some common examples of Gear use:
+
+* Use a “Car” Gear in a Showdown to help run down some Bad Guys
+* Use a “Bulletproof Vest” Gear to help a **<span style="font-variant:small-caps;">Grit</span>** Quickie after getting shot by a zombie cop.
+* Use a “Nightvision Goggles” Gear in a Showdown to help your aim in the darkness.
+* Use a “Whiskey Flask” Gear in a **<span style="font-variant:small-caps;">Cool</span>** Check to help yourself stay calm by taking a long swig of that Tennessee Red.
+
+Any gear can be sacrificed with the right flavorful description. A car can be sacrificed by gunning the motor so hard that it kunks out, a medkit can have its supplies exhausted, an ammo case can be emptied, armor can be so riddled with bullet holes it is rendered useless, and so on.
+
+### Running Out Of Juice
+
+Some articles of Gear have a **<span style="font-variant:small-caps;">Juice</span>** requirement, which is simply a Yes or No as to whether or not that item needs Juice (and a number telling how much Juice it uses). Juice is an all-encompassing ammunition trait, and all items that need “fuel” of some kind handle it in pretty much the same way, mechanically. For example:
+
+* Weapons that require ammo (guns, chainsaws, flamethrowers, grenades, etc)
+* Equipment that requires power (electronics, cars, flashlights, radios, etc)
+* Vices that are limited (drugs, smokes, booze, etc)
+* Materials that can be exhausted (medkits, food, cleaning supplies, etc)
+
+When introducing Gear, give it a name and determine if it requires Juice, and if so determine its **<span style="font-variant:small-caps;">Juice Cost</span>**. A small medkit might have a J4 cost, a sawed-off shotgun a J6 cost, and a pack of smokes might have a J1 cost. In any Quickie or Showdown in which you use a piece of Gear that requires Juice, be your cards successful or unsuccessful, you should mark one or more tallies for that item’s Juice, based on the Gear’s Juice Cost, if any; a shotgun with a J5 stat, for example, gains five Juice tallies each time it is used. Should your actual highest-played card ever be ***lower*** than this number, then you have run out of Juice, and cannot use that Gear again until you somehow acquire more Juice. In certain cases like expendable items (grenades, smokes, booze, etc), you should erase the Gear off your sheet entirely.
+
+Should you run out of Juice in this fashion, you can choose to spend a Survival token to attempt a Juice Check. This is a standard **<span style="font-variant:small-caps;">Savvy</span>** Quickie, and you can try and Negotiate for more cards (certain special Gear might help out, too). If successful, then you did not run out of Juice, and you can drop your current Juice tally by the number of faces and aces you drew. If a Joker, your Juice tally is eliminated completely.
+
+Otherwise, you’re out of Juice; it’s time to find more Juice or get yourself a new piece of gear. Either the CiC can narrate at a later time that you find some ammo or batteries or some such which help you out, or you can do the same later via cleverly-applied Facts. Finding more Juice in this way allows you to freely attempt another Juice Check (as described in the previous paragraph).
+
+> **Example**: Carla has been blasting away with her shotgun for several consecutive Showdowns. Her Shotgun has a Juice stat of +4, so every time she uses it in a Showdown, her player (Vera) marks down four Juice tallies. The first time she uses it, after all has been resolved she marks in four Juice dots next to the gun on Carla’s sheet. The next Showdown, she uses it again, and since her final card if a Nine of Clubs (which is thankfully higher than her current Juice tally of 4), she is not yet out of Juice, and marks down another four tallies (total of eight). In the next Showdown, she uses the Shotgun yet again, and this time her final card is a Seven of Spades, which is lower than her Juice total. This means she has just run out of Juice!
+
+Vera decides to try a Juice check after the Showdown is resolved. She spends one of her Survival Tokens in order to make a **<span style="font-variant:small-caps;">Savvy</span>** check. Her **<span style="font-variant:small-caps;">Savvy</span>** is currently at three, so she draws three cards, getting a Two of Diamonds, and the Jack and Queen of hearts. Basic success means that she doesn’t run out of Juice, and the two faces also reduce her Juice tally from eight to six.
+
+In a later scene, Vera wants to find some more ammo. Carla and her crew are in the sporting goods section of an abandoned and mostly-looted TargoPlexMart. Vera thinks Carla should be able to try and find some more Juice, and Screg allows her to try another Juice Check for free, saying that this one was known to have a firearms display in the sporting goods department. Vera makes another Juice check, drawing three cards (based on Carla’s **<span style="font-variant:small-caps;">Savvy</span>**). She gets one face – an Ace of Diamonds. This reduces her shotgun’s current Juice tally from six to five. Vera says that Carla finds a handful of shells that rolled underneath a broken cabinet, just enough to give her a few more uses.
+
+### Acquiring and Losing Gear
+
+Gear can be acquired pretty much anywhere and at any time, with the CiC’s permission. If you are searching in the game and you find a crowbar, for example, then you can feel free to write it down on your sheet as a new piece of Gear. If you are specifically looking for some Gear in the game, the CiC might require you to make one or more Quickies in order to uncover something.
+
+Likewise, Gear can be taken away or lost at any time, too. The most common times for this to happen are either at the beginning of a new scene *(”Ok, you guys are now running through the halls of the asylum, you’re each wearing only a hospital gown, since your other stuff was all taken from you by the scientists when they captured you. Erase all your Gear!”*) or as a result of Facts at the end of a Showdown (*“I hit him so hard his helmet shatters into a million pieces!”*). Note that if the CiC takes away your Gear between scenes, it costs her Adversity Tokens (see page 132).
+
+If the acquisition of Gear is narrated, write it down on your sheet and enjoy the spoils of your efforts. Likewise, if your Gear is taken away, erase it. Don’t forget to keep track of your Gear slots!
+
+#### Situational Gear
+
+It’s possible to use random bits of scenery as Gear, too. For example, if you’re in a middle-management office fighting a zombie, you can expect to find all sorts of office supplies, a desk, a chair, a computer, etc. You can easily narrate that you grab, say, a paperweight and smash it over the head of the zombie. With the CiC’s permission, that can even give you bonus draws.
+
+### Special Requisite Gear
+
+The CiC might rule that for some actions or proposed Quickies, it is necessary to use or possess certain types of Gear. A door might require a special “Crimson Key” Gear in order for the characters to open it. A character might find a special “zombie cologne” gear that makes it impossible for the cannibals to attack her. The launch silo will let them use its resources, but only if they possess the “Operator’s Manual” and are able to crack the codes within it by using the “Dangerous Digital Interpreter.”
+
+For example, the normal rules state that you can spend a Survival Token to try a **<span style="font-variant:small-caps;">Grit</span>** Quickie in order to resist incoming Hurtin’ from any source. However, the CiC might decide that this rule only applies to non-ballistic attacks, and that in order to perform such Quickies against guns, your character must have special protection, like a Gear called “Kevlar Vest.” Or instead, he might decide to let you try to test without spending a token at all.
+
+### Recovery Gear
+
+With the CiC’s permission, some Gear can be sacrificed during the between-scene downtime for small token bonuses when trying to recover lost Characteristics and remove CGP points. These items will be noted as “recovery” items, and when sacrificed between scenes they can add bonus tokens to the costs required to recover. See page 83 for more details on using Survival Tokens and recovery items.
+
+### Gear Limits: No, you can’t carry 20 rifles, Splick!
+
+The Survivors have a limit to the amount of Gear they can carry. A lot of survival horror video games enforce this, and while some games tend to do it in a rather frustrating manner, it can frequently help establish a feel of desperation. This rule limits the effective Showdown-winning power of the Survivors, and forces them to take more care with arming themselves for their upcoming fights against the cannibal hordes.
+
+Each Weapon and piece of Gear takes up one or more “slots” of your character’s inventory. Different items and weapons will take up a different number of slots, although if the CiC wishes to keep this mechanic on the ridiculous side, she can just say that every item takes up a single slot, regardless of its shape and size. Each character is limited to a number of items equal to twice their **<span style="font-variant:small-caps;">Savvy</span>**. Why **<span style="font-variant:small-caps;">Savvy</span>**? Because characters with higher ranks in that will know how to more effectively stow their stuff on their person, that’s why. Yes, this means that a Survivor without any ranks in her Savvy will not be able to carry Gear, unless she uses an item that gives her more slots.
+
+Additionally, certain items give a small boost in storage capacity, like satchels, packs, and bags. Each of these items grants a number of bonus slots (two or more) to the character’s Gear limit. Of course, should the container be lost, everything inside it would be lost, too. Also, as a general guideline, the CiC can rule that any pieces of Gear that can be suitably worn (vests, gas masks, gloves, hats, sunglasses, combat boots, etc) do not take up slots while worn.
+
+Included below is a list of various example weapons and items and a suggested slot size (or modifier) for each one. Any entry with an plus sign next to its number does not use slots, instead giving you additional inventory slots equal to the listed number.
+
+| Gear        | Slots | Gear          | Slots | Gear          | Slots | 
+|-------------|-------|---------------|-------|---------------|-------| 
+| 2x4         | 2     | First Aid Kit | 1     | Pocket Tool   | 1     | 
+| Backpack    | +3    | Flashlight    | 1     | Rope          | 2     | 
+| Bazooka     | 3     | Garden Hoe    | 2     | Rusty pipe    | 2     | 
+| Binoculars  | 1     | Gas Mask      | 1     | Shovel        | 2     | 
+| Car Keys    | 1     | Grenade       | 1     | Survival Vest | +2    | 
+| Coat Hanger | 1     | Handgun       | 1     | Sword         | 2     | 
+| Crow Bar    | 2     | Hunting Rifle | 2     | Walkie-talkie | 1     | 
+| Fanny Pack  | +1    | MRE           | 1     | Zippo lighter | 1     | 
+
+### Weapons
+
+When battling against the cannibal hordes, you’ll need a good weapon if you want to survive; arsenals are even better. In ***CC***, a good weapon can make all the difference between horrible death and grim survival, and in this section you will learn how to create and use just about any weapon you can think of.
+
+In ***CC***, there are two main methods which you can use to handle weapon mechanics in-game. The first and easiest method is to simply use weapons as if they were special Gear, giving you bonuses to relevant Showdowns when using those weapons. If you play them like this, the weapons can be called just like normal Gear, giving you a *single* bonus card when activated or *four* bonus cards when Sacrificed. The CiC can arbitrarily deem some weapons to give more of a bonus than others, and some weapons to only be usable as sacrifices (such as grenades and Molotov cocktails).
+
+If you’re looking to place less in-game emphasis upon gathering weapons, and want to play a game with more focus on story and survival than on first-person shooter-style murdering and loot-grabbing, then I suggest using the Gear method. It will allow you to spend less time dealing with weapon mechanics, and more time coming up with conflicts of a more character-personal basis as the players think less about combat and more about the survival and goals of their characters. However, if you want a lot of high-octane butt-kicking with wild and crazy weapons, keep reading.
+
+#### Custom Weapons
+
+The second method of weapon implementation in ***CC*** involves the creation of random and/or custom weapons, and can give your games a much heavier dose of crazy carnage than the Gear method. Using these mechanics, weapons have multiple in-game statistics that affect cards drawn in Showdowns, Hurtin’ dealt with successful plays, how much Juice the weapon can use before it runs dry, and more. By allowing the custom weapons into your game, you are letting the players know that this game will have a lot of action, and you’re cool with that.
+
+With this system, weapons now possess their own special category of mechanics. Weapons will have a handful of variable stats that can be predetermined or drawn completely at random. With the custom weapons option, you may find that randomly statting-out your weapons can be a butt-load of fun all by itself.
+
+##### Introducing Custom Weapons
+
+Using the custom weapons system, new weapons can be introduced in one of three manners:
+
+* The CiC lets a player start with a weapon
+* The CiC narrates the discovery of a weapon
+* A player narrates the discovery of a weapon when they win a Showdown.
+
+The CiC can introduce a weapon at any time she feels appropriate. They can be brought into the scene by enemies, found in hidden caches, dropped by magical flying weapon fairies, or introduced in just about any other way the CiC feels works best for the game. Players can also introduce them with Facts when they narrate their Showdown success, although players who do so too frequently should not be surprised when their CiC picks on them. Players can also acquire them between scenes, using Survival Tokens (see page 83 for more details).
+
+##### Weapon Stats
+
+The following is a list of all the various weapon stats in a custom-weapons game of *Cannibal Contagion*:
+
+* **Draw Bonus:** This sets how many bonus card draws you get in Showdowns *activating* this weapon as a piece of Gear. Note that if you activate a weapon as Gear, you cannot use any potential Hurtin’ bonus in the same Showdown!
+* **Hurtin’ Bonus:** This sets how much bonus Hurtin’ you deal when you win Showdowns using this weapon.
+* **Juice Cost:** This sets how much the weapon’s Juice Tally increases with each use. If this is written as a fraction such as 1/X, then the weapon gains 1 Juice tally after every X uses. Obviously, if the weapon is one that does not realistically require Juice, then this stat is ignored.
+* **Special:** Some weapons have extra-special modifiers, powers, and circumstances. Some of these effects are beneficial, some are detrimental.
+
+When using the Custom Weapons option, you can choose to implement any or all of these special weapon stats. If you only care about the Hurtin’ Bonus, for example, then forget about the rest and only determine that stat.
+
+When a weapon enters the game, as the CiC you can choose to either assign any or all of the weapon’s mechanical stats, or you can use card draws to randomly stat it up. When doing this, draw a card for each of the stats that you wish to randomly determine, and then compare those cards to the random weapon table in the back of the book. If you like, you can even choose to give it a random special effect of some kind, just to make it more interesting.
+
+For example, let’s say you’re running a game and you decide to throw in a sword that the characters find in a museum. Instead of just giving it appropriate stats, you figure it would be fun to randomize it. You draw three cards: one for Hurtin’, one for Draw bonus, and one for a special effect (just ‘cause) – none for Juice, of course, because it’s unlikely that a sword would need Juice. You draw a nine, a seven, and a four. From left to right, the nine gives the sword a Hurtin’ bonus of +2, the seven gives it a Draw bonus of one, and the four makes it Lame (ouch!). Quite an interesting weapon indeed!
+
+Once you’ve determine the weapon’s modifiers, right down the weapon’s name on your character sheet, and in the “Notes” section jot down any modifiers or abilities that may have turned up.
+
+##### Special Qualities
+
+When drawing on the weapon chart, you can choose to also use the Special Attribute column to give the weapon an additional odd trait of some kind. Some of these are beneficial to the user, while others make the weapon less effective or are otherwise detrimental. The list of abilities are as follows:
+
+* **Ammo hog**: Juice checks costs 1 more Survival Token gain than normal
+* **Dial Goes to Eleven**: Spend Survival token, increase all stats by +1 for a single Showdown (Draw, Hurtin’, and Juice Cost)
+* **Disposable**: Cannot replenish Juice in any way
+* **Easy to find ammo**: +1 **<span style="font-variant:small-caps;">Savvy</span>** for all Juice Checks
+* **Hard to find ammo**: -1 **<span style="font-variant:small-caps;">Savvy</span>** for all Juice Checks
+* **Knock-off**: Does 2 less Hurtin’ than normal
+* **Lame**: Requires the expenditure of a Survival token each time it is used
+* **Last resort**: Requires an Ace to do Hurtin’, but does x2 total Hurtin’ if successful
+* **Penetrating**: Opponent cannot make **<span style="font-variant:small-caps;">Grit</span>** checks to nullify Hurtin’
+* **Psychobilly**: Can take CGP points to cause extra Hurtin’, one for one, up to 4
+* **Recharging**: Remove 1 Juice tally at end of each scene
+* **Scary**: Each successful attack against a Survivor causes them 1 point of CGP
+* **Self-destruct**: Can be sacrificed after Showdown to double total Hurtin’
+* *Joker*: Draw twice, applying both! (Ignore this if drawn again)
+
+#### Optional Rule: Double-Fisting
+
+Sometimes players may want to use multiple weapons at the same time. If the CiC allows it, this can be done by taking the best attributes of the two weapons, and dividing their total allowed Card Draw by two, rounding down. Any bonus cards drawn by gaining CGP cost double the normal CGP points. Using two weapons in this fashion can significantly boost your CGP meter, but if they’re good weapons they might be totally worth going apeshit and shooting every last mofo in the room.
+
+#### Remember: Weapons are Gear!
+
+It’s important to remember that custom Weapons are still Gear just like everything else. They must be noted in your character’s Gear list with all her other equipment. Like Gear, weapons can be activated for a bonus draw on any Quickie or Showdown, or can be sacrificed for four bonus draws on any Quickie or Showdown. However, if you intend to use any of the custom weapon stats in a battle (bonus Hurtin’, for example, or special powers), then you can not also Activate or Sacrifice it for additional draws. Note that if sacrificed in combat, they ***can not*** use any of the weapon’s other stats in that Showdown, including Draw Bonus and Hurtin’ modifiers.
+
+#### Threats and Weapons
+
+Threats can use Gear and Weapons just like any other character in the game, unless your setting’s nuances deem otherwise. For example, if you’re playing with zombies along the George Romero lines, then chances are the cannibals will be very unlikely to use items. On the other hand, Bad Guys with any capability are likely to be just as equipped as the Survivors, if not better. In fact, Threats can often be good sources of new weapons (kill them all and take their stuff, right?). The characters could be assisted by some soldiers, only to have those soldiers slaughtered by an attacking horde of monsters, leaving the players to grab their weapons and fight back.
+
+## Allies
+
+As the Survivors try to stay alive through the terrors of the zombie apocalypse, they will very likely encounter and recruit like-minded fellows to assist them in their efforts. These folks might be stranded kids looking to get out of a burning building, or road-hardened survivalists in a recreational vehicle, or even battle-trained cops that help escort the Survivors to safety. Whatever the case, they can join the cause of our heroes and assist them in several ways, including bonus cards in Showdowns or even leaping in front of dangers to sacrifice themselves for the sake of the heroes.
+
+Since ***Cannibal Contagion*** is a game focused primarily on the Survivors and the monsters which menace them, Allies will always take a more backseat role to the exploits of the heroes and bad guys. They might lend a hand and help out in some really tight spots, and they might even take bullets that were meant for the Survivors, but they will rarely start conflicts or take major initiatives, instead leaving the spotlight to the players and their characters.
+
+Like Gear, Allies can be narrated into a scene at any time by the CiC without the expenditure of any tokens.
+
+### Allies in Play
+
+Allies are considered “non-player” characters, and are thus narrated by the CiC. Their actions and attitudes and personalities are entirely under the control of the CiC, although he can hand them out to the players if he wishes. It can speed play along significantly if the allies are just assigned to various players to manage.
+
+Mechanically, Allies function as special Gear, with three important functions. The first function is a lot like the regular use of other Gear. Each Ally has two stats, the first being their **<span style="font-variant:small-caps;">Ally Rank</span>** and the second being an associated Characteristic (either **<span style="font-variant:small-caps;">Kill</span>** or **<span style="font-variant:small-caps;">Savvy</span>**). The Ally Rank determines how many bonus cards that Ally can provide in a Quickie or Showdown, while the associated Characteristic denotes which Quickies or Showdowns the Ally can assist. The Ally Rank will be a number from 1 (marginally helpful) to 4 (professionally adept), depending on the competence and intended usefulness of the Ally.
+
+For example, a S.W.A.T. Member Ally with an Ally Rank of “4-Kill” can provide four bonus draws to another player in a **<span style="font-variant:small-caps;">Kill</span>**-based Showdown or Quickie. That same Ally could not, however, help out with any **<span style="font-variant:small-caps;">Savvy</span>**-based tests. If there are multiple participants in the Showdown, the bonus cards provided by an Ally can be divided up as the players see fit. Additionally, should such a situation ever arise, an Ally can attempt a Quickie or Showdown on its own, using its Ally Rank as cards.
+
+> **Example**: Max Benton (played by Splick) is searching the rubble of the military compound for any useful equipment he can get his hands on. Screg says he can try a **<span style="font-variant:small-caps;">Savvy</span>** Quickie to see if he finds anything. Max Benton only has one rank in **<span style="font-variant:small-caps;">Savvy</span>**, and doesn’t have any Gear that can help him out. Fortunately for him, he is accompanied by an ally named Norm (Rank 1-Savvy), so he asks Norm to help him out. Norm is being played by Screg (the CiC), who offers Splick a single bonus draw from Norm’s assistance.
+
+The second core function of Allies is also much like Gear, and is called the Blaze of Glory. Much like Gear can be sacrificed for extra cards, Allies can sacrifice themselves to go out in a blaze of guns and glory. Doing so is just like sacrificing Gear, only the bonus cards you get are double the number of bonus cards that Ally normally provides. Suitable narration is, of course, required. For example, in a violent Showdown, the Ally can charge into the fray with twin machetes, hacking at the enemies but getting bitten in half in the process. Or maybe during a Quickie to help the Survivor lift a boulder out of the way, the Ally takes the burden, letting the heroes escape but getting crushed once they’re gone.
+
+> **Example**: In a later scene, Max Benton and his ally Policeman Joe (Ally rank 3-Kill) are confronted by a pack of ravenous ghouls (Hindrance w/ Threat 8). Max has taken some Hurtin’ in the previous scenes, and his payer (Splick) doesn’t think that Max can survive if the ghouls get to act on their own. Taking the initiative, Splick announces that Max and Joe get the jump on the ghouls, charging in guns blazing. Max’s Kill rank is only 1, and he can’t afford to Negotiate for bonus cards, so he announced that Policeman Joe is taken by the moment and jumps right in, sacrificing himself to kill these undead bastards. Joe’s Blaze of Glory gets Max six more bonus cards (twice Joe’s Ally rank of 3), so Max Benton now has seven cards for this Showdown. Win or lose, however, Joe’s grisly death must be taken into account during the outcome narration.
+
+Finally, the third function of Allies allows players to have them take damage in place of the Survivors. Any time an Ally is helping a character in a Showdown and the Survivor loses, that Survivor’s player can narrate how any of the Hurtin’ she would take is instead taken by the Ally. The Hurtin’ is applied to the Ally’s Rank, and cannot be soaked. If the Ally takes Hurtin’ greater than or equal to his Rank, he dies.
+
+Note that Allies can become Infected just like any other character in the game. The CiC has the rules on how to handle this.
+
+> **Example**: Carla was in a Showdown against some Trash Ghouls, and helping her was her new buddy Pablo the Mechanic (Ally Rank 3-Kill). Unfortunately, Carla and Pablo lost the Showdown, and despite her best efforts to soak, Carla is being hit with two points of Hurtin’. Vera elects to have Pablo take the Hurtin’ instead, narrating how he pushed Carla out of the way and got sliced up in her place. Pablo takes the two points of Hurtin’ which reduce his Ally Rank from 3 to 1. Pablo’s Ally Rank is now permanently reduced to 1, unless he is somehow healed during scene downtime.
+
+### Allies-turned-Survivors
+
+Should a Survivor ever die (or a new player joins in the middle of the game), the player can choose to continue playing the game as any currently-existing Ally introduced in the game, if they so desire. In such a case, have them quickly give the Ally some Characteristics and a CiC-assigned Crazy-Go-Psycho meter. Their Ally Rank becomes their new starting Survival Token stash. The player now controls this character as a new Survivor.
+
+### Ally Death
+
+Allies, like Survivors and Threats, require Hurtin’ to be killed. In any Showdown in which the CiC causes Hurtin’ to the Survivors, he can target any involved Ally with any amount of that Hurtin’ as if they were a Survivor.
+
+## Survival Tokens and Character Recovery
+
+As the game progresses, the Survivors are likely to take one hefty pounding to both their health and their psyches. Many Showdowns will end with one or more of them either losing Characteristic ranks to Hurtin’, gaining Crazy-Go-Psycho points through Mad Half Negotiations, or both. To help assuage this frequent loss to the characters’ abilities, ***Cannibal Contagion*** uses **<span style="font-variant:small-caps;">Survival Tokens</span>** to allow characters to recover some of the losses between scenes, as well as a few mid-scene resistance empowerments.
+
+The Survival Tokens are in place to provide both a reward for doing awesome things in the game, and a way to simulate recovery of health, sanity, and supplies both during and between scenes.
+
+### Gaining Survival Tokens
+
+As the scenes are played through, you can acquire Survival tokens in a multitude of ways. These add up over time, and you can save them as long as you like. Below are some examples of methods for acquiring Survival Tokens.
+
+* Suggest an awesome New Scene idea
+* Exchange Aces or Faces after winning a Showdown
+* Gain your **<span style="font-variant:small-caps;">Grit</span>** rank in tokens at the *beginning* of a new scene, plus a number of tokens equal to the number of scenes that have *passed*.
+* Fulfill one of the Secret Votes for +8 tokens (see page 28)
+* Complete bonus objectives during a scene (predetermined by the CiC)
+* Do awesome things that impress the CiC
+* Kill another Survivor! When you do so, you gain all of their current stockpile of Survival Tokens.
+* Buy the CiC food (hey, it doesn’t hurt to try – I prefer pizza, red/yellow curries, and everything in the special “breakfast” food group)
+
+### Using Survival Tokens Mid-Scene
+
+While most of the uses of Survival Tokens are for end-of-scene recovery and advancement, there are three mid-scene uses for them that should not be ignored by any means: **<span style="font-variant:small-caps;">Grit</span>** checks to resist Hurtin and Infection, and **<span style="font-variant:small-caps;">Savvy</span>** checks to keep your Gear from running out of Juice.
+
+#### Resisting Hurtin’ (1 token, non-repetitive)
+
+When you lose a Showdown and take Hurtin’, you have the option of spending a Survival Token to attempt a **<span style="font-variant:small-caps;">Grit</span>** Quickie and try to soak some or all of that Hurtin’. Spend the token and then draw a standard Quickie based on your **<span style="font-variant:small-caps;">Grit</span>** score. Each face or ace resists a point of Hurtin’. You can attempt at most one Quickie to resist the Hurtin’ of any one Showdown, but you can always try and Negotiate for more draws per the standard rules.
+
+> **Example**: Carla just got bitten by some hellhounds, for five points of Hurtin’. Five points could seriously set her back, so Vera (her player) elects to try a **<span style="font-variant:small-caps;">Grit</span>** check. She spends one of Carla’s Survival tokens and sets to it. Carla’s Grit is currently at rank three, so Vera draws three cards and gets two faces. She has room for more CGP, and elects to gain a few more points to try for cards. She first talks to her Mad Half to see if she can try for more cards – her Mad Half agrees, but limits her to at most three more draws. She takes a point and draws a card, getting another face, then takes another point but this time only draws a number card. She calls it at that, resisting three points of Hurtin’ and taking two. She gains two points of CGP total from this, as she elected to only draw two more bonus cards, and not the full maximum of three that her Mad Half had allowed.
+
+#### Resist Infection (1 point, non-repetitive)
+
+If you lose a Showdown against a creature that can Infect you, you spend a Survival Token to try a **<span style="font-variant:small-caps;">Grit</span>** Quickie in order to reduce some of the incoming points of Infection. This is a standard Quickie, and you can Negotiate per normal rules for more cards. Each face or ace resists one point of Infection, and if all are resisted, you completely avoid the Infection (provided you weren’t already infected from a previous situation).
+
+Note that in many games, the CiC will keep the Infection tallies of the players a secret. In such cases, when you are attacked by Infectious enemies, it is up to you to declare when you want to try this Quickie, and the CiC is under no obligation to tell you how many points you have coming at you, or how many you have successfully resisted. The CiC doesn’t even have to tell you that the attack is even contagious at all. This can make the game *really* tense.
+
+You can attempt at most one Quickie to resist the Infection of any one Showdown, but you can always try to Negotiate with your Mad Half for more cards.
+
+> **Example**: Roger just lost a Showdown against a nasty zombie, and took two total points of Hurtin’ (his attempt to soak the Hurtin’ failed miserably). Screg knows the zombie is of course infected, and that if Karo (Roger’s player) doesn’t try to resist, Roger will become Infected with three points of Infection. But in this game, Screg’s keeping the Infection totals secret, so he says “You know, Karo, that these bastards infect through wounds, and you’ve just taken a nasty one. You gonna do anything about it?” Karo sweats a little, and decides to try and resist. He spends a Survival token to attempt a **<span style="font-variant:small-caps;">Grit</span>** Quickie, drawing two cards (his **<span style="font-variant:small-caps;">Grit</span>** score). He gets two aces, and decides to leave it at that, thinking himself safe (and declining any temptation to talk to his Mad Half). Screg nods and says nothing, but secretly notes that Roger now is Infected with a single tally. That’s definitely going to be a problem in the near future…
+
+#### Juice Check (1 token, non-repetitive)
+
+When you run out of Ammo, you can spend a Survival Token to attempt a Juice Check. This is a **<span style="font-variant:small-caps;">Savvy</span>** Quickie, and if you succeed then you do not run out of Juice just yet. Additionally, each face or ace reduces your Juice tally by one. As with other Quickies, you can attempt at most one such Quickie per Juice check, but you can try to Negotiate with your Mad Half to draw more cards during that Quickie. See page 66 for more details on Juice and examples on how it works.
+
+### Using Survival Tokens Between Scenes
+
+After a scene ends, the CiC will go through a short checklist of administrivia before kicking off the next scene. During this time is when you can exchange some or all of your accrued Survival tokens in order to recover from any losses your character has suffered up ‘til now.
+
+* “Purchase” new Gear
+* Recharge your Juice tallies
+* Recover lost Characteristic Ranks
+* Remove accumulated Crazy-Go-Psycho points
+* Remove a single stage of Madness
+* Purchase New Gear (2 tokens per Gear, 4 per Weapon)
+
+You can “purchase” new items of Gear between scenes, representing things you might have picked up during the “off-screen” moments. Each piece of Gear you purchase costs 2 tokens, and must be approved by the CiC. If the game uses Custom Weapons rules, you can purchase new weapons for 4 tokens each, again requiring CiC approval.
+
+#### Recharge Juice (1 token per Juice stat)
+
+Each Survival token you exchange to recover Juice recharges a single piece of Gear by its Juice stat. For example, if you use a Survival token to recharge a flashlight that has a J1 stat, you will recharge a single point off the Juice tally. On the other hand, if you use it to recharge a pistol with a J3 stat, you can erase up to three tallies off that item per token spent.
+
+#### Increase Characteristics (4 or 6 tokens per rank)
+
+You can spend Survival tokens to recover lost Characteristic ranks, and increase your ranks even higher. Each four Survival tokens you spend increase a Characteristic rank by +1, up to their starting maximums (which you assigned at creation). Once you’ve reached the maximum in a Characteristic, it costs six tokens per rank you wish to increase it higher. Some special gear (such as a medkit, drugs, etc) can be sacrificed for a two-token bonus to this with the CiC’s approval. Note that this does not increase the actual maximums, and only increases the current ranks *above* those maximums.
+
+#### Remove CGP (2 tokens per tally)
+
+You can spend Survival tokens to remove Crazy-Go-Psycho points you have accrued. Each two Survival tokens you spend remove a single point of CGP from your meter, to a minimum of zero. Some special gear (such as a bottle of anti-depressants) can be sacrificed for a one-token bonus to this with the CiC’s approval. Note that you cannot remove more points than are currently in your tally! If you wish to upgrade your actual madness stage, you must use the next option below.
+
+#### Degrade Madness (6 tokens)
+
+After each scene, you can spend Survival Tokens to remove a stage from your current madness meter. This costs six tokens, and allows you to un-circle the lowest stage on your descent into madness. You can only remove a single stage after each scene. Any currently-accrued CGP points carry over to the new stage, however.
+
+### The Survival Pool
+
+In addition to the personal stashes of Survival tokens possessed by each individual player, the players as a group have access to a special team Survival Pool. This stash of tokens functions like all other Survival tokens, except everyone can add to it and draw from it at will, at any time. Using this pool, players get a bonus for working together against the bad guys. This is also the **only** in-game mechanic that allows the players to give each other Survival tokens.
+
+There are both advantages and disadvantages to using the Survival Pool. On the plus side, any player can draw from it, using a bit of added group synergy to help them recover when needed. By working together and helping each other survive the madness, it will automatically go up at the end of every scene.
+
+On the down side, as stated before, *any player* can draw indiscriminately from the Survival Pool, without needing group approval. Once you put tokens in the Pool, you have no say over their expenditure unless you spend them yourself. Additionally, since it costs *two* of your own tokens to increase the pool by a single token, it can be costly to do so.
+
+If ever multiple players wish to use the same tokens from this pool at the same time, either come to a compromise or have each player draw-off for them.
+
+The Survival Pool is increased in the following two ways:
+
+* For each Survivor *and* Ally alive at the end of a scene, increase the Survival Pool +1. This happens *before* they choose to spend tokens to recover their aspects.
+* Any player can donate to the Pool, increasing it +1 for every *two* Survival Tokens they spend from their own personal stash.
+
+#### Killing Other Survivors
+
+Yes, you read that correctly above: when a Survivor deals the killing blow to another Survivor, she wins the dead Survivor’s current stash of Survival tokens. Should other Survivors have helped her in the Showdown that dealt the killing blow, she can, *at the time she receives those tokens*, choose to divvy any or all of them out to her helpers, if she so desires. She doesn’t have to, of course, but the option is there for that moment in time. Of course, if the CiC ever kills a Survivor, he gets that Survivor’s stash added to his own Adversity pool. Watch out!
+
+## Winning The Game
+
+When the game ends, the Survivor who acquired the most votes from the other players (via the Secret Votes cards) *and then subsequently fulfilled as many of them as possible* is declared the winner. If two or more players tie, they must duel to the death. Congratulations, you have won Cannibal Contagion! You should go online and tell us all about it!
+
+## Player Tips
+
+Here I’ve compiled some helpful game-play tips for players new to the system, based on things I’ve noticed in my own games, and advice I’ve picked up from others along the way.
+
+**When in dire straits, Negotiate!** By gaining Crazy-go-Psycho points you can make great things happen at the cost of going batshit nuts. I’ve seen good players skate through a game on sheer Crazy alone. Going crazy isn’t really a bad thing either, as it only makes the game more fun, and with careful balancing of risk and reward, you can totally go apeshit while keeping your CGP tallies at relatively sane levels. See page 91 for more details on Crazy-Go-Psycho empowerment.
+
+Keep in mind that ***Cannibal Contagion*** **is only made more fun by the in-game situation being completely FUBAR’d.** Don’t fret when bad stuff happens to your character, because it’s supposed to. Just take it in stride, pop back and give it all you’ve got. Don’t get butt-hurt if and when your character gets injured or even dies, as that’s all part of the fun. Heck, sometimes it’s even fun to proudly say that you died first.
+
+**Remember: there will be some fights that you just can’t and/or won’t win.** There will be times when you face monsters with really high Threat Scores that just seem to keep kicking your ass. If you can’t defeat them with Showdowns, try working together with the other players to gang up on them, and consider using the scene to your advantage. Narrate obstacles and escapes, and don’t forget that running away is one of the keys to survival.
+
+**Don’t Turtle up!** ***Cannibal Contagion*** is a game that favors and rewards players who seize the initiative and push conflicts directly and with gusto. If a player or the CiC narrates something that you disagree with, and you think your character can directly change it, then voice your dissent. If a few moments of discussion don’t satisfy you, challenge it and call a Showdown! Let the cards decide, and be prepared to narrate should you succeed. If you just sit there and react, then you’re not pushing the game forward, and a game that isn’t pushed forward goes nowhere. That’s not fun.
 
