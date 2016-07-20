@@ -895,3 +895,201 @@ Keep in mind that ***Cannibal Contagion*** **is only made more fun by the in-gam
 
 **Don’t Turtle up!** ***Cannibal Contagion*** is a game that favors and rewards players who seize the initiative and push conflicts directly and with gusto. If a player or the CiC narrates something that you disagree with, and you think your character can directly change it, then voice your dissent. If a few moments of discussion don’t satisfy you, challenge it and call a Showdown! Let the cards decide, and be prepared to narrate should you succeed. If you just sit there and react, then you’re not pushing the game forward, and a game that isn’t pushed forward goes nowhere. That’s not fun.
 
+
+# Part 4: The Mad Half
+
+> “ Did they look like psychos? Is that what they looked like?  
+> They were vampires!  
+> Psychos do not explode when sunlight hits them,  
+> I don't give a fuck how crazy they are!”
+> 
+> *Seth Gecko in “*From Dusk Till Dawn*”*
+
+## To Dance with the Devil Inside
+
+Let’s face it: with all this crazy cannibal zombie-monster shit going down, sometimes your characters are just going to break down and wig out. Zombies, demons, monsters and more, most humans just aren’t prepared for this kind of stuff. A typical human reaction to such things is to freak the hell out. Don’t worry, it’s the human thing to do, and you all want to stay human, right? Of course you do, otherwise you’d be a wacked-out murderous zombie creature, and no one wants that, right? Right? Yeah, that’s what I thought.
+
+As the game is played, characters will often face things which can drive normal men mad. Seeing your friends and family murdered before your eyes can be maddening enough, but what if you’re the one actually murdering them yourself because they’re trying to eat you? In desperate times, people do desperate things, and sometimes those people can draw upon that madness to push them along and keep themselves alive. You know how these stories tend to go – you either get killed or go crazy. Those who fight the hardest to survive are usually quite rattled by their experiences, and oftentimes there is little humanity left in them in the end to differentiate them from the monsters they’ve had to slaughter in order to stay alive. Their madness gave them power during their journey, but broke them in the end.
+
+That’s exactly how ***Cannibal Contagion*** works. Your characters have been thrown smack dab into the middle of the craziest shit they’ve never believed could happen. They will be forced to do terrible things in order to scrabble for the barest sliver of hope for survival. As they face the horrors of the apocalypse, they will draw upon that madness in the hopes that the edge it gives them will be enough for them to make it through to the other side. As that destination draws near, however, their madness could quite likely overtake them. When the tension and events of the game push characters to the brinks of desperation and lunacy, ***CC*** uses Psychotriggers, Crazy-Go-Psycho points, and the Mad Half to bring that craziness into play.
+
+The madness system involves four major variables: Negotiation, the Mad Half, the Psychotrigger, and the CGP meter. These components work together organically to keep your characters moving ever forward towards the brink of Madness. In order to understand how it all works, you need to understand how each of these variables is important on its own. We’ll start with the basics of how it works, and go into more details on the specifics after an example.
+
+## Negotiation and Bonus Cards: How They Work
+
+When you’re drawing your cards in a Showdown and you’re running low on cards, it might be a good idea to try and “dance with the devil” for the chances of a few more. If you need more cards and you’re fresh out of Gear options, and none of your Mojo is helping you out, you should consider asking your Mad Half to allow you to draw upon your inner craziness for a greater chance of success. The act of asking your Mad Half for this assistance is called Negotiation.
+
+However, before you ask for this assistance, you should ask yourself one important question: Do I need this enough to risk going crazy? If you think you can handle the few cards you’ve drawn, then don’t worry about it. But if you think you need those cards, and don’t mind risking a portion of your character’s sanity, then go for it.
+
+The Negotiation process is simple, and mostly the same for both Quickies and Showdowns. When the cards are being drawn, you can turn to your Mad Half and request assistance. This is as simple as saying “Hey Buddy, I need a few extra cards for this Showdown.” The Mad Half can choose to flat-out deny this, of course, but to make it more interesting, they might demand that you grovel harder, or bribe them, or what-have-you.
+
+If the two of you come to an agreement and the Mad Half allows you some empowerment, then they first state *how much* power they’re giving you – meaning, how many cards they will allow you to draw. They can choose to allow you only one, a small handful, or even just say “take as many as you need” if they’re feeling generous.
+
+But there will be a price, oh yes – two, in fact. When the Mad Half offers you bonus cards, they will also state some kind of narrative payment that your character must enact at some point in the scene following the current card-play. This payment – the first of the two prices you must pay – will be directly based upon your character’s Psychotrigger and her current stage on the Madness Meter, both of which your Mad Half should be constantly aware. They can be nice and agreeable, and only demand but a tiny payment from you, or tyrannical and evil, and make you suffer. They can be chaotic, too, acting nice for one request, evil for another, and downright annoying for yet another. Whatever the case and mood may be, you must always pay this narrative price if you wish to benefit from power.
+
+The second price is more mechanical: when you actually accept the bonus cards, each draw you make will earn them a single point of Crazy-Go-Psycho (CGP), which add up to push your character further down the Madness Meter (see further below).
+
+If you agree to the Mad Half’s terms, you can then immediately receive as many of the allowed bonus draws as you wish. In both Quickies and Showdowns, you can draw them one at a time, and you can choose to stop drawing at any point before you’ve drawn the maximum that your Mad Half “gifted” you with.
+
+Once you’ve drawn your cards, resolve the Quickie or Showdown as normal. Afterwards, should you actually survive, you must remember to pay the narrative price. Read further below for more details.
+
+**Negotiation Example:** Jian is currently standing one on one against Gruesome Henry (a Miniboss-level Threat). Hunter (Jian’s player) knows that at this moment, it’s either kill or be killed, and he’d really prefer the former. Due to a whole string of bad circumstances leading to this moment, Jian’s Kill rank is down to a measly 1, and he has no gear he can suitably bring into the conflict for bonus cards. As it currently stands, he’ll be drawing one card versus Gruesome Henry’s four, and he sees that Screg has a whole mess of Adversity tokens he can blow to give Henry more draws. He has no choice, really, but to try and Negotiate with his Mad Half, who is played by Trin.
+
+Before the cards are played, Hunter turns to Trin and asks what he’ll need to do for some bonus cards. Jian is currently in the third stage of madness (The Descent), which gives Trin a bit of creative license in determining his price. Jian’ Psychotrigger is “Don’t Touch the Hair!” so she says: “Sure, I’ll let you draw a few cards. Hell, draw as many as you want. But when you’re done with this Threat, you’re going to have to take yet another moment to re-style your hair. Only thing is, this time, as you do it, you will start to imagine that some strands don’t belong, and you’ll pull them out, one by one, painfully, until you snap out of it and realize what you’ve done.”
+
+Hunter shudders. Jian’s hair is pretty serious to him, but he needs those cards. He agrees to the price. Jian’s Cool is at 4 right now, so he’s not overly concerned about it, and starts drawing. However, when all this is over, if Jian survives the encounter with Gruesome Henry, Hunter has to worry about inserting Trin’s demanded price into the scene before it comes to an end. Plus, for each card he draws, he’ll have to add to his CGP tally, which could drive him even further into the depths of madness…
+
+## The Mad Half and Psychotriggers
+
+Now let’s talk about the guy who gives you that power. During the character creation process, every player must designate one other player at the table to play their character’s Mad Half. Your Mad Half exists solely to tempt you with edge and ability in exchange for a little slice of your character’s sanity. The Mad Half has the power to grant your character the ability to tap into the chaos of the situation and draw from it increased ability and desperate power. Of course, this power comes at a cost: your sanity.
+
+### Choosing Your Mad Half
+
+When choosing Mad Halves, each player must designate one other player at the table, and no one player can be the Mad Half for more than one character. If you’re playing among friends, try and get someone you have a good rivalry with. Your Mad Half should be someone that you believe can pull your strings and make the game more fun for your character by creating internal conflicts that get under your skin.
+
+If you’re running convention games, the default is to just choose the player to the left.
+
+### Playing the Mad Half
+
+When you are the Mad Half, you have a very important responsibility to mentally screw with your designated character (also known as your **<span style="font-variant:small-caps;">Pawn</span>**). The Pawn will frequently beg you for empowerment via Negotiation, and you are responsible for making them truly earn that empowerment. You are given a variable amount of control over certain aspects of that character (based on their current stage of Crazy-go-Psycho), and you can manipulate their Psychotrigger to apply said control.
+
+Your primary responsibility as the Mad Half is to keep tabs on the Pawn’s current stage of insanity, so you can use it against them when the time comes. You can use a note page to scribble down your Pawn’s Psychotrigger and track their craziness, or instead print out the handy Pawn cards for this purpose. Using the “Team Craziness” printable sheet can also help everyone keep track of each other’s stages of sanity. You should keep yourself constantly aware of how crazy they are, because the higher their stage, the more leeway you have for messing with them in the game. For more details on how much control you have, see the “Putting it All Together” section further below.
+
+You also have to constantly work your Pawn’s Psychotrigger into the story. Not only does it play a crucial part in your Negotiations with that player (see below), but it can also be worked frequently into scenes outside of Negotiations as well. Keep reminding the other player of their addiction with subtle narrative cues, and poke at their driving goal and the obsessions that keep them jittery. Work it into your own narrations, and try to push into it when you buy Facts in Showdowns.
+
+Remember, as the Mad Half you are representative of the Pawn’s Insanity. You are the inner forces which struggle to break the character’s mind into many tiny little pieces. You are *not* representative of some metaphysical sinister force (aka the “Dark Side”) or some such. You’re not trying to tempt the character to evil, but to insanity. You are Lunacy, Desperation, Chaos, and Stress, and while those things *can* lead to the performance of evil acts, such should not be your driving goal while playing the Mad Half. Instead, you should be the catalyst for the character’s fall into madness, and should such a fall result in “evil” acts, then so be it, but otherwise “evil” as we typically describe it should not be your heavy-handed focus.
+
+### Psychotriggers
+
+When you created your character, you gave her a special Psychotrigger, which summed up the main focus of her insanity (at least insofar as you intend to role-play that insanity in this game). This represents the Big Thing that either drives your character mad, or else serves as the tool by which she harnesses that madness, or both. It could be a prominent nervous tick, a driving obsession, a very important character goal in the scenario, or more.
+
+Your Psychotrigger is the narrative lever that your Mad Half pulls to make you squirm. When you Negotiate for empowerment, your Mad Half will demand some kind of narrative price from you, which uses your Psychotrigger as its main inspiration. Because of this, your Psychotrigger *needs* to be something solid and evocable. It also needs to be something core to the character, and something a little twisted. It needs to be something that should make you think “Do I really *need* those extra cards right now?” before you even ask for them.
+
+For example, if your Psychotrigger is “Anger management problem,” then whenever you need empowerment, your Mad Half will frequently demand that you perform acts of anger, frustration, and even outright violence. These demands will be really insignificant at first, when you have very few points of Crazy-Go-Psycho. For example, she might demand that in order for you to draw those extra cards in this Showdown, you fire one more bullet into its head after you’ve killed it, just to give it “one for the road.” As your CGP meter rises, however, her demands can (and will!) get more dangerous to both yourself and your fellow survivors. For example, much later in the game, she could very well demand that in order to get just two more bonus cards, you will take your aggressions out afterwards on a teammate, beating them up while screaming how it’s all their fault, how they will thank you for it later.
+
+## Putting it All Together: Using the CGP Meter
+
+Let’s take a look at that Crazy-Go-Psycho meter on your character sheet. This meter has five stages which track the CGP points you accrue each time you successfully make a deal with your Mad Half. As you accrue points, your character will “descend” to the more maddening stages, until eventually they reach the end and go bonkers gonzo nuts.
+
+##### First One’s Always Free
+
+Yes, you read that right. The first time your Pawn asks you for assistance, it’s free. They can get a single free card to their draw without paying any CGP or narrative prices. After that first freebie, though, ain’t no more discounts.
+
+### Paying the Price: The Fives Stages of Madness
+
+Every time you Negotiate a deal with your Mad Half, you must pay a price – two prices, in fact. The Mad Half’s price is always twofold, consisting of both an accruement of Crazy-Go-Psycho points and a narrative demand. The CGP points are added to your tally, while the narrative demand must be played out during the current scene of the game.
+
+Listed below are the five stages of insanity, and some examples of various narrative demands that fit within the scope of the respective stages. We’ll use four different sample Psychotriggers here to show examples of how each stage gives the Mad Half increasing control over the Pawn’s actions.
+
+#### Stage 1: The Calm
+
+Like the calm before the storm, your character is relatively unaffected by the Madness, but in this world gone nuts, it’s only a matter of time before your tight grip upon your sanity starts to weaken. **You start the game at this stage on the meter**.
+
+**Empowerment:** No significant control at all. During Negotiations, the Mad Half can suggest minor things that you must do at some point during the current scene.
+
+* *Cigarette Addiction:* Before this scene is over, you’re going to need to smoke a cigarette.
+* *I have to find my missing kids!:* You need to take out that picture of your kids and look at it to remind yourself that they need you.
+* *Mindless Aggression:* The tension of the current scene is just too much for you, and before it passes you need to find something in the environment and break it.
+* *Obsessive about my Gear:* This is a hectic time, and you need to reorganize your pack before the scene is over.
+
+#### Stage 2: The Brink
+
+The chaos of the times has started to affect you, and the darkness is taking root in your brain. Frequently pushing yourself to your limits has started to take its toll, and you find your hold on reality is weakening. You must try and maintain those habits and emotional bonds that tie you to reality.
+
+**Empowerment:** No control yet, just more negotiation demands are available. The Mad Half can make her demands a bit more serious, affecting your character in the immediate present. If she desires, she can make your character miss the next couple of in-game actions due to various “status effects” like uncontrollable sobbing, obsessive ranting, etc.
+
+* *Cigarette Addiction:* You need to smoke immediately after this Showdown is over. In fact, smoke two.
+* *I have to find my missing kids!:* You’re going to look at your kids’ picture and cry in a heap on the floor, useless for a few minutes while you wetly and loudly let it all out.
+* *Mindless Aggression:* When you finish this combat, you need to immediately spend a few moments pounding your fist into the now-dead zombie’s head, until your knuckles are bloody enough to bring you back into reality.
+* *Obsessive about my Gear:* You NEED to organize your pack RIGHT NOW.
+
+#### Stage 3: The Descent
+
+Your fracturing sanity is starting to manifest visibly in everything you do. Your hands shake as you aim your gun, your eyes dart left and right when the silence becomes too strong, and you hear different words than those that are really being spoken by your companions. With a few personal mantras and focusing techniques you can bring yourself back into focus, but at this point, you’re doing them so much that they’re starting to lose their meaning and their effectiveness. Your friends are starting to whisper about you, and they cast each other dangerous looks when they think your back is turned…
+
+**Empowerment:** The Mad Half can, if she so desires, randomly remove any one of your cards from your hand after they have been drawn and before they have been played. This must be explained by the Mad Half, however – your hands are trembling, you are sobbing too heavily, you’re seeing double, the chaos of the moment is just too much, etc. Also, your narrative price suggestions can be much more intense, and can now start to cross the lines of what might normally be considered acceptable standards of behavior and decency.
+
+* *Cigarette Addiction:* When you’re done with that next smoke after this Showdown, you’re going to put it out on your arm.
+* *I have to find my missing kids!:* You’re going to start talking to your companions as if they are your kids, and clean up their faces, straighten their clothes, etc.
+* *Mindless Aggression:* Win or lose, you are going to break that bat you are carrying against a wall when this Showdown is over.
+* *Obsessive about my Gear:* You are missing things that you could have sworn you just had a moment ago, and you must now search the area over again to find what you know you dropped somewhere.
+
+#### Stage 4: The Shattering
+
+You are one step away from totally losing it. Disembodied voices are talking to you, and you sometimes find yourself listening. You see flashes of loved ones, but you blink and they’re gone. You can picture yourself doing horrible things to your friends, but you shake your head and the images fade… for now. Anything can set you off, and it’s only a very, very short matter of time before you cross the line and shatter.
+
+**Empowerment:** At this stage, the Mad Half can, at will, choose to narrate how you perform any Showdown. For example, if your intention is to “attack that zombie” and you declare you’re going to shoot it, the Mad Half can Interject, and instead say “No, you use your gun as a club instead and try to beat it” or “You flip the fun to full-auto and open the hose on the zombie, even though your friends are all around it as well.” This is in addition to the Empowerment from Stage 3. As for the Narrative Prices they can demand, they are now encouraged to blatantly cross the line of acceptable behavior, to the dangerously antisocial.
+
+* *Cigarette Addiction:* While smoking, douse that house with gasoline, and when you’re done, flick your butt at it and then stand there watching it burn.
+* *I have to find my missing kids!:* Your friends know exactly where your kids are and they’re keeping it a secret on purpose, so you should force it out of them.
+* *Mindless Aggression:* When this Showdown ends you will be in a mindless rage. The very next companion of yours who speaks will be punched hard in the face!
+* *Obsessive about my Gear:* Your friends are stealing your things, and you must get them back!
+
+#### Stage 5: The Madness
+
+When your mind succumbs to the Madness, you’ve pretty much lost it. At this point, you can still play your character (provide any Contagion effects don’t say otherwise), but be prepared to do some crazy messed-up stuff in the game, as your Mad Half takes free reign over any and all of your character’s actions, should you choose to try any. As long as you don’t engage in any Showdowns, however, you should be fine… or so you can try and believe…
+
+**Special Limitation:** Once you have reached Stage 5 Madness, **you can *no longer Negotiate* for bonus cards!** You need to find a way to raise your stage of sanity before you can Negotiate again!
+
+**Empowerment:** Whenever you declare an action, the Mad Half can declare that you do something else entirely different, if he so desires, and the sky is the limit here. Suggestions are likewise pretty heinous. This is in addition to the Empowerments from Stages 3 and 4.
+
+* *Cigarette Addiction:* While you smoke that cigarette, set yourself on fire and laugh.
+* *I have to find my missing kids!:* You’ve figured it out: your friends drugged you and convinced you to kill your own kids, so you must shoot them and then shoot yourself.
+* *Mindless Aggression:* After this conflict, you have now lost all sanity, and will mindlessly attack anyone and everyone until they knock you out. Should you wake up, you’ll be back to your senses.
+* *Obsessive about my Gear:* You don’t have enough pockets to hold your gear, so you should carve new ones into your thighs.
+
+> **Price Example:** In our previous example, Hunter agreed to a pretty dramatic narrative price when Negotiating for bonus draws with Trin during a Showdown against Gruesome Henry. Fortunately for Hunter, he drew a Joker and came out on top, and Gruesome Henry’s brain-eating, corpse-screwing days have come to an end. Now that the Threats are all taken care of, Jian can set to the task of freeing his friends, who are currently trapped in one of Gruesome Henry’s famous Deadly Traps of Conflicted Morality. Doing such would be a simple matter of pulling a nearby lever and setting them free, but Hunter remembers his agreed-upon price, and decides this would be a wonderfully dramatic moment to bring it into play. He says: “Jian snaps out of his murderous rage, wiping the chunks of Henry’s skull off his sleeve, and remembers that his friends still need to be set free. But then an errant strand of hair falls into place, and he totally loses it. He starts pulling at it, and then pulling at the strands around it, yelling about how they’re not perfect, how they’re supposed to be gelled into place, how heroes are supposed to have perfect hair, and so on. He keeps pulling at his hair, ripping out strand after strand, until tears start to roll and he drops to his knees.”
+> 
+> Screg thinks this is a damn awesome way to end the scene, says “Scene!” and calls it there.
+
+### What If I Can’t Pay?
+
+If you’re already in the process of Negotiating, it means you’re obviously ready to take on a few more points of CGP. However, sometimes, you might find yourself unable to pay the narrative price demanded by your Mad Half. This could be due to unexpected twists in the scene, character incapacitation, or any other sudden change in the narration.
+
+For example, you might agree to a price of “After this Showdown, you must grab a phone and try to call your missing girlfriend again.” However, if you lose this Showdown and, say, you are captured and immediately thrown into a locked cage with no phone in reach, then of course you can’t fulfill your end of the bargain.
+
+In situations like the above, you may be prevented from fulfilling the actual details of your bargain, but you still must *try*, or somehow narrate your character’s inability to do so in a way that affects the story. In the above example, you could instead roleplay your character freaking out, screaming for his lost girlfriend, crying for a phone, and generally being upset about his inability to contact her. As long as the spirit of the price is the same, then you can alter the original narration a bit if it isn’t technically possible within the confines of the current scene.
+
+### Keeping Track of your CGP Tally
+
+You begin the game by taking the base rank of your **<span style="font-variant:small-caps;">Cool</span>** Characteristic, adding +1 to it, and then writing that total on your CGP meter where it says “Points until Next Stage.” Look at the five stages, and circle the first one (“The Calm”) to denote that you have not yet begun your descent into madness.
+
+Every time you gain a point of CGP during game play, start a tally next to the “points until…” number you wrote down. The moment your tally *exceeds* that total, erase the current tally, mark a single slash in a new tally (and record any additional CGP you might have taken in excess of that as well), and circle the next consecutive stage of madness. This does not need to be celebrated or otherwise enacted through any in-game event or roleplaying; the increased new scope of the Mad Half’s powers over you will take care of that nicely.
+
+It is entirely possible to descend multiple stages of madness at once if you take large amounts of CGP.
+
+### Losing Ranks in Cool
+
+Whenever you lose ranks from your **<span style="font-variant:small-caps;">Cool</span>**, you must also immediately adjust the “Points until next” field on your sheet accordingly. Compare the new calculated “Points until next” rank to your current tally of CGP points. If the new rank is greater than or equal to the tally, then no worries, mate. But if the new rank is *less than* your CGP total by any number of points, then treat it as if you had just gained those points, and adjust your Madness and Tallies accordingly.
+
+### Reducing Your CGP
+
+CGP can be reduced by by spending Survival Tokens between scenes. Likewise, you can rise up to a higher (read: less-crazy) stage of madness by spending those same tokens. Your tally can only ever be reduced to zero, though, and other means are necessary for actually reducing the current Madness Stage itself. See page 84 for more details.
+
+## Other Uses of Madness
+
+### The Panic Button
+
+One of the powers of the CiC allows them to use the game’s setting to drive your characters crazy, without having to involve your Mad Half at all. The CiC can narrate any number of spooky, creepy, and downright frightening things into the scene, and if she so decides, they can rattle your characters’ bones and make their going all the more uncertain.
+
+When the CiC decides to press the Panic Button, he must spend an Adversity token and then narrate the madness-inducing event that happens. Once narrated, every character takes one point of CGP, unless the event somehow directly relates to their character’s Psychotrigger, in which case the character takes two points instead.
+
+Here are a whole slew of things that can drive the characters crazy:
+
+* A person run over by a runaway truck in front of them
+* A bomb suddenly drops next door, deafening them and shaking them off their feet
+* A friendly ally is transformed by the infection right in front of their eyes
+* A character watches her home explode from a cruise missile
+* A wall collapses as a VW Microbus crashes through it into this very room
+* The floor drops out from under them suddenly
+* An eerie clicking begins to echo through the dark sewers
+* Bugs and snakes start to flow in through holes and cracks
+* All their torches are instantly blown out
+* A horrible scream pierces the night, but is cut off by a sick, squelching crack
+* They see the Big Bad for the very first time
+
+Now keep in mind that any of these things can happen in the game without the CiC pressing the Panic button. Simple narration can be a wonderfully gruesome thing. However, simple narration of this kind won’t give your character CGP unless the CiC actually pays the Adversity cost to make it a Panic Button moment.
+
+### CGP and the CiC
+
+The CiC does not have a Crazy-go-Psycho meter, but can instead spend Adversity tokens to function as CGP points for his Bad Guys, letting them draw additional cards in Showdowns. There is more information on the Adversity Pool in the CiC section of the rules (see page 132).
