@@ -2388,9 +2388,9 @@ When running my own games of Cannibal Contagion, I’ve found that it is quite h
 
  
 
-A Message From the Chief
+# A Message From the Chief
 
-Acknowledgements
+## Acknowledgements
 
 I’d like to thank four people here. First, a massive shout and thanks to fellow Portlander Jake Richmond, who encouraged me to take this idea and run with it. Thanks Jake.
 
@@ -2400,16 +2400,14 @@ Third, I’d like to give a big shout-out to Steve Saunders, for connecting me w
 
 Finally, I’d like to thank The Screg, for being everything that The Screg is.
 
-Last Words
+## Last Words
 
 Well folks, there you have it. I hope you enjoyed reading Cannibal Contagion, and even more so do I hope you have (and continue to have) some wicked fun times playing it.
 
-I am always looking for feedback and play reports, so please drop by the website and leave me your thoughts. There you will find discussion forums and a sporadically-updated weblog of design notes and random gaming anecdotes. Notice any typos? Found some inconsistencies? Got some questions about articles you think need some additional clarification? Just want to stop by and buy me a beer? Come on over and drop a line!
+I am always looking for feedback and play reports, so please drop by the website and leave me your thoughts. There you will find a sporadically-updated weblog of design notes and random gaming anecdotes. Notice any typos? Found some inconsistencies? Got some questions about articles you think need some additional clarification? Just want to stop by and buy me a beer? Come on over and drop a line!
 
-Many Thanks!
-
-Nathanael Phillip Cole
-
-Alliterated Games
+Many Thanks!  
+*Nathanael Phillip Cole*  
+*Alliterated Games*
 
 
