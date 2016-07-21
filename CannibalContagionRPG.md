@@ -2019,4 +2019,173 @@ As with the Characters section, here I’ve compiled some various bits of advice
 * If you’re running out of ideas, keep the draw tables from the back of this book close by. They can help immensely with pulling random characters and encounters out of thin air.
 
 
+# The Zombie Apocalypse is Now
+
+This section of the rules contains a demo scenario for you to use to get your players into the action of ***Cannibal Contagion***. This is the original demo I frequently run at playtests and pick-up games, and I’ve found that it really works well for some high-octane zombie-killing fun. There are four complete scenes here for you to run, and more than a handful of suggestions for scenes to run as follow-ups. Read over the background and basic scenario setup information, and pass out the four pregenerated stock characters from the Survivors section of this book.
+
+## Welcome to the End of Days!
+
+**Setting and Premise:** *“And I heard, as it were, the noise of thunder: One of the four beasts saying: “Come and see.” And I saw.”* This is the core, default scenario for ***Cannibal Contagion***. In this scenario, Doomsday has arrived, and its royal litter is being carried by waves of zombies. The characters are a collection of unconnected strangers who have been forced together, trying to survive and find safe shelter against the cannibals that now run wild on the streets.
+
+**Contagion:** A variant of the Shambling Sickness or the Maddening Murderness works best with this scenario. This specific introductory game does not need to go into the details of the Contagion’s nature or origin, as the primary focus is staying alive and not getting infected. If you want to jump right in, just use the default Shambling Sickness outlined below:
+
+* **Vector:** Physical (bites) 
+* **Effects:** Debilitating 
+* **Threshold:** Death 
+* **Aftermath:** Turned (Undeath) 
+* **Antidote:** None, no explanation
+
+**Primary Threat:** This should be pretty clear, but in case you weren’t listening: Zombies. Hell isn’t necessarily out of room just yet, but that doesn’t matter, as for whatever reason the dead ain’t staying dead in this crazy-go-nuts world gone mad. Everything was fine and peachy, and then one day some mysterious infection starts spreading, and all hell breaks loose. A scene or two into the game and the streets are overrun with infected flesh-eating corpses which move slowly but never stop moving. These were once people – your friends, your classmates, your co-workers – and now they are The Enemy.
+
+**Characters:** The four stock characters from the Survivors section of the rules should be well-suited for playing this scenario, and if you have more players, feel free to create some extra characters in advance. If this is the first time your players have played, I suggest just assigning them pre-generated characters and skipping the creation section, instead jumping right into play after a brief explanation of the basic game mechanics.
+
+**Threat Factor:** Doomsday! When the game begins, the crap is just now in the process of hitting the fan, and the infection will spread like wildfire. Rack up those Adversity tokens and take out all your aggressions on those poor, doomed Survivors.
+
+**Game Setup:** Make sure you’ve got some pencils and note paper, and I suggest printing out copies of the character sheets, either by photocopying the sheet in this book or by printing the sheets that you can download from the game’s website (http://cannibalcontagion.com). Set these up in a spot with comfortable seating and nearby writing surfaces, such as at a convention table, in the dining room, or around your living room coffee table. Get yoruself some drinks and snacks to set close at hand, and maybe set some suspenseful or creepy mood music playing in the background.
+
+## Cold Openers
+
+The following Cold Openers can be played if you’re using the sample characters from this book. If not, then be sure to ask each player The Question you come up with and then play through a tailor-made Cold Opener for their character. Try to steer the direction of that scene so they can each begin on the bus in the First Scene written up further below.
+
+**Carla** is waiting tables at a crappy midtown restaurant when a customer tries to get a little fresh with her. Wait a sec, that’s more than fresh – that’s rotting flesh! After dealing with the customer and a couple more that shamble in, she goes out the back and sees the Citybus pulling up right then! Maybe she can make it home quickly to check on her kids…
+
+**Roger** is in his car, driving home from work, yapping on his cell phone when he hears a scream on the other end, and it cuts off, no reception. He pulls off the road to dig for his “emergency” backup phone, when a zombie bursts through his window! He hits the gas in panic, crashes, and now must deal with this shambler trapped in the car with him. When done, he sees a sign for the bus station, and sees hope for getting out of here.
+
+**Jian** is riding his cruiser fast and hard through the rain-slicked streets. A pretty dame with a nice rack catches his eye momentarily, and when he returns his eyes to the road, he swerves just in time to not hit someone in the middle of the road. He is thrown off his bike, which crashes and totals against a building. When he gets up, he sees the person coming closer. She’s a zombie, kill her! When done, he sees a large mass of them further down the street, coming closer! Right then a city bus pulls up.
+
+**Mei Li** and her friends are at recess at their super-expensive private school. A rival gang of girls comes up and harasses them, but they look a little sick. A fight breaks out, and during the fight, the girls start biting each other! Her friends start bleeding and dying, so Mei Li must defeat the zombie schoolgirls and get away, as it looks like the whole school is now going crazy. She runs and just barely manages to catch up with the bus that is pulling away on the next corner.
+
+## First Scene: The Crash
+
+The characters are all in the same vicinity, sitting near the back of a bus (city or fleet) that just ramped and crash-landed on its side. There are others on the bus too, some okay, most injured, some dead. The characters did not see why the bus crashed, only that everything started going crazy and soon the world was literally right flipped upside-down. Soon, folks start screaming near the front, and there’s inhuman groaning and the sounds of violence. What do you do?
+
+**When/Where:** During the afternoon rush hour commute, somewhere in or near the downtown area, most likely in your own city.
+
+**Explosion!:** This scene should open with the bus hitting a car pile-up and ramping up sideways into the air. In a second or two the bus will crash down sideways, throwing the passengers all around inside and showering them with broken glass. Describe the scene as total chaos, everyone is screaming, a briefcase flies through the air and smashes into the face of the fellow sitting next to you, a wheelchair-bound rider is thrown atop several others, and so on. As the bus is in the air, have each character make a Cool Quickie. Anyone who succeeds can think quickly enough to take a quick action as the bus is in the air.
+
+**Scene Purpose:** To introduce the characters to each other and to the situation. Their goal for the scene should be to get off the bus quickly and safely. If they wish to help others, they should be rewarded.
+
+##### Conflicts
+
+**The Bodies:** Get out from under a pile of bodies, some alive, some dead.
+
+**The Bus:** Escape the Bus – obvious escape routes would be the jagged windows above, or one of the two exits – most city busses have a front and back door, while most fleet busses have a back exit in the roof. If they try the back exit, it is twisted and jammed, possibly even covered by “debris” from some outside wreckage.
+
+**The Zombies:** If the players spend too much time looking for a way out, and aren’t thinking fast or working together, use your starting Adversity to throw some zombies at them. There’s some violence going down in the front, and it is steadily moving toward the characters at the back of the bus.
+
+**The Other Survivors:** There are survivors, but not many. To determine how many folks survived, draw two cards and keep the highest, and the lower of the two determines how many of those survivors are injured. Draw another card to determine how many are dead. Do the players try and help them?
+
+**Bonus Opportunities:** Whichever character takes the first action towards selflessly helping other non-player survivors immediately earns a Survival token. If that player is taking indirect action by coordinating some kind of group escape plan for more than one survivor, they get two. After the scene is over, add a token to the team’s Survival Pool for every two survivors the players helped escape.
+
+**Added Oomph:** Want to really shake things up? Have another survivor escape before the Survivors. When they follow him out of the wreckage, they see him gunned down by a line of advancing riot cops, who are apparently shooting anything that moves. What do you do now, fellas?
+
+**End of Scene:** This scene should end once the Survivors have escaped from the bus and come up with at least a bare minimum of a plan for what to do next.
+
+##### Possible Follow-up Scenes
+
+* They’ve been taken to a shelter by the cops, but the shelter’s safety has just been compromised by an infected refugee!
+* New scene opens with the Survivors in an alley facing off against advancing riot cops. The catch? These are *zombie* cops, with full riot gear. Watch out!
+
+## Scene: Riot at McGurdy’s Hardware
+
+The characters need some gear, and fast! They venture into the city to McGurdy’s Hardware, only to find that a lot of other folks have the same idea.
+
+**When/Where:** Shortly after the Contagion begins to take over the city, in front of a locally-owned hardware warehouse superstore. It’s about a third the size of your typical Home Depot.
+
+**Explosion!:** The scene opens with the sound of a riot in the making. Hundreds of other survivors have taken to the streets, and a good number of them are looting the stores and strip malls in the area. There’s even a small mod gathered outside the Hardware store, and the sounds of screams and gunfire in the distance.
+
+**Scene Purpose:** The Survivors need some Gear, and the hardware store was the first place that came to mind. If they do well in this scene, the spoils of the store are theirs for the taking.
+
+##### Conflicts
+
+**The Crowd:** The folks trying to break in will definitely be a Threat of some sort. The Survivors can try and just tag along and see what happens, challenge them for looting rights, or deal with them once inside. Showdowns against the crowd don’t have to all be violent, mind you, as some good moments of negotiation and “Let us fight together, folks!” speeches can be quite fun. Both **<span style="font-variant:small-caps;">Savvy</span>** and **<span style="font-variant:small-caps;">Cool</span>** can be very useful in these situations.
+
+**The Store:** Getting into the store itself will require some ingenuity. The front is made of heavy-duty glass, so trying to shatter the windows won’t be all that useful. Let the players come up with a good way to get in on their own.
+
+**The Looting:** Once the Survivors get in, they have to deal with other looters. There could be Showdowns with other people over who gets what loot, and quite possibly some bloke might try and “take over” as a warlord, using this as his fortress. Have the players make **<span style="font-variant:small-caps;">Savvy</span>** checks when they’re looking for specific gear.
+
+**The Chainsaw Zombies:** C’mon, you knew these guys were coming. These fells are at least Miniboss rank, and carry chainsaws. They will scream and howl and pursue the Survivors relentlessly until somehow destroyed. For some reason, someone tied burlap sacks around their heads, probably so the Survivors wouldn’t have to see their hideous faces.
+
+**Bonus Opportunities:** If the Survivors actually try and coordinate the looting efforts with the other folks there, give them a bonus Survival token, and another if they succeed. If they try to actually *take over* and become the new “lords” of this situation, give them two each, and another if they succeed. Any number of good Allies can be made from this scene.
+
+**Added Oomph:** If you really want to mess with them, have the place already be looted! Each attempt to find new loot would then be a Royal Pain, or even a Longshot. You could also throw in that one or more of the looters is infected already, and turns while in the middle of looting.
+
+**End of Scene:** This scene should end when the characters stock up on Gear, leave empty-handed, or establish some kind of lordly domain. Any of these would make a good ending point. If the players come up with something better, of course, just go with it.
+
+##### Possible Follow-up Scenes
+
+* The Survivors have led their new followers into a suburb just outside of the city, and are about to go to war with another army in front of a high school, medieval-style!
+* The Survivors are now trapped on the roof of the Hardware store. See, all the looters got infected and the zombies ran wild, so they ran to the roof and barricaded the stairs behind them with lumber and power tools. Now what?
+
+## Scene: Something Afoul in the Sewers
+
+The Survivors have found temporary shelter in the sewers beneath the city, but deep in the darkness beyond, something sinister awaits them… something *hungry*…
+
+**When/Where:** This scene takes place in the cramped sewers beneath the city. The passages are cramped and labyrinthine, and the Survivors must forge their way through the offal and muck to find their way wherever it is they are going.
+
+**Explosion!:** The characters are scrambling down a ladder shaft from the streets above, and the last one is thrown halfway down the shaft as a massive explosion above rocks the earth. The character drops and rolls aside, and chunks of ceiling, brick, and pavement fall as the shaft collapses, sealing the entrance to the sewer behind them. Looks like they’re going to have to find another way out!
+
+**Scene Purpose:** Seeking an emergency escape from a horde above, the Survivors have trapped themselves in the sewers and most now find their way out. Maybe one of them knows a secret hideout, or maybe they’re just running madly until they find another safe exit. This scene would be great for building up some creepy tension, as who knows what horrors lurk in the dark?
+
+##### Conflicts
+
+**Getting Lost:** Getting lost in the foul darkness of the sewers is a constant threat. As the characters wander the veritable maze of waste, they can very easily get lost in the oppressive black. Periodically have one or more of them make **<span style="font-variant:small-caps;">Savvy</span>** checks, with failures resulting in them getting lost. If they have some kind of Gear that provides light, or some kind of mapping tools, then they can use them for bonus draws. This is a great opportunity to work out that Panic Button.
+
+**Disease and Sickness:** Sickness is another major danger, as the Survivors are literally walking in or very close to the bodily wastes of all the people of the city. Additionally, any number of other disgusting things are in the muck too, from dirty needles to diseased rats and more. Feel free to periodically have them startled by a creature running up their pants legs, or freak them out when the step on something sharp. Use an Adversity token to force a character to make a **<span style="font-variant:small-caps;">Grit</span>** quickie, and if they fail, make him resist a point of Hurtin’.
+
+**Escape:** How are they going to get out of the sewers? They might stumble upon an underground waterway, or find the railway mentioned above, or bust into their city’s Subway tunnels, or just keep trying the various access shafts until they find one they can open. Give them the tiniest hints, but ultimately let them try and come up with ideas on their own.
+
+**Monsters:** The scene just wouldn’t be complete without a bunch of monsters, now, would it? Have the Survivors bust through a barricaded door looking for supplies or other surviving people, only to find the room on the other side full of zombies, who turned after they barricaded themselves in. Or have them encounter some twisted gator-rat-men feasting upon the corpses of some sewer workers, only to attack the Survivors when their meal is interrupted.
+
+**Bonus Opportunities:** Give the players the slightest hint of something more by mentioning an old, long-disused access tunnel off to the side, possibly built long before the sewers were fully established. There’s a creepy guttural clicking noise that echoes from down the passage. The passage is held up with rotten beams and looks like it could collapse at any moment. If the players brave the potential collapse and defeat the Miniboss-grade Threat at the end, they discover an old cache of *mostly* rotted weapons from the 1890s “Shanghai” days, and a single set of mine-cart-like rails that could lead them to the waterfront/riverside/railyard/what-have-you. Award the bravest among them a Survival token or two. Any player who suggests a *Temple of Doom*-style mine cart chase is my hero and gets *two* bonus tokens.
+
+**Added Oomph:** You should *seriously* play up the ambience of the all-pervasive darkness that surrounds their every step. Make it seem alive, and to help, throw in descriptions of half-seen movements in the shadows, accompanied by skitterings, slithering, crunching, and moans in the distant dark which seem to be getting ever so slowly closer… and *multiplying*. Hit those Panic Buttons!
+
+**End of Scene:** This scene should end when the Survivors have found a way to escape the sewers.
+
+##### Possible Follow-up Scenes
+
+* Having broken through to the Subway tunnels, a new scene has them battle through a mass of commuter undead to get to the front of their train and hit the brakes before it crashes!
+* The Survivors have been taken in by a strange underground cult of mutants and nutjobs. They must escape, take them down, or somehow use them to their advantage.
+
+## Scene: The Airfield Escape
+
+They’ve made it across town to a small private airfield, and now they only need to get a plane started and high-tail it out of there!
+
+**When/Where:** A private airfield in the county outside of town. There is a small set of hangars which, once broken into, will reveal four fully-functional small planes. There’s also an attached office, and a lot of gear around. There’s also a plume of smoke off in the distance which, if investigated, will reveal the site of a crashed military cargo transport helicopter.
+
+**Explosion!:** Almost out of gas, the Survivors hit the gas and ram their stolen jeep through the wire fence that surrounds the airfield. The jeep runs out of gas just a hundred yards or so from the hangars.
+
+**Scene Purpose:** To give the Survivors hope that they just might escape this crazy city.
+
+##### Conflicts
+
+**The Fuel Crisis:** There are four planes there, but only one of them can carry all of the Survivors and whatever Allies they’ve brought with them. Additionally, it’s almost out of fuel. The most fueled one is a single-person stunt plane, and the other two planes have some fuel too. If they search around a while, they can find some more fuel reserves. However, getting all the fuel into the larger plane could take some time, especially if they resort to siphoning it. Meanwhile, the zombies are coming. Of course, a selfish player could just take the already-fueled plane, and sucks to the rest of them! Award this selfish player a bonus token!
+
+**Starting the Plane:** Once they get the plane fueled, how will they start it, and who will fly it? Gotta find the keys or otherwise hotwire it. After that, who among the Survivors is able to pilot?
+
+**Zombies:** First off, a handful of typical shamblers are inside the hangar, including a pilot or two and some students. With the fence ruptured, of course, more from outside will start coming in, and must be dealt with.
+
+**The Mincer:** Bad news for the Survivors: that crashed military chopper was carrying an experimental war creature, called The Mincer! This human-monster-hybrid-thing was created using the Contagion as a potential weapon, and was in transit to a hidden base when it escaped its bonds. The chopper crashed, but it escaped, and will attack the Survivors before they can take off. The Mincer is a Big Bad, and should have all manner of foul bio-organic weapons.
+
+**Bonus Opportunities:** Any player who tries to use the plane’s propeller blades to chop up The Mincer can treat it as a +6 Hurtin’ weapon, no Juice cost, no Draw bonus. Additionally, give them a Survival token for such a bad ass idea.
+
+**Added Oomph:** If you want to make the fight with The Mincer really difficult, give him any of the qualities described in the sample Threat section (starting on page 142). He could be a regenerator, a threatener, or worse. Since this is probably their first encounter with a Big Bad, make them fight hard!
+
+**End of Scene:** This scene should end when the players either fly away or otherwise escape from the airfield.
+
+##### Possible Follow-up Scenes
+
+* Their plane has crashed just south of the border, and they must now deal with foreign zombie variants and crazed post-apocalypse doom bikers.
+* Twenty years later, the children of these survivors ride camels to the entrance of a monster-infested desert temple, to find the source of the problem and end it once and for all. 
+* How about something totally off-the-chain: a battle in the sky versus zombie-piloted fighter planes!
+
+## Conclusion
+
+Congratulations! You have now just run your first session of ***Cannibal Contagion***! Awesome! I hope everything turned out well, and I hope everyone had a whole lot of fun.
+
+Wrapping up the session should be pretty simple. As you clean up the tokens and other supplies, ask your players what they thought about the experience (if it was their first time). You can learn a lot from these player comments, and they can help you make your games even more fun in the future.
+
+So what’s next? If you had fun, I suggest trying another scenario of your own some time, possibly basing it off any of the sample scenario ideas provided in the CiC section of these rules. If the players had such fun that they want to continue on with these characters, then just plan a new scenario starting where you left off, and give it a whirl when you next meet.
+
 
