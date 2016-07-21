@@ -35,7 +35,6 @@ won't let me forget that one time I tried to do it all myself.
 But at least I was able to send it back to Mom with a note that said "Look what I
 made!" and a magnetic metal clip to hang it on the fridge.
 
-**Note May 10th 2016:** *This is a lengthy document to convert, so I'm doing it in
-stages. please bear with me while I add the sections one by one.*
+**Note July 21st 2016:** *Upload complete. Enjoy!*
 
 [motosite]: http://motobushido.com
