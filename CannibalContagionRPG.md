@@ -36,39 +36,39 @@ Have you ever watched those movies? You know, *those* movies: people desperately
 
 This game is about playing out the exact types of conflicts present in those movies, video games, comics and more. Characters will be created and thrown into a world which is soon to be flipped turned upside-down, if not already. Zombies, cannibals, infecting aliens, mind-controlling vampires, body-stealers, soul-eating parasites and more, there will be constant threats of vile monsters which seek to do horrible things to the characters, and the players get to role-play that chaotic action and survival. Perhaps they’ll be constantly running from the ever-impending evil. Perhaps they’ll be knee-deep in the blood and bodies of the creatures they ruthlessly slaughter. Perhaps they’ll murder each other over who gets the last candy bar. Perhaps they’ll buckle under the stress of survival and succumb to their inner madness. Perhaps they’ll even transform into the very monsters they fight, and turn hungrily upon those who were so very recently their friends and allies.
 
-In ***Cannibal Contagion***, there can be plenty of high-adrenaline, off-the-hook combat. You (read: the Players) can take control of the game and seriously throw down. Blood can splatter the walls as you carve through the monster hordes in what I like to call a “Survival Comedy” style of game. But there can also be plenty of drama as the characters come face-to-face with the dark things that mere humans were not meant to face. As you see your friends and everything else about the world you knew destroyed and corrupted, you are forced to make some serious choices about your own morals and mortality. There is more than one way to succumb to the evil; Infection is one such way, definitely. But how different from that supernatural contagion is the sheer primal madness within all people, the instinct that rears its head when the human is forced to survive?
+In Cannibal Contagion, there can be plenty of high-adrenaline, off-the-hook combat. You (read: the Players) can take control of the game and seriously throw down. Blood can splatter the walls as you carve through the monster hordes in what I like to call a “Survival Comedy” style of game. But there can also be plenty of drama as the characters come face-to-face with the dark things that mere humans were not meant to face. As you see your friends and everything else about the world you knew destroyed and corrupted, you are forced to make some serious choices about your own morals and mortality. There is more than one way to succumb to the evil; Infection is one such way, definitely. But how different from that supernatural contagion is the sheer primal madness within all people, the instinct that rears its head when the human is forced to survive?
 
-Thanks so very much for picking up a copy of ***Cannibal Contagion***. May your future days be full of desperation, and may your zombie-huntings be bountiful and maddening.
+Thanks so very much for picking up a copy of Cannibal Contagion. May your future days be full of desperation, and may your zombie-huntings be bountiful and maddening.
 
 ### What Makes This Game Different?
 
-If you’ve ever looked through the shelves of your favorite local gaming store, I’m pretty sure you’ve noticed at least a couple of other games that already tackle the “Us Against the Undead” shtick. You may find yourself wondering what makes this game different from those other games. Perhaps thoughts such as “Man, *another* Zombie game? C’mon, bro, try something new!” have crossed your mind while looking through the book up until this point. But have no fear, this game brings something new to the table, and I’m here to tell you what that is: ***Cannibal Contagion*** is actually a role-playing game *about* Zombie survival, and not just a default role-playing game system with some Zombie monsters tacked on top. Those other games are lots of fun and several of them grace my shelves at home, but I never quite felt that they successfully brought the Zombie and the RPG together as one – as such, this game was written to fix that.
+If you’ve ever looked through the shelves of your favorite local gaming store, I’m pretty sure you’ve noticed at least a couple of other games that already tackle the “Us Against the Undead” shtick. You may find yourself wondering what makes this game different from those other games. Perhaps thoughts such as “Man, *another* Zombie game? C’mon, bro, try something new!” have crossed your mind while looking through the book up until this point. But have no fear, this game brings something new to the table, and I’m here to tell you what that is: Cannibal Contagion is actually a role-playing game *about* Zombie survival, and not just a default role-playing game system with some Zombie monsters tacked on top. Those other games are lots of fun and several of them grace my shelves at home, but I never quite felt that they successfully brought the Zombie and the RPG together as one – as such, this game was written to fix that.
 
-In ***Cannibal Contagion***, the mechanics are built entirely around the concept of survival against the dangers of an infectious enemy. Zombies are of course one of the most popular versions of that danger, but aliens, parasites, spirits, vampires, wendigo, and fundamentalist religious cults could all be effectively handled with the exact same approach: mechanics which could very quickly turn You into one of *Them*. How are Body Snatchers, Zombies, and Possessing Spirits really all that different? In this game, the abstract Infection rules are incorporated tightly into the core system, making the true threat of the Undead – that you might become one of them! – part of almost every conflict in which the characters participate.
+In Cannibal Contagion, the mechanics are built entirely around the concept of survival against the dangers of an infectious enemy. Zombies are of course one of the most popular versions of that danger, but aliens, parasites, spirits, vampires, wendigo, and fundamentalist religious cults could all be effectively handled with the exact same approach: mechanics which could very quickly turn You into one of *Them*. How are Body Snatchers, Zombies, and Possessing Spirits really all that different? In this game, the abstract Infection rules are incorporated tightly into the core system, making the true threat of the Undead – that you might become one of them! – part of almost every conflict in which the characters participate.
 
 ### Reading This Text
 
-This book contains all the rules you need to play this game. Throughout the text you will see various terms written in **<span style="font-variant:small-caps;">Bold Smallcaps</span>**. This format is used to denote special mechanical terms that are important for understanding this game. All of these terms will also be listed and defined in the Glossary appendix at the back of this book.
+This book contains all the rules you need to play this game. Throughout the text you will see various terms written in ***Bold Italics***. This format is used to denote special mechanical terms that are important for understanding this game. All of these terms will also be listed and defined in the Glossary appendix at the back of this book.
 
-Additionally, you’ll see words written in **bold** and *italics* quite frequently, and sometimes even both at once. These exist not as special terms or anything, but instead because I’m a pretty intense guy, and I get excited when I write and want to emphasize things.
+Additionally, you’ll see words written in just plain **bold** and *italics* quite frequently. These exist not as inherently special terms or anything, but instead because I’m a pretty intense guy, and I get excited when I write and want to emphasize things.
 
 Something I find more amusing than I really should is reading these rules to myself as if they were spoken by the Movie Trailer Guy. That guy is awesome, and I want his job very badly.
 
 ## Game Play Synopsis
 
-***Cannibal Contagion (CC)*** is intended to be a fast-paced role-playing game of comedic gun-fu zombie-slaughtering survival and action. The game is overseen by one player, called the **<span style="font-variant:small-caps;">Cannibal in Charge</span>** (CiC). The CiC sets the game premise, and the players make their first characters – we call these main characters the **<span style="font-variant:small-caps;">Survivors</span>**. Each player chooses their Survivor’s numbers, abilities, and personal details, and the CiC then sets the stage and frames the first Scene.
+Cannibal Contagion is intended to be a fast-paced role-playing game of comedic gun-fu zombie-slaughtering survival and action. The game is overseen by one player, called the ***Cannibal in Charge*** (CiC). The CiC sets the game premise, and the players make their first characters – we call these main characters the ***Survivors***. Each player chooses their Survivor’s numbers, abilities, and personal details, and the CiC then sets the stage and frames the first Scene.
 
-The game flows mainly in **<span style="font-variant:small-caps;">Scenes</span>**. A scene is set, and the play begins. Players role-play in the scene, narrating their own involvement until there is a conflict of some kind between the players and/or their characters, or between one or more players and the CiC. This most likely comes from one player disagreeing with aspects and details of another player’s chosen narration. When this happens, it’s time to break into a **<span style="font-variant:small-caps;">Showdown</span>**.
+The game flows mainly in ***Scenes***. A scene is set, and the play begins. Players role-play in the scene, narrating their own involvement until there is a conflict of some kind between the players and/or their characters, or between one or more players and the CiC. This most likely comes from one player disagreeing with aspects and details of another player’s chosen narration. When this happens, it’s time to break into a ***Showdown***.
 
 In a Showdown, players draw cards from the deck and then play those cards against one another to determine success, and these Showdowns can frequently escalate into higher levels of intensity. Whoever wins the Showdown gets to narrate the outcome, and if the Showdown is combat-based, there may be additional effects caused by whatever weapons and equipment they are using.
 
-Showdowns are where the shit hits the fan, and where the majority of the crazy zombie-fighting action takes place. In most Showdowns, the Survivors will face off against **<span style="font-variant:small-caps;">Threats</span>**, and attempt to overcome them with clever application of narration and mechanics. Of course, Showdowns don’t always have to involve zombies, especially should the Survivors decide to start whacking each other over personal slights and disagreements in plans. Nor do they even have to involve combat, and can be used to play out highly plot-sensitive actions and events that affect the game setting. But, just between you and me, there will quite likely be a lot of murdering in these. It’s one of the game’s big features, so just go at it and have fun.
+Showdowns are where the shit hits the fan, and where the majority of the crazy zombie-fighting action takes place. In most Showdowns, the Survivors will face off against ***Threats***, and attempt to overcome them with clever application of narration and mechanics. Of course, Showdowns don’t always have to involve zombies, especially should the Survivors decide to start whacking each other over personal slights and disagreements in plans. Nor do they even have to involve combat, and can be used to play out highly plot-sensitive actions and events that affect the game setting. But, just between you and me, there will quite likely be a lot of murdering in these. It’s one of the game’s big features, so just go at it and have fun.
 
 The game flows in these scenes and Showdowns, and the characters push forward towards whatever goals and objectives they have established. For many games, the objective will most likely just be survival - getting the hell out of, well, Hell or wherever they are, should be a primary concern. But maybe there’s a bomb to diffuse, a crazy wizard to stop, an evil machine to destroy, a group of innocents to rescue, a sinister portal to seal, or something far more distressing. Perhaps the characters have goals that conflict, and their pursuit of these goals leads them to fight one another.
 
-Between the scenes, the players can use special **<span style="font-variant:small-caps;">Survival Tokens</span>** to restore any damage their characters may have taken, repair their wounded psyches, and even acquire new equipment during the between-scene “downtimes.” Survival Tokens can also be used mid-scene to resist damage and insanity, and keep weapons loaded and primed for action.
+Between the scenes, the players can use special ***Survival Tokens*** to restore any damage their characters may have taken, repair their wounded psyches, and even acquire new equipment during the between-scene “downtimes.” Survival Tokens can also be used mid-scene to resist damage and insanity, and keep weapons loaded and primed for action.
 
-The characters will come up against horrific things in this game, and sometimes the worst threats to their survival will be their own fragile minds. Monsters and demons are scary things, things humans weren’t meant to encounter or understand. In the face of such stress, the characters can risk their own sanity to push themselves further to the limit, doing greater things that they would not normally be able to accomplish in normal, “less-interesting” times. This is handled on-the-fly by meta-game negotiations between the player and their designated **<span style="font-variant:small-caps;">Mad Half</span>** (another player at the table who controls that character’s insanity). As such, the characters are at an increasing risk of flipping out and doing psychotic wacko things.
+The characters will come up against horrific things in this game, and sometimes the worst threats to their survival will be their own fragile minds. Monsters and demons are scary things, things humans weren’t meant to encounter or understand. In the face of such stress, the characters can risk their own sanity to push themselves further to the limit, doing greater things that they would not normally be able to accomplish in normal, “less-interesting” times. This is handled on-the-fly by meta-game negotiations between the player and their designated ***Mad Half*** (another player at the table who controls that character’s insanity). As such, the characters are at an increasing risk of flipping out and doing psychotic wacko things.
 
 All the while, as they try to stay cool and keep surviving, and their players narrate the story forward, the threat of Infection grows ever more serious. Many of the Threats the characters will face can infect them with the Contagion, and with just a little bit of time and a few wrong moves, any character could turn into a cannibal zombie-monster and turn against the others. Even more distressing is the knowledge that death will likely only hasten this inevitable threat.
 
@@ -76,7 +76,7 @@ Should a character ever turn to the Zombie Side, the player can choose to contin
 
 ## Basic Session Flow
 
-A typical game of ***CC*** flows a little something like this:
+A typical game of Cannibal Contagion flows a little something like this:
 
 1. Game Setup: CiC lays out the scenario basics, prepares the materials
 2. Character Creation: All the players create their characters and choose their Mad Half
@@ -87,11 +87,11 @@ A typical game of ***CC*** flows a little something like this:
 
 ## The Pitch: Getting Your Players Interested
 
-“Hey guys! Have you seen *Dawn of the Dead*? What about *Versus*, or *Wild Zero*? *Planet Terror*? Hell yeah, this game is just like that. Let’s do it!” It really is just that easy. Tell your players you have a zombie-survival game that only takes a couple of hours to play. Tell them it works even better with beer. They’ll see your logic, and soon you will all be playing a fabulous game of ***Cannibal Contagion***. Make sure the players understand the implied lethality of the game, so they don’t get all butt-hurt if (and more likely *when*) their characters die. Make sure they also understand that this game favors players who grab the story and push forward on their own. Players: Don’t turtle up! Seize the moment!
+“Hey guys! Have you seen *Dawn of the Dead*? What about *Versus*, or *Wild Zero*? *Planet Terror*? Hell yeah, this game is just like that. Let’s do it!” Tell your players you have a zombie-survival game that only takes a couple of hours to play. Tell them it works even better with beer. They’ll see your logic, and soon you will all be playing a fabulous game of Cannibal Contagion. Make sure the players understand the implied lethality of the game, so they don’t get all butt-hurt if (and more likely *when*) their characters die. Make sure they also understand that this game favors players who grab the story and push forward on their own.
 
 ## Setting It All Up
 
-To start a game of ***CC***, someone has to first take on the mantle of the Cannibal in Charge (CiC) and then gather together some friends to play. As the CiC, you should take some time beforehand to set up a scenario. The game’s scenario sets the basics of what is happening in the game, and the handful of mechanical variables that should be considered during playtime. A few example scenarios have been included in this book, each complete with sample characters and suggested game variables. Grab one of these and go if you want to jump right in, or create your own to fit your needs. Read the Scenario Creation section for more information on that (see page 117).
+To start a game of Cannibal Contagion, someone has to first take on the mantle of the Cannibal in Charge (CiC) and then gather together some friends to play. As the CiC, you should take some time beforehand to set up a scenario. The game’s scenario sets the basics of what is happening in the game, and the handful of mechanical variables that should be considered during playtime. A few example scenarios have been included in this book, each complete with sample characters and suggested game variables. Grab one of these and go if you want to jump right in, or create your own to fit your needs. Read the Scenario Creation section for more information on that (see page 117).
 
 You’ll need to make sure you have the right materials to play, as well. Paper and pencils are always necessary. Of course, you can print up some character sheets, but I’ve personally found that scrap paper and index cards can be quite useful for character info, and are often more easily available for quick pick-up games. You’ll need a single deck of playing cards, with the jokers left in. You’ll also need a good number of tokens of some kind, for use as Adversity tokens and Survival tokens. Pennies, poker chips, and glass bead counters work very well for this, and you don’t even really need to differentiate between them.
 
@@ -99,13 +99,13 @@ If you’ve got the time and the inclination, consider printing out some of the 
 
 ## Using The Cards
 
-All mechanical conflicts in ***CC*** are resolved using a standard deck of 54 playing cards with the Jokers intact. The ranking of suits, from highest to lowest, is Spades, Hearts, Clubs, and Diamonds (remember: Black, Red, Black, Red). Aces are high, and ranked at 14, with Kings, Queens, and Jacks ranked at 13, 12, and 11, respectively.
+All mechanical conflicts in Cannibal Contagion are resolved using a standard deck of 54 playing cards with the Jokers intact. The ranking of suits, from highest to lowest, is Spades, Hearts, Clubs, and Diamonds (remember: Black, Red, Black, Red). Aces are high, and ranked at 14, with Kings, Queens, and Jacks ranked at 13, 12, and 11, respectively.
 
 The two Jokers are the real game-winners. When a Joker is played, the player of the joker instantly wins whatever Showdown is in progress, unless the opponent instantly counters with the other Joker (at which point both of them are immediately canceled out). Jokers in the final Play Pile are considered “faces and aces” for all such purposes, in which cases each Joker qualifies as *two* such cards.
 
 Throughout the game, the cards will be in one of four places: the Deck, the Discard Pile, the Play Pile, and the players’ Hands. At the beginning of every Showdown, involved players are dealt a Hand with a number of cards equal to their relevant Characteristic rank. As the Showdown is played through, the players play cards from their hands into the play pile. At the end of the Showdown, the cards from the play pile are counted to determine the results, and then placed in the discard pile. The core deck of cards will most likely be played completely through many times during the course of a high-octane game session.
 
-The discard pile is ***only*** to be shuffled back into the deck when there are not enough cards left in the deck to play a Showdown. One of the subtler purposes of the deck is to maintain a level of mechanical tension. As the deck steadily runs out, the players are forced to enter conflicts knowing that their chances of drawing good cards become increasingly slimmer, and that can definitely affect their decisions. This is an intended feature of the mechanics, and it can easily be ruined by unnecessarily frequent reshufflings.
+The discard pile is **only** to be shuffled back into the deck when there are not enough cards left in the deck to play a Showdown. One of the subtler purposes of the deck is to maintain a level of mechanical tension. As the deck steadily runs out, the players are forced to enter conflicts knowing that their chances of drawing good cards become increasingly slimmer, and that can definitely affect their decisions. This is an intended feature of the mechanics, and it can easily be ruined by unnecessarily frequent reshufflings.
 
 What if the cards run out and all of them are in hands, ready to play? Then stop drawing and start playing, folks!
 
@@ -123,7 +123,7 @@ This game works best if the players take the narration and run with it. The CiC�
 
 ## Every Game is Different!
 
-Keep in mind that every session of ***Cannibal Contagion*** will play out differently. Depending on how the players use the mechanics, your game may focus heavily on Contagion, Madness, Survival, or any combination of these or other core game themes and features. I’ve played games wherein the players descended into Madness within a tiny handful of scenes, yet didn’t really deal much with Contagion. Thene again, I’ve played games wherein the entire team of Survivors was Turned into zombies before anyone could even descend pas the second stage of Madness. I encourage you each to explore the themes of the heaviest interest to you, and let your own games flow as they may.
+Keep in mind that every session of Cannibal Contagion will play out differently. Depending on how the players use the mechanics, your game may focus heavily on Contagion, Madness, Survival, or any combination of these or other core game themes and features. I’ve played games wherein the players descended into Madness within a tiny handful of scenes, yet didn’t really deal much with Contagion. Thene again, I’ve played games wherein the entire team of Survivors was Turned into zombies before anyone could even descend pas the second stage of Madness. I encourage you each to explore the themes of the heaviest interest to you, and let your own games flow as they may.
 
 ## About This Book...
 
@@ -140,9 +140,9 @@ I’m really hoping that I’ve made this rules text both an informative and enj
 
 ## The Will to Survive
 
-As a player, your character is your number one ultimate key to surviving a game of ***Cannibal Contagion***. When the game begins, you and your fellow players will create your very own characters together, and when that is done with, you’ll use your character to play the game and push the story and action forward. It is through your character that parts of the setting are explored, changed, destroyed, and even created. Each time you state the actions your character takes, you directly alter the course of the game and the story you all tell together.
+As a player, your character is your number one ultimate key to surviving a game of Cannibal Contagion. When the game begins, you and your fellow players will create your very own characters together, and when that is done with, you’ll use your character to play the game and push the story and action forward. It is through your character that parts of the setting are explored, changed, destroyed, and even created. Each time you state the actions your character takes, you directly alter the course of the game and the story you all tell together.
 
-In ***Cannibal Contagion***, you are given a whole lot of freedom in your character’s choices. Your character can do anything you want her to do, within the acceptable limits of the situation and game setting. For example, if your “scared schoolteacher” character is cornered alone by a horrible monster in the ruins of an old tenement, it would make sense for you to be able to say she grabs a brick from the rubble and uses it to smash the creature’s face in. However, it would not make any sense at all for her to sprout butt-wings, rise into the air, and spew forth blasts of holy flame from between the gaps in her teeth – unless of course that ability had somehow been previously established as a part of that character.
+In Cannibal Contagion, you are given a whole lot of freedom in your character’s choices. Your character can do anything you want her to do, within the acceptable limits of the situation and game setting. For example, if your “scared schoolteacher” character is cornered alone by a horrible monster in the ruins of an old tenement, it would make sense for you to be able to say she grabs a brick from the rubble and uses it to smash the creature’s face in. However, it would not make any sense at all for her to sprout butt-wings, rise into the air, and spew forth blasts of holy flame from between the gaps in her teeth – unless of course that ability had somehow been previously established as a part of that character.
 
 At the core of your character is a base Concept, in the form of a single question: Who Am I? Answering this question is a vital part of the game. The tone and wording of your Concept will drastically change your own perception of her attitude and feel, as well as the perceptions your fellow players and CiC have of her role in the game. Characters with funny names and story roles will have quite different impacts on the feel of the game. For example, a character whose base concept is “I am Zuhei Morocco, burger-flipper and the greatest Disco Samurai on the planet,” will have quite a different thematic impact upon the story than a character whose concept is “I am Carla Tomlinson, disgruntled waitress, a mother who needs to find her missing kids in this chaotic desolation of a city.” When coming up with your own core concept, heavily consider the implied themes that you, your fellows, and the CiC wish to evoke with this game.
 
@@ -184,7 +184,7 @@ If you read the first few paragraphs of this chapter, you know how important a c
 
 #### Goals
 
-Every character in a game of ***Cannibal Contagion*** should have at least two major goals. The first goal is the Scenario Purpose, which is predetermined by the CiC. During character creation, the CiC will define the basic purpose of the scenario, and you should use it when creating the rest of your character. This Purpose sets a basic overall goal for all the players. It will likely be something simple, such as “escape the island” or “destroy the source of dark power” or some other such easily-stated goal.
+Every character in a game of Cannibal Contagion should have at least two major goals. The first goal is the Scenario Purpose, which is predetermined by the CiC. During character creation, the CiC will define the basic purpose of the scenario, and you should use it when creating the rest of your character. This Purpose sets a basic overall goal for all the players. It will likely be something simple, such as “escape the island” or “destroy the source of dark power” or some other such easily-stated goal.
 
 The second goal is the Character Goal, which you should pick now. This is a special motivating desire that drives your character, a personal agenda that you should follow (and if applicable, try and accomplish) during this scenario. You could be searching for your missing kids, or trying to find a woman to start a new family with. Maybe you’re trying to stockpile as many weapons as possible, or locate as many other survivors of the apocalypse as you can. This can be as simple as a focused mindset (“I must protect these people!”) or as complex as you like (“I must get The Brown-Paper Package to Dock 23 before the stroke of 21:00 hours on the fourth day, or all is doomed!”).
 
@@ -192,15 +192,15 @@ As the game is played, you should try and focus on your character’s objective 
 
 #### Characteristics
 
-After you have the concept, it’s time to determine your character’s **<span style="font-variant:small-caps;">Characteristic</span>** scores. This part should move pretty quickly, as it is simply a matter of assigning some numbers. Every character has four major Characteristics:
+After you have the concept, it’s time to determine your character’s ***Characteristic*** scores. This part should move pretty quickly, as it is simply a matter of assigning some numbers. Every character has four major Characteristics:
 
-**<span style="font-variant:small-caps;">Kill</span>:** This *active* Characteristic is used to win Showdowns through force and action, and usually by being totally badass. Mechanically, **<span style="font-variant:small-caps;">Kill</span>** will most often come into play when trying to cause direct pain and suffering – usually through creative applications of weapons and fists – but it can also be called upon in Quickies when taking direct action to change the scene somehow. *You should boost **<span style="font-variant:small-caps;">Kill</span>** if you want to be good at combat and direct action.*
+***Kill</span>:** This *active* Characteristic is used to win Showdowns through force and action, and usually by being totally badass. Mechanically, ***Kill*** will most often come into play when trying to cause direct pain and suffering – usually through creative applications of weapons and fists – but it can also be called upon in Quickies when taking direct action to change the scene somehow. *You should boost ***Kill*** if you want to be good at combat and direct action.*
 
-**<span style="font-variant:small-caps;">Savvy</span>:** This *active* Characteristic is used to win Showdowns through brains, by being resourceful and seeing the Big Picture. Your **<span style="font-variant:small-caps;">Savvy</span>** score will frequently be used for most non-combative attempts (improvised Quickies) to influence the setting, as well as for making Juice checks when your weapons run low on ammo. *You should boost **<span style="font-variant:small-caps;">Savvy</span>** if you want to succeed on lots of out-of-combat Quickies, keep your weapons loaded, and carry lots of Gear.*
+***Savvy</span>:** This *active* Characteristic is used to win Showdowns through brains, by being resourceful and seeing the Big Picture. Your ***Savvy*** score will frequently be used for most non-combative attempts (improvised Quickies) to influence the setting, as well as for making Juice checks when your weapons run low on ammo. *You should boost ***Savvy*** if you want to succeed on lots of out-of-combat Quickies, keep your weapons loaded, and carry lots of Gear.*
 
-**<span style="font-variant:small-caps;">Grit</span>:** This *passive* Characteristic is used to keep yourself alive. Your **<span style="font-variant:small-caps;">Grit</span>** score will come into play should you ever choose to attempt to resist incoming Hurtin’ and Infection, and it gives you more Survival tokens at the beginning of each scene. *You should boost **<span style="font-variant:small-caps;">Grit</span>** if you want to stay alive.*
+***Grit</span>:** This *passive* Characteristic is used to keep yourself alive. Your ***Grit*** score will come into play should you ever choose to attempt to resist incoming Hurtin’ and Infection, and it gives you more Survival tokens at the beginning of each scene. *You should boost ***Grit*** if you want to stay alive.*
 
-**<span style="font-variant:small-caps;">Cool</span>:** This *passive* Characteristic is used primarily to set the number of points you have in each of the five stages of your character’s Crazy-Go-Psycho meter. With a **<span style="font-variant:small-caps;">Cool</span>** rank of four, for example, you will have four points per each stage of your CGP meter, for a total of 20 points on the whole meter. *You should boost **<span style="font-variant:small-caps;">Cool</span>** if you want to stay sane.*
+***Cool</span>:** This *passive* Characteristic is used primarily to set the number of points you have in each of the five stages of your character’s Crazy-Go-Psycho meter. With a ***Cool*** rank of four, for example, you will have four points per each stage of your CGP meter, for a total of 20 points on the whole meter. *You should boost ***Cool*** if you want to stay sane.*
 
 At creation, you should rank these scores of 4, 3, 2, and 1 as you see fit. The easiest way is to just order them in a list in the way you see more appropriate to your character, and then rank them 4, 3, 2, and 1 right down the line. Below are some general guidelines on how these ranks relate to your character’s actual abilities.
 
@@ -213,7 +213,7 @@ At creation, you should rank these scores of 4, 3, 2, and 1 as you see fit. The 
 
 #### Gear and Weapons
 
-Does your character have any useful **<span style="font-variant:small-caps;">Gear</span>**? Think of some things your character might have in his possession that he might somehow find useful. These can be personal items, tools, survival gear, soda cans, gas cans, bubblegum and just about anything you can possibly think of. Run these by the CiC first, and if she approves, write them down on your sheet. You can start with a number of items equal to your **<span style="font-variant:small-caps;">Savvy</span>** rank.
+Does your character have any useful ***Gear***? Think of some things your character might have in his possession that he might somehow find useful. These can be personal items, tools, survival gear, soda cans, gas cans, bubblegum and just about anything you can possibly think of. Run these by the CiC first, and if she approves, write them down on your sheet. You can start with a number of items equal to your ***Savvy*** rank.
 
 Don’t forget to keep track of those Gear slots! Every character has a limited number of slots, and each piece of Gear uses a slot. Hand-held things like Pistols, Lighters, Walkie-Talkies and anything smaller take up one slot, shotguns and rusty pipes and shovels take up two slots, bazookas take up three, and so on. Some items like sidepacks and backpacks and survival vests don’t take slots, and instead give additional bonus slots – one from a fanny pack, three from a backpack, etc.
 
@@ -227,15 +227,15 @@ For more information on Gear, see page 65.
 
 #### Advanced Rule: Allies
 
-If your group consists of seasoned ***Cannibal Contagion*** players, your CiC may allow you to start the game with Allies. You must sacrifice Gear in order to do this. Each **two** pieces of Gear that you choose not to take can buy you one Rank of an Ally. Players can combine their ranks in order to purchase Allies, but no Ally Rank can exceed 4. Ask your CiC before assuming this is an option for you!
+If your group consists of seasoned Cannibal Contagion players, your CiC may allow you to start the game with Allies. You must sacrifice Gear in order to do this. Each **two** pieces of Gear that you choose not to take can buy you one Rank of an Ally. Players can combine their ranks in order to purchase Allies, but no Ally Rank can exceed 4. Ask your CiC before assuming this is an option for you!
 
 #### Mojo
 
-Next, draw a random card to determine your character’s **<span style="font-variant:small-caps;">Mojo</span>** power. This is a special boost that serves to give your character some kind of edge. The scope and apparent usefulness of the powers included in this book vary widely, so don’t be surprised if yours seems really amazing or really crappy. Write your Mojo power down on your character sheet.
+Next, draw a random card to determine your character’s ***Mojo*** power. This is a special boost that serves to give your character some kind of edge. The scope and apparent usefulness of the powers included in this book vary widely, so don’t be surprised if yours seems really amazing or really crappy. Write your Mojo power down on your character sheet.
 
 #### Mad Half, Psychotrigger, and the CGP Meter
 
-After all of the characters have been created, every player must choose another player at the table to play their **<span style="font-variant:small-caps;">Mad Half</span>**. The Mad Half is responsible for handling all of your Negotiations when you want to push your character beyond her normal abilities. As the game flows, this player will very likely gain an increased level of control over your character’s actions and sanity. I suggest picking a player who is known for crazy wild exposition, as they will have the most fun with your character’s madness, and in turn everyone else will have a lot of fun being there when it happens. Every character must have a Mad Half, and no single player can be the Mad Half for more than one other player; each player must choose a *different* Mad Half for their character.
+After all of the characters have been created, every player must choose another player at the table to play their ***Mad Half***. The Mad Half is responsible for handling all of your Negotiations when you want to push your character beyond her normal abilities. As the game flows, this player will very likely gain an increased level of control over your character’s actions and sanity. I suggest picking a player who is known for crazy wild exposition, as they will have the most fun with your character’s madness, and in turn everyone else will have a lot of fun being there when it happens. Every character must have a Mad Half, and no single player can be the Mad Half for more than one other player; each player must choose a *different* Mad Half for their character.
 
 Once you have your Mad Half, it’s time to designate your character’s Psychotrigger. This is a simple statement of what it is that drives your character crazy in this game. It can be just about anything, from an addiction to an obsession, to a driving goal that is more important than anything or anyone else. This will be evoked by your Mad Half each time you want to Negotiate for empowerment.
 
@@ -248,17 +248,17 @@ Below are some examples:
 * Obsessive-compulsive inventory organization
 * Problems trusting strangers
 
-You can use the Quick-Draw table in the back of the book for more examples. Next, look at the Crazy-Go-Psycho meter on your character sheet and note that your **<span style="font-variant:small-caps;">Cool</span>** rank +1 determines how many CGP points you can accrue for each stage of madness.
+You can use the Quick-Draw table in the back of the book for more examples. Next, look at the Crazy-Go-Psycho meter on your character sheet and note that your ***Cool*** rank +1 determines how many CGP points you can accrue for each stage of madness.
 
 For more information on the Mad Half and Psychotriggers, see the Mad Half chapter starting on page 89.
 
 #### Survival Tokens
 
-Every Survivor begins the game with a number of Survival Tokens determined by their **<span style="font-variant:small-caps;">Grit</span>** Characteristic rank. Additionally, if they gave up any Gear options, they may have a few more points.
+Every Survivor begins the game with a number of Survival Tokens determined by their ***Grit*** Characteristic rank. Additionally, if they gave up any Gear options, they may have a few more points.
 
 #### The Secret Votes
 
-The final step of the creation process involves you answering each of the four Secret Votes. Either use some note paper or one of the special custom vote cards from the website, and fill in the name of the character you choose most likely to fill each of the answers. During the game, if any of these answers come true, you gain an immediate ***eight***-token bonus to your Survival token stash! The Questions are:
+The final step of the creation process involves you answering each of the four Secret Votes. Either use some note paper or one of the special custom vote cards from the website, and fill in the name of the character you choose most likely to fill each of the answers. During the game, if any of these answers come true, you gain an immediate **eight**-token bonus to your Survival token stash! The Questions are:
 
 * Which character will die first?
 * Which character will betray the others first?
@@ -271,7 +271,7 @@ And for the record, yes, you can *totally* write yourself into any of these slot
 
 If you don’t have a character concept in mind, or you just want to churn one out with a quickness, try using the second method for character creation. Grab a deck of cards and follow the steps below, and you should have a new character in just a couple of minutes, if not less.
 
-For random Characteristics, draw four cards for each and lay them out in a row. These represent your four Characteristics from left to right (**<span style="font-variant:small-caps;">Kill</span>**, **<span style="font-variant:small-caps;">Cool</span>**, **<span style="font-variant:small-caps;">Grit</span>**, and **<span style="font-variant:small-caps;">Savvy</span>**). The Characteristic with the highest card (determined by rank, then suit) gets a 4, the next a 3, and then a 2 and a 1. There ya go!
+For random Characteristics, draw four cards for each and lay them out in a row. These represent your four Characteristics from left to right (***Kill***, ***Cool***, ***Grit***, and ***Savvy***). The Characteristic with the highest card (determined by rank, then suit) gets a 4, the next a 3, and then a 2 and a 1. There ya go!
 
 For random Archetypes and Psychotriggers, use the Draw Tables in the back of this book. For random Gear, empty your pockets onto the table, then survey the room you’re in (tabletop contents included) and pick four things that seem useful. Write them down. For the Mad Half, deal a card face-up to each other player at the table. The player with the highest card is your Mad Half. You can also use any of the steps in this system to supplement the Custom-Built creation method, replacing the steps you can’t figure out quickly on your own. You can even build a basic character profile by drawing cards against the quick Threat tables.
 
@@ -320,22 +320,22 @@ Below are thirteen sample Mojo abilities. They’re numbered Two through Ace so 
 
 * **2: Adaptability Under Fire:** Before any Quickie or Showdown, you can gain a point of CGP to permanently swap any two Characteristics’ current Ranks. This *does not* swap their starting maximums, though.
 * **3: Always Keep One in the Chamber**: Whenever the standard rules say you run out of Juice with your weapon, you can gain a point of CGP and say you didn’t actually run out of Juice, and continue using your weapon as normal. Your actual Juice tally remains unaffected by this Mojo, however, so watch out for the next time you use your weapon again.
-* **4: Balls of Steel**: In Showdowns and Quickies, you can gain a point of CGP to substitute your **<span style="font-variant:small-caps;">Cool</span>** score for **<span style="font-variant:small-caps;">Kill</span>** or **<span style="font-variant:small-caps;">Savvy</span>**. You must declare this before the cards are dealt.
-* **5: By Will Alone:** In Showdowns and Quickies, you can gain a point of CGP to substitute your **<span style="font-variant:small-caps;">Grit</span>** score for **<span style="font-variant:small-caps;">Kill</span>** or **<span style="font-variant:small-caps;">Savvy</span>**. You must declare this before the cards are dealt.
+* **4: Balls of Steel**: In Showdowns and Quickies, you can gain a point of CGP to substitute your ***Cool*** score for ***Kill*** or ***Savvy***. You must declare this before the cards are dealt.
+* **5: By Will Alone:** In Showdowns and Quickies, you can gain a point of CGP to substitute your ***Grit*** score for ***Kill*** or ***Savvy***. You must declare this before the cards are dealt.
 * **6: The Calming Repose of Death:** Each time you kill an opponent in a single Showdown with no assistance from your teammates, you can erase a point of CGP from your meter.
 * **7: Carrier Immunity:** You are immune to the effects of the game’s Contagion, but you can still carry it. If you ever become infected, ignore any Effects, Threshold, and Aftermath of the Contagion. Once infected, you can transmit it through normal means.
-* **8: Effing *Hard Core*:** You’re so hard core, you can sacrifice your own well-being just to hurt your opponents. When you win a combat Showdown against an opponent, you can voluntarily take any amount of direct Hurtin’ in order to deliver an equal amount of Hurtin’ to your opponent. You cannot attempt a **<span style="font-variant:small-caps;">Grit</span>** check to resist any of your self-inflicted Hurtin’. Any Hurtin’ you apply to yourself is divvied among your Characteristics as you see fit.
+* **8: Effing *Hard Core*:** You’re so hard core, you can sacrifice your own well-being just to hurt your opponents. When you win a combat Showdown against an opponent, you can voluntarily take any amount of direct Hurtin’ in order to deliver an equal amount of Hurtin’ to your opponent. You cannot attempt a ***Grit*** check to resist any of your self-inflicted Hurtin’. Any Hurtin’ you apply to yourself is divvied among your Characteristics as you see fit.
 * **9: Get Out of Hell Free Card**: Like a cat that’s used up seven of its lives, you’ve got two remaining. The first time anything in the game ever causes your death, you bite the bullet, but only for a short while. At the beginning of the next scene, you are back in the game with one rank in each of your Characteristics. Keep in mind, this does nothing about existing Infection or CGP, but it might just stave off that Turning for a little while longer.
 * **10: My Kung-Fu Is Better Than Yours:** Once per opponent per session, you can evoke this Mojo to force your opponent to discard the last card they just played. You can only ever use this once on the same opponent, *ever*. Using this power gives you one point of CGP.
-* **J: One Tough Sumbitch:** When making **<span style="font-variant:small-caps;">Grit</span>** Quickies to attempt to nullify incoming Hurtin’, each face or ace drawn nullifies two Hurtin’, instead of the usual one.
+* **J: One Tough Sumbitch:** When making ***Grit*** Quickies to attempt to nullify incoming Hurtin’, each face or ace drawn nullifies two Hurtin’, instead of the usual one.
 * **Q: Sir Not-Appearing-In-This-Scene:** If you have been narrated into a scene, you can gain a CGP point and write yourself out of it at any moment before you *play* any cards. You must be able to narrate your departure somehow, such as how you vanished while no one was looking, or how contrary to what everyone believed, you were never there in the first place. Once you’ve played even a single card in this scene via Quickie or Showdown, you lose the ability to evoke this during this scene. Note that being *dealt* cards does not count as actually having played them.
-* **K: Time Bomb**: You’ve got one last surprise for whoever kills you, one last trick up your sleeve should you ever have to bite that proverbial bullet. Whenever your character is killed in the game, everyone near her takes Hurtin.’ The Amount of Hurtin’ dealt is equal to your current stage of Madness multiplied by your **<span style="font-variant:small-caps;">Cool</span>** rank, Divided among everyone present. You have to narrate the nature of this unexpected Hurtin’ – maybe it’s a bomb in your head, maybe it’s a particularly violent death spasm, or maybe even your blood is filled with highly corrosive poisons, it’s up to you.
+* **K: Time Bomb**: You’ve got one last surprise for whoever kills you, one last trick up your sleeve should you ever have to bite that proverbial bullet. Whenever your character is killed in the game, everyone near her takes Hurtin.’ The Amount of Hurtin’ dealt is equal to your current stage of Madness multiplied by your ***Cool*** rank, Divided among everyone present. You have to narrate the nature of this unexpected Hurtin’ – maybe it’s a bomb in your head, maybe it’s a particularly violent death spasm, or maybe even your blood is filled with highly corrosive poisons, it’s up to you.
 * **A: Voice of Reason:** You are adept at calming those around you, reducing their madness in the face of dark times. You can “take” points of CGP from others, erasing one point from their current CGP tallies for each one you add to your own.
 * **Joker:** Take your pick!
 
 ## The Question and the Cold Open
 
-The very last step of character creation, be it the custom or random method, involves the CiC asking your character a question. Usually, this question will be some variant of “Where were you when the zombies attacked?” Once the CiC asks you, an intro scene with your character will be framed and played. This scene is called a **<span style="font-variant:small-caps;">Cold Open</span>**, and it is used to introduce your character to the events of the game. Typical games will feature each Survivor in her own unique scene, but if multiple players want to there is no reason they can’t share a Cold Open. Once each player has had their Cold Open, the game truly begins. More info on Cold Open scenes is found in the CiC’s section, on page 125.
+The very last step of character creation, be it the custom or random method, involves the CiC asking your character a question. Usually, this question will be some variant of “Where were you when the zombies attacked?” Once the CiC asks you, an intro scene with your character will be framed and played. This scene is called a ***Cold Open***, and it is used to introduce your character to the events of the game. Typical games will feature each Survivor in her own unique scene, but if multiple players want to there is no reason they can’t share a Cold Open. Once each player has had their Cold Open, the game truly begins. More info on Cold Open scenes is found in the CiC’s section, on page 125.
 
 ## Character Examples
 
@@ -382,9 +382,9 @@ the word “trouble” loses much of its meaning.”
 
 ## Surviving the Game
 
-Most of the game will be handled through free-form role-playing. Players will state their intentions, explore the scenes together, and generally free-play on their own without need of too much guidance from the CiC. Sometimes, there might be an issue or question at hand, like “Do we find some hidden caches of grenades inside this dumpster?” or “Can I use this hypo-spray stuff to clean the Infected wound?” and such. In these moments, the CiC is free to make an instant call on it and just say “sure, that’s awesome” or “hell no, that’s retarded,” but she may also decide instead to leave it to chance and let the cards decide. This involves a **<span style="font-variant:small-caps;">Quickie</span>** test.
+Most of the game will be handled through free-form role-playing. Players will state their intentions, explore the scenes together, and generally free-play on their own without need of too much guidance from the CiC. Sometimes, there might be an issue or question at hand, like “Do we find some hidden caches of grenades inside this dumpster?” or “Can I use this hypo-spray stuff to clean the Infected wound?” and such. In these moments, the CiC is free to make an instant call on it and just say “sure, that’s awesome” or “hell no, that’s retarded,” but she may also decide instead to leave it to chance and let the cards decide. This involves a ***Quickie*** test.
 
-Other times, one or more players may directly oppose the narration of another player at the table, or even the CiC. In such cases, the CiC can declare that the conflict requires them to take it to a **<span style="font-variant:small-caps;">Showdown</span>**, and let their cards and Characteristics determine whose version of the story holds true.
+Other times, one or more players may directly oppose the narration of another player at the table, or even the CiC. In such cases, the CiC can declare that the conflict requires them to take it to a ***Showdown***, and let their cards and Characteristics determine whose version of the story holds true.
 
 ### When to Use the Cards
 
@@ -400,23 +400,23 @@ Okay, so now you’ve decided that your character is not going to accept the CiC
 
 ## Card Mechanic #1: The Quickie
 
-Quickies are typically called upon in two different situations. The first is to allow the cards of fate to quickly make a decision on an unexpected in-game question. If the CiC feels that there’s a chance something random and unexpected might happen, such as a character hacking into a network and accessing the sprinklers in a building, or another character finding a hidden Glock under their neighbor’s mattress, she can allow the players to make Quickies to see what happens. In some ways, this can be seen as the general “skill check” of the ***CC*** rules.
+Quickies are typically called upon in two different situations. The first is to allow the cards of fate to quickly make a decision on an unexpected in-game question. If the CiC feels that there’s a chance something random and unexpected might happen, such as a character hacking into a network and accessing the sprinklers in a building, or another character finding a hidden Glock under their neighbor’s mattress, she can allow the players to make Quickies to see what happens. In some ways, this can be seen as the general “skill check” of the Cannibal Contagion rules.
 
-The other situation most often arises when the players have to resist some in-game effect, such as Infectious zombie bites. In these cases, players are allowed to call upon certain Characteristics to resist these game effects. For example, by spending a Survival token, you can use **<span style="font-variant:small-caps;">Grit</span>** to reduce Hurtin’ received from combat-focused Showdowns.
+The other situation most often arises when the players have to resist some in-game effect, such as Infectious zombie bites. In these cases, players are allowed to call upon certain Characteristics to resist these game effects. For example, by spending a Survival token, you can use ***Grit*** to reduce Hurtin’ received from combat-focused Showdowns.
 
 In either situation, the mechanics are the same. When a Quickie is called upon, the CiC states the relevant Characteristic for the situation, and the player draws that many cards from the deck (I *highly* encourage CiCs to allow the players to draw their own cards, as it helps to connect them directly to the game mechnics). If any of them are faces or aces, the player wins; otherwise the Quickie is a failure. The CiC narrates the success and failure consequences of Quickies, but is free to allow the players to do so as well (forcing a player to narrate their own failure can lead to some really fun moments). In most cases, one ace or face denotes basic success, and additionals should encourage the player to add a bit more flair to the narration. If the purpose of the Quickie was to resist some incoming Hurtin’ or other such effect, each face or ace denotes one point resisted. Keep in mind that the draw of a Joker counts as *two* faces or aces. No narration is necessary for Quickies made to resist mechanical effects, but it doesn’t hurt, and can only make the scene cooler.
 
 You can get additional card draws by evoking Gear and negotiating with your Mad Half for more. Evoking Gear is described on page 65, while the process of Mad Half negotiation is described on page 91. If a character has no ranks in the relevant Characteristic, they can only attempt a Quickie by evoking Gear and/or Negotiating with their Mad Half for more cards. Otherwise, the CiC’s narration holds.
 
-> **Quickie Example #1:** Vera’s character Carla is in desperate need of some serious firepower after barely escaping from that pack of wild slime zombies with her life and sanity intact. She ducks into a locally-owned hardware store in search of something to use in a pinch. Screg (the CiC) says that the store has been looted almost entirely dry, and nothing of importance can be found. Vera believes that there might be a chance that something useful got left behind in the chaos of this morning’s riots. Screg says what the hell, and agrees to let her try a **<span style="font-variant:small-caps;">Savvy</span>** Quickie to see if anything might be scrounged up. Carla’s **<span style="font-variant:small-caps;">Savvy</span>** score is 3, so Vera draws three cards: the 2 of Spades, the 10 of Clubs, and the Jack of Clubs. Because she succeeded at the Quickie with a Jack, Screg decrees that she manages to find a baseball bat, a box of shotgun shells, a hubcap for a 1972 Pinto hatchback, and a welder’s mask. The baseball bat is definitely useful as a weapon, and the shells could help her out on Juice checks should she ever find a shotgun. As for the other two, well, your ideas are as good as mine.
+> **Quickie Example #1:** Vera’s character Carla is in desperate need of some serious firepower after barely escaping from that pack of wild slime zombies with her life and sanity intact. She ducks into a locally-owned hardware store in search of something to use in a pinch. Screg (the CiC) says that the store has been looted almost entirely dry, and nothing of importance can be found. Vera believes that there might be a chance that something useful got left behind in the chaos of this morning’s riots. Screg says what the hell, and agrees to let her try a ***Savvy*** Quickie to see if anything might be scrounged up. Carla’s ***Savvy*** score is 3, so Vera draws three cards: the 2 of Spades, the 10 of Clubs, and the Jack of Clubs. Because she succeeded at the Quickie with a Jack, Screg decrees that she manages to find a baseball bat, a box of shotgun shells, a hubcap for a 1972 Pinto hatchback, and a welder’s mask. The baseball bat is definitely useful as a weapon, and the shells could help her out on Juice checks should she ever find a shotgun. As for the other two, well, your ideas are as good as mine.
 
-> **Quickie Example #2:** Karo’s character, Roger the Suit, is in a bad spot. He’s currently surrounded by a handful of contagious cannibals, and one of them just bit him! At the end of the conflict, Screg afflicted Roger with three points of Hurtin’ and two points of Infection. Karo elects to spend Survival Tokens to make **<span style="font-variant:small-caps;">Grit</span>** Quickies to attempt to resist some, if not all, of the incoming Hurtin’ and Infection. He spends one token to start the first Quickie, drawing two cards (his **<span style="font-variant:small-caps;">Grit</span>** rank): an Ace and a King! Woot! He resists two of the Hurtin’ (one for each face or ace drawn), and decides to take the third. He then spends another token to try a **<span style="font-variant:small-caps;">Grit</span>** Quickie to resist the Infection, drawing a five and a nine. Oh no! It looks like Roger is now on the spiraling path to zombification!
+> **Quickie Example #2:** Karo’s character, Roger the Suit, is in a bad spot. He’s currently surrounded by a handful of contagious cannibals, and one of them just bit him! At the end of the conflict, Screg afflicted Roger with three points of Hurtin’ and two points of Infection. Karo elects to spend Survival Tokens to make ***Grit*** Quickies to attempt to resist some, if not all, of the incoming Hurtin’ and Infection. He spends one token to start the first Quickie, drawing two cards (his ***Grit*** rank): an Ace and a King! Woot! He resists two of the Hurtin’ (one for each face or ace drawn), and decides to take the third. He then spends another token to try a ***Grit*** Quickie to resist the Infection, drawing a five and a nine. Oh no! It looks like Roger is now on the spiraling path to zombification!
 
 ### Optional Rule: Quickie Difficulty
 
-In most situations, a simple face-or-ace success is satisfactory to win a Quickie. However, the CiC might feel that in some circumstances, the chances are a bit tighter. Kicking in a dead-bolted door might be doable with a simple **<span style="font-variant:small-caps;">Kill</span>** quickie, sure, but getting past an electrified fence or a sealed security door at a military bunker might be a whole other realm of difficulty. For situations like this, the CiC can choose to evoke the two grades of tougher Quickie difficulties.
+In most situations, a simple face-or-ace success is satisfactory to win a Quickie. However, the CiC might feel that in some circumstances, the chances are a bit tighter. Kicking in a dead-bolted door might be doable with a simple ***Kill*** quickie, sure, but getting past an electrified fence or a sealed security door at a military bunker might be a whole other realm of difficulty. For situations like this, the CiC can choose to evoke the two grades of tougher Quickie difficulties.
 
-The first grade of increased difficulty is called the **<span style="font-variant:small-caps;">Royal Pain</span>**, and requires Queens and Kings. In order for the player to succeed, she must draw Kings and Queens – Jacks and Aces just won’t cut it. The second (and highest) grade of increased difficulty is called the **<span style="font-variant:small-caps;">Longshot</span>**, and requires Aces – so the player fails unless they have one or more Aces in their draw. So from the previous example, the dead-bolted door would be a normal Quickie, the electrified fence a Royal Pain Quickie, and the security door a Longshot. **In both situations, Jokers are wild**.
+The first grade of increased difficulty is called the ***Royal Pain***, and requires Queens and Kings. In order for the player to succeed, she must draw Kings and Queens – Jacks and Aces just won’t cut it. The second (and highest) grade of increased difficulty is called the ***Longshot***, and requires Aces – so the player fails unless they have one or more Aces in their draw. So from the previous example, the dead-bolted door would be a normal Quickie, the electrified fence a Royal Pain Quickie, and the security door a Longshot. **In both situations, Jokers are wild**.
 
 ## Card Mechanic #2: The Showdown
 
@@ -444,7 +444,7 @@ If a participating player has no ranks in the relevant Characteristic, they can 
 
 Once each involved player has their cards face-down in front of them, they can choose to evoke any of their Survivor’s (or Threat’s!) applicable Gear, provided they can narrate how their survivor is directly applying that Gear. You can choose to either Activate or Sacrifice your Gear in a Showdown, but you *can not* do both at once.
 
-If you Activate, you can pick a piece of Gear and, narration permitting, evoke that Gear for a single bonus draw, pulled from the deck and added face-down with your other cards. For each rank in your **<span style="font-variant:small-caps;">Savvy</span>** characteristic, you can choose to Activate another piece of Gear, with each one giving you another bonus draw, provided you can narrate the Gear’s applicability. Note that if you intend on applying a Custom Weapon’s Hurtin’ bonus to the outcome of this Showdown, you *can not* also Activate it for a bonus card at this point – you must decide which is more important: bonus cards or bonus Hurtin’.
+If you Activate, you can pick a piece of Gear and, narration permitting, evoke that Gear for a single bonus draw, pulled from the deck and added face-down with your other cards. For each rank in your ***Savvy*** characteristic, you can choose to Activate another piece of Gear, with each one giving you another bonus draw, provided you can narrate the Gear’s applicability. Note that if you intend on applying a Custom Weapon’s Hurtin’ bonus to the outcome of this Showdown, you *can not* also Activate it for a bonus card at this point – you must decide which is more important: bonus cards or bonus Hurtin’.
 
 If you instead choose to Sacrifice, you can pick a single item of your Gear list and destroy it for an immediate four-card bonus to your draw. Again, you must be able to acceptably narrate the sacrificing of the Gear.
 
@@ -462,7 +462,7 @@ Negotiating is a separate process described in the Mad Half section (see page 91
 
 #### Step 6: Play Cards
 
-Once you have your final Hand ready to go, it’s time to play the cards. The initiating player starts by playing a card face-up on the table, and then the challenged player plays a higher one (by rank and then suit) face-up. The initiating player can then return by stating how they are “**<span style="font-variant:small-caps;">Stepping it Up</span>**,” narrating how their action is being intensified, and then playing another card higher than the one their opponent just played. The challenger can then follow suit, if able. Stepping It Up is essentially a game of back-and-forth smack-talking, wherein each participant narrates a bit more oomph into their action.
+Once you have your final Hand ready to go, it’s time to play the cards. The initiating player starts by playing a card face-up on the table, and then the challenged player plays a higher one (by rank and then suit) face-up. The initiating player can then return by stating how they are “***Stepping it Up***,” narrating how their action is being intensified, and then playing another card higher than the one their opponent just played. The challenger can then follow suit, if able. Stepping It Up is essentially a game of back-and-forth smack-talking, wherein each participant narrates a bit more oomph into their action.
 
 When you step it up, your extra narration of each additional card you play is *crucial* to the flow. In order to play an additional card, you *must* Step It Up, and in order to Step It Up, you *must* be able to play a higher card than the last player’s. It makes these card battles all the more fun, and can get some really evocative smack-talking to happen.
 
@@ -474,9 +474,9 @@ Play continues back and forth like this, with each player stepping it up and pla
 
 Whichever player wins now gets to narrate the outcome of the Showdown. Their initially-stated action succeeds and all of their “Steppings” should be factored into this narration, and they can now use the cards played by both sides to add additional effects to the outcome.
 
-The cards played by everyone during the Showdown are now used to determine the results of the conflict. Cont the played card: each card in the pile translates into a single point of **<span style="font-variant:small-caps;">Hurtin’</span>** generated, which the winner can deal out to her opponents. Hurtin’ can be applied as damage in offensive Showdowns, but is otherwise useless in most other Showdowns. Different weapons and effects may drastically modify this damage output. Some weapons may do bonus damage, others may multiply it, and others have different effects altogether, so factor them in too. See Page 61 for the rules on using Hurtin’.
+The cards played by everyone during the Showdown are now used to determine the results of the conflict. Cont the played card: each card in the pile translates into a single point of ***Hurtin’*** generated, which the winner can deal out to her opponents. Hurtin’ can be applied as damage in offensive Showdowns, but is otherwise useless in most other Showdowns. Different weapons and effects may drastically modify this damage output. Some weapons may do bonus damage, others may multiply it, and others have different effects altogether, so factor them in too. See Page 61 for the rules on using Hurtin’.
 
-Additionally, if there are any Aces or Faces in the pile, the victor can choose to exchange them to either buy **<span style="font-variant:small-caps;">Facts</span>** or gain Survival Tokens. Cards thus exchanged take away from the Hurtin’ total, but they have their own special rewards. Remember: Jokers count as two such cards! Read below for the details.
+Additionally, if there are any Aces or Faces in the pile, the victor can choose to exchange them to either buy ***Facts*** or gain Survival Tokens. Cards thus exchanged take away from the Hurtin’ total, but they have their own special rewards. Remember: Jokers count as two such cards! Read below for the details.
 
 ##### Exchanging Cards for Facts
 
@@ -531,7 +531,7 @@ When the Showdown is resolved, anyone else can take actions of their own. Whoeve
 
 The standard Showdown process makes it quite possible (and easy!) for multi-player Showdowns. Playing with three or more players follows the exact same rules, and can lead to some crazy Showdowns. If there is more than one character involved in an in-game conflict, be they working together or all against each other, the rules work the same.
 
-When multiple players are participating in a Showdown, the play starts with the challenged player and moves along to their left. Everyone states their actions as normal, narrates their stepping-ups as normal, and resolves the outcome as normal. Players can choose to work together and strategize, but they ***can not*** show each other their cards. Once the cards start playing, however, there can be no more inter-player strategizing. Once participants start playing, again the flow goes around the table until no one can trump the last card played. You can’t skip a turn, either; once you can’t beat the last-played card, you can no longer affect the winning decision by playing any new cards.
+When multiple players are participating in a Showdown, the play starts with the challenged player and moves along to their left. Everyone states their actions as normal, narrates their stepping-ups as normal, and resolves the outcome as normal. Players can choose to work together and strategize, but they **can not** show each other their cards. Once the cards start playing, however, there can be no more inter-player strategizing. Once participants start playing, again the flow goes around the table until no one can trump the last card played. You can’t skip a turn, either; once you can’t beat the last-played card, you can no longer affect the winning decision by playing any new cards.
 
 Like any other Showdown, the winner narrates the outcome. If other players were helping the winner out, he can choose to consider their assistance in his choice of outcome narration, or even allow the assisting players to chime in for themselves. If, for example, he was assisted by another fellow combatant, she can include not only the effects of her weapon in the final Hurtin’ count, but their weapon as well. This makes multi-player Showdowns pretty ideal for resolving big multi-character combat scenes with just one or two hands. It can also make it pretty damn painful to get ganged-up on by a large number of opponents.
 
@@ -545,7 +545,7 @@ Note that if the CiC is controlling multiple Threats in the same Showdown, and t
 
 ### What Characteristic Do I Use?
 
-If you wish to use violence, hurting, direct action, and force to overcome the conflict, use Kill. If you wish to approach the obstacle from unexpected angles, use the environment, assist your allies, hack the mainframe, or otherwise use guile, wit, resourcefulness and insight to overcome the conflict, use **<span style="font-variant:small-caps;">Savvy</span>**. Sometimes the situation is pretty obvious – usually, if your intention is to cause direct Hurtin’ to a person, place, or thing, then you use use **<span style="font-variant:small-caps;">Kill</span>**, and if your intention is to bypass a conflict or challenge through less direct means, then you use **<span style="font-variant:small-caps;">Savvy</span>**.
+If you wish to use violence, hurting, direct action, and force to overcome the conflict, use Kill. If you wish to approach the obstacle from unexpected angles, use the environment, assist your allies, hack the mainframe, or otherwise use guile, wit, resourcefulness and insight to overcome the conflict, use ***Savvy***. Sometimes the situation is pretty obvious – usually, if your intention is to cause direct Hurtin’ to a person, place, or thing, then you use use ***Kill***, and if your intention is to bypass a conflict or challenge through less direct means, then you use ***Savvy***.
 
 ### Showdown Strategies
 
@@ -565,7 +565,7 @@ The actual damages and special effects of the various weapons are determined by 
 
 ### Resisting the Hurtin’
 
-Fortunately, characters can attempt to nullify some of this damage by tapping into their craziness. At the time the Hurtin’ is received, you can spend one of your Survival Tokens to try a Quickie, using your current **<span style="font-variant:small-caps;">Grit</span>** rank and any additional bonuses you may have from other sources. Count the aces and faces you draw, as each one allows you to nullify a single point of incoming Hurtin’. Like any Quickie, you can Negotiate with your Mad Half for bonus cards if you feel you need them.
+Fortunately, characters can attempt to nullify some of this damage by tapping into their craziness. At the time the Hurtin’ is received, you can spend one of your Survival Tokens to try a Quickie, using your current ***Grit*** rank and any additional bonuses you may have from other sources. Count the aces and faces you draw, as each one allows you to nullify a single point of incoming Hurtin’. Like any Quickie, you can Negotiate with your Mad Half for bonus cards if you feel you need them.
 
 CiC-controlled Threats can also try this, with the CiC spending Adversity tokens to allow them a Quickie using their role-based hand size, as well as for drawing any necessary bonus draws.
 
@@ -577,11 +577,11 @@ Characteristic ranks lost to Hurtin’ can be restored by using Survival tokens 
 
 ### Biting the Bullet
 
-Violence in ***Cannibal Contagion*** can be quite deadly. This is intended. If you experience an entire multi-hour gaming session without anyone dying, then either your players are really frickin’ awesome or your CiC is really frickin’ lax, or both.
+Violence in Cannibal Contagion can be quite deadly. This is intended. If you experience an entire multi-hour gaming session without anyone dying, then either your players are really frickin’ awesome or your CiC is really frickin’ lax, or both.
 
 As the game progresses and the Showdowns are played out, your character will very likely suffer many points of Hurtin’, which directly reduce your Characteristics. When your character runs out of Characteristic ranks, her death is an imminent and unfortunate fact. Either immediately upon having your ranks eliminated, or at least very soon thereafter, your character should suffer some form of grisly, disturbing, and/or hilarious demise. The other Survivors should be encouraged to react to this, and possibly change the focus of the scene to how they decide to deal with your death.
 
-Fortunately, character death is not the end of the line for you in a game of ***Cannibal Contagion***. When you eventually reach that crossroads, there are several options available to you, including making a new Survivor, turning an existing Ally into a Survivor, or even continuing play as an Infected cannibal.
+Fortunately, character death is not the end of the line for you in a game of Cannibal Contagion. When you eventually reach that crossroads, there are several options available to you, including making a new Survivor, turning an existing Ally into a Survivor, or even continuing play as an Infected cannibal.
 
 #### Creating a New Survivor
 
@@ -597,45 +597,45 @@ But what if your Survivor has become Infected and turned by the game’s Contagi
 
 ## Gear and Weapons
 
-Gadgets, swords, medkits, gas masks, toboggans and more, when you’re trying to survive against the cannibals hordes, you need to be well-equipped. In a game of ***CC***, there are two types of equipment that have any mechanical importance: **<span style="font-variant:small-caps;">Gear</span>** and **<span style="font-variant:small-caps;">Weapons</span>**.
+Gadgets, swords, medkits, gas masks, toboggans and more, when you’re trying to survive against the cannibals hordes, you need to be well-equipped. In a game of Cannibal Contagion, there are two types of equipment that have any mechanical importance: ***Gear*** and ***Weapons***.
 
 ### Gear
 
-Gear in ***CC*** is considered any tangible item or possession that could somehow be used to help you do stuff. Cars, medical supplies, survival kits, flares, crowbars, trench coats, life jackets, beer steins, ancient scrolls of divine protection, ammo boxes, Kevlar vests – these are just a few examples. In ***CC***, just about *anything* can be considered gear with the right narration and the CiC’s consent. When you acquire new Gear, write it on your character sheet. You can call upon your Gear in Quickies and Showdowns to draw extra cards to help you win, provided you are able to convincingly narrate how that Gear is helping you out.
+Gear in Cannibal Contagion is considered any tangible item or possession that could somehow be used to help you do stuff. Cars, medical supplies, survival kits, flares, crowbars, trench coats, life jackets, beer steins, ancient scrolls of divine protection, ammo boxes, Kevlar vests – these are just a few examples. In Cannibal Contagion, just about *anything* can be considered gear with the right narration and the CiC’s consent. When you acquire new Gear, write it on your character sheet. You can call upon your Gear in Quickies and Showdowns to draw extra cards to help you win, provided you are able to convincingly narrate how that Gear is helping you out.
 
-Gear can be used in a Quickie or Showdown for bonus cards drawn before the play. You can use any one piece of Gear for one of two different results. You can choose to **<span style="font-variant:small-caps;">Activate</span>** a piece of Gear for a single card bonus to your draw. Doing so allows you to keep that Gear through to the next scene (aside from any other circumstances which might remove it from your possession, of course). Unless the Gear specifically requires Juice (see further below), you can activate this piece of Gear an unlimited number of times during a scene for a bonus draw. Instead of activating and Gear in a test, you can instead choose to **<span style="font-variant:small-caps;">Sacrifice</span>** a single piece of Gear, removing it from your possession permanently in exchange for an immediate **four-card** draw bonus to your current Quickie or Showdown. You *must* declare which effect you are using *before* you draw the bonus cards during the Showdown.
+Gear can be used in a Quickie or Showdown for bonus cards drawn before the play. You can use any one piece of Gear for one of two different results. You can choose to ***Activate*** a piece of Gear for a single card bonus to your draw. Doing so allows you to keep that Gear through to the next scene (aside from any other circumstances which might remove it from your possession, of course). Unless the Gear specifically requires Juice (see further below), you can activate this piece of Gear an unlimited number of times during a scene for a bonus draw. Instead of activating and Gear in a test, you can instead choose to ***Sacrifice*** a single piece of Gear, removing it from your possession permanently in exchange for an immediate **four-card** draw bonus to your current Quickie or Showdown. You *must* declare which effect you are using *before* you draw the bonus cards during the Showdown.
 
 Any time you use Gear, you must be able to satisfactorily narrate exactly how the Gear is being used. You must state aloud how you are throwing that Gas Can to try and add more damage to your attack (most likely a sacrifice). You must narrate how those awesome lockpicks bypass that complex security door (activate). You must be able to describe how that bulletproof vest is giving you extra protection against that magnum (activate). Gear that cannot be evoked to the satisfaction of the CiC cannot be used – just having that “Lucky Hat” won’t give you any extra oomph, for example. You have to be able to narrate exactly *how* it is helping you.
 
 Here are some common examples of Gear use:
 
 * Use a “Car” Gear in a Showdown to help run down some Bad Guys
-* Use a “Bulletproof Vest” Gear to help a **<span style="font-variant:small-caps;">Grit</span>** Quickie after getting shot by a zombie cop.
+* Use a “Bulletproof Vest” Gear to help a ***Grit*** Quickie after getting shot by a zombie cop.
 * Use a “Nightvision Goggles” Gear in a Showdown to help your aim in the darkness.
-* Use a “Whiskey Flask” Gear in a **<span style="font-variant:small-caps;">Cool</span>** Check to help yourself stay calm by taking a long swig of that Tennessee Red.
+* Use a “Whiskey Flask” Gear in a ***Cool*** Check to help yourself stay calm by taking a long swig of that Tennessee Red.
 
 Any gear can be sacrificed with the right flavorful description. A car can be sacrificed by gunning the motor so hard that it kunks out, a medkit can have its supplies exhausted, an ammo case can be emptied, armor can be so riddled with bullet holes it is rendered useless, and so on.
 
 ### Running Out Of Juice
 
-Some articles of Gear have a **<span style="font-variant:small-caps;">Juice</span>** requirement, which is simply a Yes or No as to whether or not that item needs Juice (and a number telling how much Juice it uses). Juice is an all-encompassing ammunition trait, and all items that need “fuel” of some kind handle it in pretty much the same way, mechanically. For example:
+Some articles of Gear have a ***Juice*** requirement, which is simply a Yes or No as to whether or not that item needs Juice (and a number telling how much Juice it uses). Juice is an all-encompassing ammunition trait, and all items that need “fuel” of some kind handle it in pretty much the same way, mechanically. For example:
 
 * Weapons that require ammo (guns, chainsaws, flamethrowers, grenades, etc)
 * Equipment that requires power (electronics, cars, flashlights, radios, etc)
 * Vices that are limited (drugs, smokes, booze, etc)
 * Materials that can be exhausted (medkits, food, cleaning supplies, etc)
 
-When introducing Gear, give it a name and determine if it requires Juice, and if so determine its **<span style="font-variant:small-caps;">Juice Cost</span>**. A small medkit might have a J4 cost, a sawed-off shotgun a J6 cost, and a pack of smokes might have a J1 cost. In any Quickie or Showdown in which you use a piece of Gear that requires Juice, be your cards successful or unsuccessful, you should mark one or more tallies for that item’s Juice, based on the Gear’s Juice Cost, if any; a shotgun with a J5 stat, for example, gains five Juice tallies each time it is used. Should your actual highest-played card ever be ***lower*** than this number, then you have run out of Juice, and cannot use that Gear again until you somehow acquire more Juice. In certain cases like expendable items (grenades, smokes, booze, etc), you should erase the Gear off your sheet entirely.
+When introducing Gear, give it a name and determine if it requires Juice, and if so determine its ***Juice Cost***. A small medkit might have a J4 cost, a sawed-off shotgun a J6 cost, and a pack of smokes might have a J1 cost. In any Quickie or Showdown in which you use a piece of Gear that requires Juice, be your cards successful or unsuccessful, you should mark one or more tallies for that item’s Juice, based on the Gear’s Juice Cost, if any; a shotgun with a J5 stat, for example, gains five Juice tallies each time it is used. Should your actual highest-played card ever be **lower** than this number, then you have run out of Juice, and cannot use that Gear again until you somehow acquire more Juice. In certain cases like expendable items (grenades, smokes, booze, etc), you should erase the Gear off your sheet entirely.
 
-Should you run out of Juice in this fashion, you can choose to spend a Survival token to attempt a Juice Check. This is a standard **<span style="font-variant:small-caps;">Savvy</span>** Quickie, and you can try and Negotiate for more cards (certain special Gear might help out, too). If successful, then you did not run out of Juice, and you can drop your current Juice tally by the number of faces and aces you drew. If a Joker, your Juice tally is eliminated completely.
+Should you run out of Juice in this fashion, you can choose to spend a Survival token to attempt a Juice Check. This is a standard ***Savvy*** Quickie, and you can try and Negotiate for more cards (certain special Gear might help out, too). If successful, then you did not run out of Juice, and you can drop your current Juice tally by the number of faces and aces you drew. If a Joker, your Juice tally is eliminated completely.
 
 Otherwise, you’re out of Juice; it’s time to find more Juice or get yourself a new piece of gear. Either the CiC can narrate at a later time that you find some ammo or batteries or some such which help you out, or you can do the same later via cleverly-applied Facts. Finding more Juice in this way allows you to freely attempt another Juice Check (as described in the previous paragraph).
 
 > **Example**: Carla has been blasting away with her shotgun for several consecutive Showdowns. Her Shotgun has a Juice stat of +4, so every time she uses it in a Showdown, her player (Vera) marks down four Juice tallies. The first time she uses it, after all has been resolved she marks in four Juice dots next to the gun on Carla’s sheet. The next Showdown, she uses it again, and since her final card if a Nine of Clubs (which is thankfully higher than her current Juice tally of 4), she is not yet out of Juice, and marks down another four tallies (total of eight). In the next Showdown, she uses the Shotgun yet again, and this time her final card is a Seven of Spades, which is lower than her Juice total. This means she has just run out of Juice!
 
-Vera decides to try a Juice check after the Showdown is resolved. She spends one of her Survival Tokens in order to make a **<span style="font-variant:small-caps;">Savvy</span>** check. Her **<span style="font-variant:small-caps;">Savvy</span>** is currently at three, so she draws three cards, getting a Two of Diamonds, and the Jack and Queen of hearts. Basic success means that she doesn’t run out of Juice, and the two faces also reduce her Juice tally from eight to six.
+Vera decides to try a Juice check after the Showdown is resolved. She spends one of her Survival Tokens in order to make a ***Savvy*** check. Her ***Savvy*** is currently at three, so she draws three cards, getting a Two of Diamonds, and the Jack and Queen of hearts. Basic success means that she doesn’t run out of Juice, and the two faces also reduce her Juice tally from eight to six.
 
-In a later scene, Vera wants to find some more ammo. Carla and her crew are in the sporting goods section of an abandoned and mostly-looted TargoPlexMart. Vera thinks Carla should be able to try and find some more Juice, and Screg allows her to try another Juice Check for free, saying that this one was known to have a firearms display in the sporting goods department. Vera makes another Juice check, drawing three cards (based on Carla’s **<span style="font-variant:small-caps;">Savvy</span>**). She gets one face – an Ace of Diamonds. This reduces her shotgun’s current Juice tally from six to five. Vera says that Carla finds a handful of shells that rolled underneath a broken cabinet, just enough to give her a few more uses.
+In a later scene, Vera wants to find some more ammo. Carla and her crew are in the sporting goods section of an abandoned and mostly-looted TargoPlexMart. Vera thinks Carla should be able to try and find some more Juice, and Screg allows her to try another Juice Check for free, saying that this one was known to have a firearms display in the sporting goods department. Vera makes another Juice check, drawing three cards (based on Carla’s ***Savvy***). She gets one face – an Ace of Diamonds. This reduces her shotgun’s current Juice tally from six to five. Vera says that Carla finds a handful of shells that rolled underneath a broken cabinet, just enough to give her a few more uses.
 
 ### Acquiring and Losing Gear
 
@@ -653,7 +653,7 @@ It’s possible to use random bits of scenery as Gear, too. For example, if you�
 
 The CiC might rule that for some actions or proposed Quickies, it is necessary to use or possess certain types of Gear. A door might require a special “Crimson Key” Gear in order for the characters to open it. A character might find a special “zombie cologne” gear that makes it impossible for the cannibals to attack her. The launch silo will let them use its resources, but only if they possess the “Operator’s Manual” and are able to crack the codes within it by using the “Dangerous Digital Interpreter.”
 
-For example, the normal rules state that you can spend a Survival Token to try a **<span style="font-variant:small-caps;">Grit</span>** Quickie in order to resist incoming Hurtin’ from any source. However, the CiC might decide that this rule only applies to non-ballistic attacks, and that in order to perform such Quickies against guns, your character must have special protection, like a Gear called “Kevlar Vest.” Or instead, he might decide to let you try to test without spending a token at all.
+For example, the normal rules state that you can spend a Survival Token to try a ***Grit*** Quickie in order to resist incoming Hurtin’ from any source. However, the CiC might decide that this rule only applies to non-ballistic attacks, and that in order to perform such Quickies against guns, your character must have special protection, like a Gear called “Kevlar Vest.” Or instead, he might decide to let you try to test without spending a token at all.
 
 ### Recovery Gear
 
@@ -663,7 +663,7 @@ With the CiC’s permission, some Gear can be sacrificed during the between-scen
 
 The Survivors have a limit to the amount of Gear they can carry. A lot of survival horror video games enforce this, and while some games tend to do it in a rather frustrating manner, it can frequently help establish a feel of desperation. This rule limits the effective Showdown-winning power of the Survivors, and forces them to take more care with arming themselves for their upcoming fights against the cannibal hordes.
 
-Each Weapon and piece of Gear takes up one or more “slots” of your character’s inventory. Different items and weapons will take up a different number of slots, although if the CiC wishes to keep this mechanic on the ridiculous side, she can just say that every item takes up a single slot, regardless of its shape and size. Each character is limited to a number of items equal to twice their **<span style="font-variant:small-caps;">Savvy</span>**. Why **<span style="font-variant:small-caps;">Savvy</span>**? Because characters with higher ranks in that will know how to more effectively stow their stuff on their person, that’s why. Yes, this means that a Survivor without any ranks in her Savvy will not be able to carry Gear, unless she uses an item that gives her more slots.
+Each Weapon and piece of Gear takes up one or more “slots” of your character’s inventory. Different items and weapons will take up a different number of slots, although if the CiC wishes to keep this mechanic on the ridiculous side, she can just say that every item takes up a single slot, regardless of its shape and size. Each character is limited to a number of items equal to twice their ***Savvy***. Why ***Savvy***? Because characters with higher ranks in that will know how to more effectively stow their stuff on their person, that’s why. Yes, this means that a Survivor without any ranks in her Savvy will not be able to carry Gear, unless she uses an item that gives her more slots.
 
 Additionally, certain items give a small boost in storage capacity, like satchels, packs, and bags. Each of these items grants a number of bonus slots (two or more) to the character’s Gear limit. Of course, should the container be lost, everything inside it would be lost, too. Also, as a general guideline, the CiC can rule that any pieces of Gear that can be suitably worn (vests, gas masks, gloves, hats, sunglasses, combat boots, etc) do not take up slots while worn.
 
@@ -682,15 +682,15 @@ Included below is a list of various example weapons and items and a suggested sl
 
 ### Weapons
 
-When battling against the cannibal hordes, you’ll need a good weapon if you want to survive; arsenals are even better. In ***CC***, a good weapon can make all the difference between horrible death and grim survival, and in this section you will learn how to create and use just about any weapon you can think of.
+When battling against the cannibal hordes, you’ll need a good weapon if you want to survive; arsenals are even better. In Cannibal Contagion, a good weapon can make all the difference between horrible death and grim survival, and in this section you will learn how to create and use just about any weapon you can think of.
 
-In ***CC***, there are two main methods which you can use to handle weapon mechanics in-game. The first and easiest method is to simply use weapons as if they were special Gear, giving you bonuses to relevant Showdowns when using those weapons. If you play them like this, the weapons can be called just like normal Gear, giving you a *single* bonus card when activated or *four* bonus cards when Sacrificed. The CiC can arbitrarily deem some weapons to give more of a bonus than others, and some weapons to only be usable as sacrifices (such as grenades and Molotov cocktails).
+In Cannibal Contagion, there are two main methods which you can use to handle weapon mechanics in-game. The first and easiest method is to simply use weapons as if they were special Gear, giving you bonuses to relevant Showdowns when using those weapons. If you play them like this, the weapons can be called just like normal Gear, giving you a *single* bonus card when activated or *four* bonus cards when Sacrificed. The CiC can arbitrarily deem some weapons to give more of a bonus than others, and some weapons to only be usable as sacrifices (such as grenades and Molotov cocktails).
 
 If you’re looking to place less in-game emphasis upon gathering weapons, and want to play a game with more focus on story and survival than on first-person shooter-style murdering and loot-grabbing, then I suggest using the Gear method. It will allow you to spend less time dealing with weapon mechanics, and more time coming up with conflicts of a more character-personal basis as the players think less about combat and more about the survival and goals of their characters. However, if you want a lot of high-octane butt-kicking with wild and crazy weapons, keep reading.
 
 #### Custom Weapons
 
-The second method of weapon implementation in ***CC*** involves the creation of random and/or custom weapons, and can give your games a much heavier dose of crazy carnage than the Gear method. Using these mechanics, weapons have multiple in-game statistics that affect cards drawn in Showdowns, Hurtin’ dealt with successful plays, how much Juice the weapon can use before it runs dry, and more. By allowing the custom weapons into your game, you are letting the players know that this game will have a lot of action, and you’re cool with that.
+The second method of weapon implementation in Cannibal Contagion involves the creation of random and/or custom weapons, and can give your games a much heavier dose of crazy carnage than the Gear method. Using these mechanics, weapons have multiple in-game statistics that affect cards drawn in Showdowns, Hurtin’ dealt with successful plays, how much Juice the weapon can use before it runs dry, and more. By allowing the custom weapons into your game, you are letting the players know that this game will have a lot of action, and you’re cool with that.
 
 With this system, weapons now possess their own special category of mechanics. Weapons will have a handful of variable stats that can be predetermined or drawn completely at random. With the custom weapons option, you may find that randomly statting-out your weapons can be a butt-load of fun all by itself.
 
@@ -728,12 +728,12 @@ When drawing on the weapon chart, you can choose to also use the Special Attribu
 * **Ammo hog**: Juice checks costs 1 more Survival Token gain than normal
 * **Dial Goes to Eleven**: Spend Survival token, increase all stats by +1 for a single Showdown (Draw, Hurtin’, and Juice Cost)
 * **Disposable**: Cannot replenish Juice in any way
-* **Easy to find ammo**: +1 **<span style="font-variant:small-caps;">Savvy</span>** for all Juice Checks
-* **Hard to find ammo**: -1 **<span style="font-variant:small-caps;">Savvy</span>** for all Juice Checks
+* **Easy to find ammo**: +1 ***Savvy*** for all Juice Checks
+* **Hard to find ammo**: -1 ***Savvy*** for all Juice Checks
 * **Knock-off**: Does 2 less Hurtin’ than normal
 * **Lame**: Requires the expenditure of a Survival token each time it is used
 * **Last resort**: Requires an Ace to do Hurtin’, but does x2 total Hurtin’ if successful
-* **Penetrating**: Opponent cannot make **<span style="font-variant:small-caps;">Grit</span>** checks to nullify Hurtin’
+* **Penetrating**: Opponent cannot make ***Grit*** checks to nullify Hurtin’
 * **Psychobilly**: Can take CGP points to cause extra Hurtin’, one for one, up to 4
 * **Recharging**: Remove 1 Juice tally at end of each scene
 * **Scary**: Each successful attack against a Survivor causes them 1 point of CGP
@@ -746,7 +746,7 @@ Sometimes players may want to use multiple weapons at the same time. If the CiC 
 
 #### Remember: Weapons are Gear!
 
-It’s important to remember that custom Weapons are still Gear just like everything else. They must be noted in your character’s Gear list with all her other equipment. Like Gear, weapons can be activated for a bonus draw on any Quickie or Showdown, or can be sacrificed for four bonus draws on any Quickie or Showdown. However, if you intend to use any of the custom weapon stats in a battle (bonus Hurtin’, for example, or special powers), then you can not also Activate or Sacrifice it for additional draws. Note that if sacrificed in combat, they ***can not*** use any of the weapon’s other stats in that Showdown, including Draw Bonus and Hurtin’ modifiers.
+It’s important to remember that custom Weapons are still Gear just like everything else. They must be noted in your character’s Gear list with all her other equipment. Like Gear, weapons can be activated for a bonus draw on any Quickie or Showdown, or can be sacrificed for four bonus draws on any Quickie or Showdown. However, if you intend to use any of the custom weapon stats in a battle (bonus Hurtin’, for example, or special powers), then you can not also Activate or Sacrifice it for additional draws. Note that if sacrificed in combat, they **can not** use any of the weapon’s other stats in that Showdown, including Draw Bonus and Hurtin’ modifiers.
 
 #### Threats and Weapons
 
@@ -756,7 +756,7 @@ Threats can use Gear and Weapons just like any other character in the game, unle
 
 As the Survivors try to stay alive through the terrors of the zombie apocalypse, they will very likely encounter and recruit like-minded fellows to assist them in their efforts. These folks might be stranded kids looking to get out of a burning building, or road-hardened survivalists in a recreational vehicle, or even battle-trained cops that help escort the Survivors to safety. Whatever the case, they can join the cause of our heroes and assist them in several ways, including bonus cards in Showdowns or even leaping in front of dangers to sacrifice themselves for the sake of the heroes.
 
-Since ***Cannibal Contagion*** is a game focused primarily on the Survivors and the monsters which menace them, Allies will always take a more backseat role to the exploits of the heroes and bad guys. They might lend a hand and help out in some really tight spots, and they might even take bullets that were meant for the Survivors, but they will rarely start conflicts or take major initiatives, instead leaving the spotlight to the players and their characters.
+Since Cannibal Contagion is a game focused primarily on the Survivors and the monsters which menace them, Allies will always take a more backseat role to the exploits of the heroes and bad guys. They might lend a hand and help out in some really tight spots, and they might even take bullets that were meant for the Survivors, but they will rarely start conflicts or take major initiatives, instead leaving the spotlight to the players and their characters.
 
 Like Gear, Allies can be narrated into a scene at any time by the CiC without the expenditure of any tokens.
 
@@ -764,11 +764,11 @@ Like Gear, Allies can be narrated into a scene at any time by the CiC without th
 
 Allies are considered “non-player” characters, and are thus narrated by the CiC. Their actions and attitudes and personalities are entirely under the control of the CiC, although he can hand them out to the players if he wishes. It can speed play along significantly if the allies are just assigned to various players to manage.
 
-Mechanically, Allies function as special Gear, with three important functions. The first function is a lot like the regular use of other Gear. Each Ally has two stats, the first being their **<span style="font-variant:small-caps;">Ally Rank</span>** and the second being an associated Characteristic (either **<span style="font-variant:small-caps;">Kill</span>** or **<span style="font-variant:small-caps;">Savvy</span>**). The Ally Rank determines how many bonus cards that Ally can provide in a Quickie or Showdown, while the associated Characteristic denotes which Quickies or Showdowns the Ally can assist. The Ally Rank will be a number from 1 (marginally helpful) to 4 (professionally adept), depending on the competence and intended usefulness of the Ally.
+Mechanically, Allies function as special Gear, with three important functions. The first function is a lot like the regular use of other Gear. Each Ally has two stats, the first being their ***Ally Rank*** and the second being an associated Characteristic (either ***Kill*** or ***Savvy***). The Ally Rank determines how many bonus cards that Ally can provide in a Quickie or Showdown, while the associated Characteristic denotes which Quickies or Showdowns the Ally can assist. The Ally Rank will be a number from 1 (marginally helpful) to 4 (professionally adept), depending on the competence and intended usefulness of the Ally.
 
-For example, a S.W.A.T. Member Ally with an Ally Rank of “4-Kill” can provide four bonus draws to another player in a **<span style="font-variant:small-caps;">Kill</span>**-based Showdown or Quickie. That same Ally could not, however, help out with any **<span style="font-variant:small-caps;">Savvy</span>**-based tests. If there are multiple participants in the Showdown, the bonus cards provided by an Ally can be divided up as the players see fit. Additionally, should such a situation ever arise, an Ally can attempt a Quickie or Showdown on its own, using its Ally Rank as cards.
+For example, a S.W.A.T. Member Ally with an Ally Rank of “4-Kill” can provide four bonus draws to another player in a ***Kill***-based Showdown or Quickie. That same Ally could not, however, help out with any ***Savvy***-based tests. If there are multiple participants in the Showdown, the bonus cards provided by an Ally can be divided up as the players see fit. Additionally, should such a situation ever arise, an Ally can attempt a Quickie or Showdown on its own, using its Ally Rank as cards.
 
-> **Example**: Max Benton (played by Splick) is searching the rubble of the military compound for any useful equipment he can get his hands on. Screg says he can try a **<span style="font-variant:small-caps;">Savvy</span>** Quickie to see if he finds anything. Max Benton only has one rank in **<span style="font-variant:small-caps;">Savvy</span>**, and doesn’t have any Gear that can help him out. Fortunately for him, he is accompanied by an ally named Norm (Rank 1-Savvy), so he asks Norm to help him out. Norm is being played by Screg (the CiC), who offers Splick a single bonus draw from Norm’s assistance.
+> **Example**: Max Benton (played by Splick) is searching the rubble of the military compound for any useful equipment he can get his hands on. Screg says he can try a ***Savvy*** Quickie to see if he finds anything. Max Benton only has one rank in ***Savvy***, and doesn’t have any Gear that can help him out. Fortunately for him, he is accompanied by an ally named Norm (Rank 1-Savvy), so he asks Norm to help him out. Norm is being played by Screg (the CiC), who offers Splick a single bonus draw from Norm’s assistance.
 
 The second core function of Allies is also much like Gear, and is called the Blaze of Glory. Much like Gear can be sacrificed for extra cards, Allies can sacrifice themselves to go out in a blaze of guns and glory. Doing so is just like sacrificing Gear, only the bonus cards you get are double the number of bonus cards that Ally normally provides. Suitable narration is, of course, required. For example, in a violent Showdown, the Ally can charge into the fray with twin machetes, hacking at the enemies but getting bitten in half in the process. Or maybe during a Quickie to help the Survivor lift a boulder out of the way, the Ally takes the burden, letting the heroes escape but getting crushed once they’re gone.
 
@@ -790,7 +790,7 @@ Allies, like Survivors and Threats, require Hurtin’ to be killed. In any Showd
 
 ## Survival Tokens and Character Recovery
 
-As the game progresses, the Survivors are likely to take one hefty pounding to both their health and their psyches. Many Showdowns will end with one or more of them either losing Characteristic ranks to Hurtin’, gaining Crazy-Go-Psycho points through Mad Half Negotiations, or both. To help assuage this frequent loss to the characters’ abilities, ***Cannibal Contagion*** uses **<span style="font-variant:small-caps;">Survival Tokens</span>** to allow characters to recover some of the losses between scenes, as well as a few mid-scene resistance empowerments.
+As the game progresses, the Survivors are likely to take one hefty pounding to both their health and their psyches. Many Showdowns will end with one or more of them either losing Characteristic ranks to Hurtin’, gaining Crazy-Go-Psycho points through Mad Half Negotiations, or both. To help assuage this frequent loss to the characters’ abilities, Cannibal Contagion uses ***Survival Tokens*** to allow characters to recover some of the losses between scenes, as well as a few mid-scene resistance empowerments.
 
 The Survival Tokens are in place to provide both a reward for doing awesome things in the game, and a way to simulate recovery of health, sanity, and supplies both during and between scenes.
 
@@ -800,7 +800,7 @@ As the scenes are played through, you can acquire Survival tokens in a multitude
 
 * Suggest an awesome New Scene idea
 * Exchange Aces or Faces after winning a Showdown
-* Gain your **<span style="font-variant:small-caps;">Grit</span>** rank in tokens at the *beginning* of a new scene, plus a number of tokens equal to the number of scenes that have *passed*.
+* Gain your ***Grit*** rank in tokens at the *beginning* of a new scene, plus a number of tokens equal to the number of scenes that have *passed*.
 * Fulfill one of the Secret Votes for +8 tokens (see page 28)
 * Complete bonus objectives during a scene (predetermined by the CiC)
 * Do awesome things that impress the CiC
@@ -809,27 +809,27 @@ As the scenes are played through, you can acquire Survival tokens in a multitude
 
 ### Using Survival Tokens Mid-Scene
 
-While most of the uses of Survival Tokens are for end-of-scene recovery and advancement, there are three mid-scene uses for them that should not be ignored by any means: **<span style="font-variant:small-caps;">Grit</span>** checks to resist Hurtin and Infection, and **<span style="font-variant:small-caps;">Savvy</span>** checks to keep your Gear from running out of Juice.
+While most of the uses of Survival Tokens are for end-of-scene recovery and advancement, there are three mid-scene uses for them that should not be ignored by any means: ***Grit*** checks to resist Hurtin and Infection, and ***Savvy*** checks to keep your Gear from running out of Juice.
 
 #### Resisting Hurtin’ (1 token, non-repetitive)
 
-When you lose a Showdown and take Hurtin’, you have the option of spending a Survival Token to attempt a **<span style="font-variant:small-caps;">Grit</span>** Quickie and try to soak some or all of that Hurtin’. Spend the token and then draw a standard Quickie based on your **<span style="font-variant:small-caps;">Grit</span>** score. Each face or ace resists a point of Hurtin’. You can attempt at most one Quickie to resist the Hurtin’ of any one Showdown, but you can always try and Negotiate for more draws per the standard rules.
+When you lose a Showdown and take Hurtin’, you have the option of spending a Survival Token to attempt a ***Grit*** Quickie and try to soak some or all of that Hurtin’. Spend the token and then draw a standard Quickie based on your ***Grit*** score. Each face or ace resists a point of Hurtin’. You can attempt at most one Quickie to resist the Hurtin’ of any one Showdown, but you can always try and Negotiate for more draws per the standard rules.
 
-> **Example**: Carla just got bitten by some hellhounds, for five points of Hurtin’. Five points could seriously set her back, so Vera (her player) elects to try a **<span style="font-variant:small-caps;">Grit</span>** check. She spends one of Carla’s Survival tokens and sets to it. Carla’s Grit is currently at rank three, so Vera draws three cards and gets two faces. She has room for more CGP, and elects to gain a few more points to try for cards. She first talks to her Mad Half to see if she can try for more cards – her Mad Half agrees, but limits her to at most three more draws. She takes a point and draws a card, getting another face, then takes another point but this time only draws a number card. She calls it at that, resisting three points of Hurtin’ and taking two. She gains two points of CGP total from this, as she elected to only draw two more bonus cards, and not the full maximum of three that her Mad Half had allowed.
+> **Example**: Carla just got bitten by some hellhounds, for five points of Hurtin’. Five points could seriously set her back, so Vera (her player) elects to try a ***Grit*** check. She spends one of Carla’s Survival tokens and sets to it. Carla’s Grit is currently at rank three, so Vera draws three cards and gets two faces. She has room for more CGP, and elects to gain a few more points to try for cards. She first talks to her Mad Half to see if she can try for more cards – her Mad Half agrees, but limits her to at most three more draws. She takes a point and draws a card, getting another face, then takes another point but this time only draws a number card. She calls it at that, resisting three points of Hurtin’ and taking two. She gains two points of CGP total from this, as she elected to only draw two more bonus cards, and not the full maximum of three that her Mad Half had allowed.
 
 #### Resist Infection (1 point, non-repetitive)
 
-If you lose a Showdown against a creature that can Infect you, you spend a Survival Token to try a **<span style="font-variant:small-caps;">Grit</span>** Quickie in order to reduce some of the incoming points of Infection. This is a standard Quickie, and you can Negotiate per normal rules for more cards. Each face or ace resists one point of Infection, and if all are resisted, you completely avoid the Infection (provided you weren’t already infected from a previous situation).
+If you lose a Showdown against a creature that can Infect you, you spend a Survival Token to try a ***Grit*** Quickie in order to reduce some of the incoming points of Infection. This is a standard Quickie, and you can Negotiate per normal rules for more cards. Each face or ace resists one point of Infection, and if all are resisted, you completely avoid the Infection (provided you weren’t already infected from a previous situation).
 
 Note that in many games, the CiC will keep the Infection tallies of the players a secret. In such cases, when you are attacked by Infectious enemies, it is up to you to declare when you want to try this Quickie, and the CiC is under no obligation to tell you how many points you have coming at you, or how many you have successfully resisted. The CiC doesn’t even have to tell you that the attack is even contagious at all. This can make the game *really* tense.
 
 You can attempt at most one Quickie to resist the Infection of any one Showdown, but you can always try to Negotiate with your Mad Half for more cards.
 
-> **Example**: Roger just lost a Showdown against a nasty zombie, and took two total points of Hurtin’ (his attempt to soak the Hurtin’ failed miserably). Screg knows the zombie is of course infected, and that if Karo (Roger’s player) doesn’t try to resist, Roger will become Infected with three points of Infection. But in this game, Screg’s keeping the Infection totals secret, so he says “You know, Karo, that these bastards infect through wounds, and you’ve just taken a nasty one. You gonna do anything about it?” Karo sweats a little, and decides to try and resist. He spends a Survival token to attempt a **<span style="font-variant:small-caps;">Grit</span>** Quickie, drawing two cards (his **<span style="font-variant:small-caps;">Grit</span>** score). He gets two aces, and decides to leave it at that, thinking himself safe (and declining any temptation to talk to his Mad Half). Screg nods and says nothing, but secretly notes that Roger now is Infected with a single tally. That’s definitely going to be a problem in the near future…
+> **Example**: Roger just lost a Showdown against a nasty zombie, and took two total points of Hurtin’ (his attempt to soak the Hurtin’ failed miserably). Screg knows the zombie is of course infected, and that if Karo (Roger’s player) doesn’t try to resist, Roger will become Infected with three points of Infection. But in this game, Screg’s keeping the Infection totals secret, so he says “You know, Karo, that these bastards infect through wounds, and you’ve just taken a nasty one. You gonna do anything about it?” Karo sweats a little, and decides to try and resist. He spends a Survival token to attempt a ***Grit*** Quickie, drawing two cards (his ***Grit*** score). He gets two aces, and decides to leave it at that, thinking himself safe (and declining any temptation to talk to his Mad Half). Screg nods and says nothing, but secretly notes that Roger now is Infected with a single tally. That’s definitely going to be a problem in the near future…
 
 #### Juice Check (1 token, non-repetitive)
 
-When you run out of Ammo, you can spend a Survival Token to attempt a Juice Check. This is a **<span style="font-variant:small-caps;">Savvy</span>** Quickie, and if you succeed then you do not run out of Juice just yet. Additionally, each face or ace reduces your Juice tally by one. As with other Quickies, you can attempt at most one such Quickie per Juice check, but you can try to Negotiate with your Mad Half to draw more cards during that Quickie. See page 66 for more details on Juice and examples on how it works.
+When you run out of Ammo, you can spend a Survival Token to attempt a Juice Check. This is a ***Savvy*** Quickie, and if you succeed then you do not run out of Juice just yet. Additionally, each face or ace reduces your Juice tally by one. As with other Quickies, you can attempt at most one such Quickie per Juice check, but you can try to Negotiate with your Mad Half to draw more cards during that Quickie. See page 66 for more details on Juice and examples on how it works.
 
 ### Using Survival Tokens Between Scenes
 
@@ -889,11 +889,11 @@ Here I’ve compiled some helpful game-play tips for players new to the system, 
 
 **When in dire straits, Negotiate!** By gaining Crazy-go-Psycho points you can make great things happen at the cost of going batshit nuts. I’ve seen good players skate through a game on sheer Crazy alone. Going crazy isn’t really a bad thing either, as it only makes the game more fun, and with careful balancing of risk and reward, you can totally go apeshit while keeping your CGP tallies at relatively sane levels. See page 91 for more details on Crazy-Go-Psycho empowerment.
 
-Keep in mind that ***Cannibal Contagion*** **is only made more fun by the in-game situation being completely FUBAR’d.** Don’t fret when bad stuff happens to your character, because it’s supposed to. Just take it in stride, pop back and give it all you’ve got. Don’t get butt-hurt if and when your character gets injured or even dies, as that’s all part of the fun. Heck, sometimes it’s even fun to proudly say that you died first.
+Keep in mind that Cannibal Contagion **is only made more fun by the in-game situation being completely FUBAR’d.** Don’t fret when bad stuff happens to your character, because it’s supposed to. Just take it in stride, pop back and give it all you’ve got. Don’t get butt-hurt if and when your character gets injured or even dies, as that’s all part of the fun. Heck, sometimes it’s even fun to proudly say that you died first.
 
 **Remember: there will be some fights that you just can’t and/or won’t win.** There will be times when you face monsters with really high Threat Scores that just seem to keep kicking your ass. If you can’t defeat them with Showdowns, try working together with the other players to gang up on them, and consider using the scene to your advantage. Narrate obstacles and escapes, and don’t forget that running away is one of the keys to survival.
 
-**Don’t Turtle up!** ***Cannibal Contagion*** is a game that favors and rewards players who seize the initiative and push conflicts directly and with gusto. If a player or the CiC narrates something that you disagree with, and you think your character can directly change it, then voice your dissent. If a few moments of discussion don’t satisfy you, challenge it and call a Showdown! Let the cards decide, and be prepared to narrate should you succeed. If you just sit there and react, then you’re not pushing the game forward, and a game that isn’t pushed forward goes nowhere. That’s not fun.
+**Don’t Turtle up!** Cannibal Contagion is a game that favors and rewards players who seize the initiative and push conflicts directly and with gusto. If a player or the CiC narrates something that you disagree with, and you think your character can directly change it, then voice your dissent. If a few moments of discussion don’t satisfy you, challenge it and call a Showdown! Let the cards decide, and be prepared to narrate should you succeed. If you just sit there and react, then you’re not pushing the game forward, and a game that isn’t pushed forward goes nowhere. That’s not fun.
 
 
 # Part 4: The Mad Half
@@ -911,7 +911,7 @@ Let’s face it: with all this crazy cannibal zombie-monster shit going down, so
 
 As the game is played, characters will often face things which can drive normal men mad. Seeing your friends and family murdered before your eyes can be maddening enough, but what if you’re the one actually murdering them yourself because they’re trying to eat you? In desperate times, people do desperate things, and sometimes those people can draw upon that madness to push them along and keep themselves alive. You know how these stories tend to go – you either get killed or go crazy. Those who fight the hardest to survive are usually quite rattled by their experiences, and oftentimes there is little humanity left in them in the end to differentiate them from the monsters they’ve had to slaughter in order to stay alive. Their madness gave them power during their journey, but broke them in the end.
 
-That’s exactly how ***Cannibal Contagion*** works. Your characters have been thrown smack dab into the middle of the craziest shit they’ve never believed could happen. They will be forced to do terrible things in order to scrabble for the barest sliver of hope for survival. As they face the horrors of the apocalypse, they will draw upon that madness in the hopes that the edge it gives them will be enough for them to make it through to the other side. As that destination draws near, however, their madness could quite likely overtake them. When the tension and events of the game push characters to the brinks of desperation and lunacy, ***CC*** uses Psychotriggers, Crazy-Go-Psycho points, and the Mad Half to bring that craziness into play.
+That’s exactly how Cannibal Contagion works. Your characters have been thrown smack dab into the middle of the craziest shit they’ve never believed could happen. They will be forced to do terrible things in order to scrabble for the barest sliver of hope for survival. As they face the horrors of the apocalypse, they will draw upon that madness in the hopes that the edge it gives them will be enough for them to make it through to the other side. As that destination draws near, however, their madness could quite likely overtake them. When the tension and events of the game push characters to the brinks of desperation and lunacy, Cannibal Contagion uses Psychotriggers, Crazy-Go-Psycho points, and the Mad Half to bring that craziness into play.
 
 The madness system involves four major variables: Negotiation, the Mad Half, the Psychotrigger, and the CGP meter. These components work together organically to keep your characters moving ever forward towards the brink of Madness. In order to understand how it all works, you need to understand how each of these variables is important on its own. We’ll start with the basics of how it works, and go into more details on the specifics after an example.
 
@@ -951,7 +951,7 @@ If you’re running convention games, the default is to just choose the player t
 
 ### Playing the Mad Half
 
-When you are the Mad Half, you have a very important responsibility to mentally screw with your designated character (also known as your **<span style="font-variant:small-caps;">Pawn</span>**). The Pawn will frequently beg you for empowerment via Negotiation, and you are responsible for making them truly earn that empowerment. You are given a variable amount of control over certain aspects of that character (based on their current stage of Crazy-go-Psycho), and you can manipulate their Psychotrigger to apply said control.
+When you are the Mad Half, you have a very important responsibility to mentally screw with your designated character (also known as your ***Pawn***). The Pawn will frequently beg you for empowerment via Negotiation, and you are responsible for making them truly earn that empowerment. You are given a variable amount of control over certain aspects of that character (based on their current stage of Crazy-go-Psycho), and you can manipulate their Psychotrigger to apply said control.
 
 Your primary responsibility as the Mad Half is to keep tabs on the Pawn’s current stage of insanity, so you can use it against them when the time comes. You can use a note page to scribble down your Pawn’s Psychotrigger and track their craziness, or instead print out the handy Pawn cards for this purpose. Using the “Team Craziness” printable sheet can also help everyone keep track of each other’s stages of sanity. You should keep yourself constantly aware of how crazy they are, because the higher their stage, the more leeway you have for messing with them in the game. For more details on how much control you have, see the “Putting it All Together” section further below.
 
@@ -1052,7 +1052,7 @@ In situations like the above, you may be prevented from fulfilling the actual de
 
 ### Keeping Track of your CGP Tally
 
-You begin the game by taking the base rank of your **<span style="font-variant:small-caps;">Cool</span>** Characteristic, adding +1 to it, and then writing that total on your CGP meter where it says “Points until Next Stage.” Look at the five stages, and circle the first one (“The Calm”) to denote that you have not yet begun your descent into madness.
+You begin the game by taking the base rank of your ***Cool*** Characteristic, adding +1 to it, and then writing that total on your CGP meter where it says “Points until Next Stage.” Look at the five stages, and circle the first one (“The Calm”) to denote that you have not yet begun your descent into madness.
 
 Every time you gain a point of CGP during game play, start a tally next to the “points until…” number you wrote down. The moment your tally *exceeds* that total, erase the current tally, mark a single slash in a new tally (and record any additional CGP you might have taken in excess of that as well), and circle the next consecutive stage of madness. This does not need to be celebrated or otherwise enacted through any in-game event or roleplaying; the increased new scope of the Mad Half’s powers over you will take care of that nicely.
 
@@ -1060,7 +1060,7 @@ It is entirely possible to descend multiple stages of madness at once if you tak
 
 ### Losing Ranks in Cool
 
-Whenever you lose ranks from your **<span style="font-variant:small-caps;">Cool</span>**, you must also immediately adjust the “Points until next” field on your sheet accordingly. Compare the new calculated “Points until next” rank to your current tally of CGP points. If the new rank is greater than or equal to the tally, then no worries, mate. But if the new rank is *less than* your CGP total by any number of points, then treat it as if you had just gained those points, and adjust your Madness and Tallies accordingly.
+Whenever you lose ranks from your ***Cool***, you must also immediately adjust the “Points until next” field on your sheet accordingly. Compare the new calculated “Points until next” rank to your current tally of CGP points. If the new rank is greater than or equal to the tally, then no worries, mate. But if the new rank is *less than* your CGP total by any number of points, then treat it as if you had just gained those points, and adjust your Madness and Tallies accordingly.
 
 ### Reducing Your CGP
 
@@ -1114,7 +1114,7 @@ The CiC does not have a Crazy-go-Psycho meter, but can instead spend Adversity t
 
 Being the CiC is a lot of fun. As the Cannibal in Charge, you control all the basic nuances of the setting. You set the scenes which contain all the gameplay, and you control all the horrible things the characters will encounter. You have a lot of terrible power at your disposal to make the characters’ lives total chaos. However, your job is not necessarily to kill all the other players yourself, as convincing them to kill each other can be just as satisfying, if not more.
 
-Being the CiC is not as hard as it may sound. You just gotta develop a good scenario, and if the players have a good dynamic, then they’ll do most of the work for you. As players in ***CC*** have a lot of narrative control, you don’t have to worry about coming up with too many story details. Let them take it where they find the most fun, and when they ask you questions about things, just make shit up as you go.
+Being the CiC is not as hard as it may sound. You just gotta develop a good scenario, and if the players have a good dynamic, then they’ll do most of the work for you. As players in Cannibal Contagion have a lot of narrative control, you don’t have to worry about coming up with too many story details. Let them take it where they find the most fun, and when they ask you questions about things, just make shit up as you go.
 
 The keys to being a good Cannibal-in-Charge are:
 
@@ -1132,17 +1132,17 @@ As for the other keys, read on.
 
 ## The Players are the Most Important Key
 
-Let’s face it: without the players, you’re just writing your own zombie-fic novel. With them, you’re all running and playing an awesome game of ***Cannibal Contagion***. You *need* them, and in most ways it is not *your* story, but *theirs*. As such, you should tailor your session so as to facilitate the maximum amount of fun for them.
+Let’s face it: without the players, you’re just writing your own zombie-fic novel. With them, you’re all running and playing an awesome game of Cannibal Contagion. You *need* them, and in most ways it is not *your* story, but *theirs*. As such, you should tailor your session so as to facilitate the maximum amount of fun for them.
 
 Now, this is *not* to say that you should freely pander to their whims and lofty desires. After all, your job is to make the lives of the Survivors as close to a living hell as is within your whims and imagination. Your primary purpose is to make them suffer horribly, frequently, and embarrassingly. But remember, I said above that you’re supposed to try and make things fun. Suffering can be fun, right?
 
 Wait, did you just say no? I’m amazed you even made it this far, with an attitude like that.
 
-Still here? I must’ve misheard you then. Excellent! Keep reading for some advice on connecting with your players and putting together an awesome game of ***Cannibal Contagion***.
+Still here? I must’ve misheard you then. Excellent! Keep reading for some advice on connecting with your players and putting together an awesome game of Cannibal Contagion.
 
 ### Keep to the Same Page
 
-It is *crucially* important that you make sure you and your players are all on the same page in every regard. At the beginning of your session, be it a con game, a living room game, or a pick-up game while waiting in line for the release of a new video game console or some concert tickets, you should take a few moments to let everyone know the kind of elements that will be in this session, so that the players can object or discuss, if necessary. For example, if you intend for your game to be gruesome and full of murdered children and zombie rape, then you should most definitely make sure that your fellow gamers in this session are okay with this before you start. ***Cannibal Contagion*** sessions can (and will, and have been) be host to some pretty messed-up ideas and happenings, and knowing the limits of your players is vital to helping them have fun.
+It is *crucially* important that you make sure you and your players are all on the same page in every regard. At the beginning of your session, be it a con game, a living room game, or a pick-up game while waiting in line for the release of a new video game console or some concert tickets, you should take a few moments to let everyone know the kind of elements that will be in this session, so that the players can object or discuss, if necessary. For example, if you intend for your game to be gruesome and full of murdered children and zombie rape, then you should most definitely make sure that your fellow gamers in this session are okay with this before you start. Cannibal Contagion sessions can (and will, and have been) be host to some pretty messed-up ideas and happenings, and knowing the limits of your players is vital to helping them have fun.
 
 But even further beyond the subject of offensive matters, it’s a damn good idea to make sure all the players have signed up to play the same game; matching creative agendas are as requisite as a deck of cards. If one player is looking for *Quarantine* while another player wants *Dead Rising*, then you can run into some clashing creative agendas if you just jump right in without a pre-game chat on focus and wants.
 
@@ -1162,9 +1162,9 @@ Once the Threats are bypassed, end the scene, and go over the checklist. In the 
 
 ## Game Themes
 
-Before we even begin to get into the rules behind your role as the Cannibal-in-Charge, let’s talk a bit about themes. If you haven’t already figured it out, ***Cannibal Contagion*** is a game about people trying to survive against an oppressive, nigh-overwhelming, infiltrating monstrous menace otherwise known as a Zombie Apocalypse. Sure, it’s also a game about going balls to the wall and totally massacring that menace in a variety of fun and hilariously morbid ways, but survival still plays a heavy role in both the premise and the rules. If you have spent any amount of time watching movies or otherwise enjoying stories of this genre of horror, then you’ve probably noticed a handful of themes that are pretty common to these stories. Desperation, paranoia, hopelessness, self-sacrifice, betrayal, might-makes-right, survival of the fittest, the terrible unknown, overwhelming stress, and even scattered bits of twisted and macabre humor.
+Before we even begin to get into the rules behind your role as the Cannibal-in-Charge, let’s talk a bit about themes. If you haven’t already figured it out, Cannibal Contagion is a game about people trying to survive against an oppressive, nigh-overwhelming, infiltrating monstrous menace otherwise known as a Zombie Apocalypse. Sure, it’s also a game about going balls to the wall and totally massacring that menace in a variety of fun and hilariously morbid ways, but survival still plays a heavy role in both the premise and the rules. If you have spent any amount of time watching movies or otherwise enjoying stories of this genre of horror, then you’ve probably noticed a handful of themes that are pretty common to these stories. Desperation, paranoia, hopelessness, self-sacrifice, betrayal, might-makes-right, survival of the fittest, the terrible unknown, overwhelming stress, and even scattered bits of twisted and macabre humor.
 
-A good game of ***CC*** will focus heavily on at least a couple of these major genre themes. The Survivors should be put into situations where their bonds of mutual trust are put to the test. They should be forced to play out conflicts which clash with their own morals. They should learn to take no possessions for granted, and to question their safety and survival at all moments. Even if you choose to focus mostly upon the humorous and over-the-top psychobilly aspects of such a threat, it is still next to impossible to run an effective game of Zombie Survival without taking some moments here and there to spotlight the desolate and oftentimes morbid aspects of the world around them. After all, *people are getting eaten by Zombies*, and no matter how cliché the idea has become in modern media, there is still something dark and primally sinister underneath that basic premise that is just impossible to ignore.
+A good game of Cannibal Contagion will focus heavily on at least a couple of these major genre themes. The Survivors should be put into situations where their bonds of mutual trust are put to the test. They should be forced to play out conflicts which clash with their own morals. They should learn to take no possessions for granted, and to question their safety and survival at all moments. Even if you choose to focus mostly upon the humorous and over-the-top psychobilly aspects of such a threat, it is still next to impossible to run an effective game of Zombie Survival without taking some moments here and there to spotlight the desolate and oftentimes morbid aspects of the world around them. After all, *people are getting eaten by Zombies*, and no matter how cliché the idea has become in modern media, there is still something dark and primally sinister underneath that basic premise that is just impossible to ignore.
 
 As the CiC, you should consider each of the major themes you wish to evoke in your game. Write them down in a corner of the scenario sheet where you can see them, and keep them fresh in your mind as you prepare and then eventually run your game. Before the game, take some time to consider each one, and how you plan on making sure it is present in your game. While running the game, be sure to not forget about them, and try to drop hints and threads of them into the story and description whenever you can. Well-implemented thematic narration and description can really impact a game session, and help the players all stay on the ball and have lots of fun. If you need some help or ideas with these themes, read more below. You might encounter some terms you haven’t seen yet in this text, but don’t fret it, it will all make sense once you’ve read the rest of this chapter.
 
@@ -1186,11 +1186,11 @@ If you really want to ramp up the survival, work those Gear Limits. Make them ke
 
 ### Macabre Humor
 
-I believe this should be the easiest theme to evoke. Gamers tend to have dirty gamer jokes crammed into all orifices just waiting to explode into the real world. I can’t count the number of games (pick a system) that I’ve run that have been paused or derailed by out-of-control gaming jokes and crass anecdotes, and I know I’m not alone in this. After all, most of us are here to enjoy some time with our buds, and it’s only natural that a lot of laughter and tomfoolery punctuate that camaraderie. ***Cannibal Contagion*** can be quite conducive to humorous moments, especially since the players are constantly encouraged to go over the top with their descriptions and one-up each other whenever possible. This zany, sick humor is intentional.
+I believe this should be the easiest theme to evoke. Gamers tend to have dirty gamer jokes crammed into all orifices just waiting to explode into the real world. I can’t count the number of games (pick a system) that I’ve run that have been paused or derailed by out-of-control gaming jokes and crass anecdotes, and I know I’m not alone in this. After all, most of us are here to enjoy some time with our buds, and it’s only natural that a lot of laughter and tomfoolery punctuate that camaraderie. Cannibal Contagion can be quite conducive to humorous moments, especially since the players are constantly encouraged to go over the top with their descriptions and one-up each other whenever possible. This zany, sick humor is intentional.
 
-I’m not at all ashamed to admit this: Gamer Humor is one of my most favorite things in the universe, ever. However, from my many experiences, I know full well that game humor at the table has a tendency to get out of hand pretty quickly – it can be Contagious, so to speak. Unless you specifically want an all-humor, all-the-time kind of game, uncontrolled humor can be detrimental to the actual playing of the game. Sure, everyone might be having fun, but I’ve always been of the opinion that fun is *not* the only reason I’m here gaming with my friends. If I just wanted fun, I could do lots of things with The Crew that did not require the same amount of prep work, and make other plans with them that did not involve the pretense of gaming. Then again, ***Cannibal Contagion*** doesn’t really require all that much prep work, so of course your mileage may vary.
+I’m not at all ashamed to admit this: Gamer Humor is one of my most favorite things in the universe, ever. However, from my many experiences, I know full well that game humor at the table has a tendency to get out of hand pretty quickly – it can be Contagious, so to speak. Unless you specifically want an all-humor, all-the-time kind of game, uncontrolled humor can be detrimental to the actual playing of the game. Sure, everyone might be having fun, but I’ve always been of the opinion that fun is *not* the only reason I’m here gaming with my friends. If I just wanted fun, I could do lots of things with The Crew that did not require the same amount of prep work, and make other plans with them that did not involve the pretense of gaming. Then again, Cannibal Contagion doesn’t really require all that much prep work, so of course your mileage may vary.
 
-The key to evoking humor in the game is to keep it balanced with some seriousness here and there, and not let it derail the focus. I love it when funny jokes get suddenly turned into really creepy in-game moments, by either me or another player taking hold of the moment and twisting it. I remember my mom telling me ages ago “It’s all fun and games until someone loses an eye,” but in a game of ***Cannibal Contagion***, as far as I’m concerned it’s *more* fun when a character suffers the loss of limb and life as a result of something that was until just a second ago a mere joke. If you feel the game is being lost to some bit of uncontrollable humor, and you want to get it back in line, then take some element of the current joke and apply it to something grim and gruesome, and throw it right in the game.
+The key to evoking humor in the game is to keep it balanced with some seriousness here and there, and not let it derail the focus. I love it when funny jokes get suddenly turned into really creepy in-game moments, by either me or another player taking hold of the moment and twisting it. I remember my mom telling me ages ago “It’s all fun and games until someone loses an eye,” but in a game of Cannibal Contagion, as far as I’m concerned it’s *more* fun when a character suffers the loss of limb and life as a result of something that was until just a second ago a mere joke. If you feel the game is being lost to some bit of uncontrollable humor, and you want to get it back in line, then take some element of the current joke and apply it to something grim and gruesome, and throw it right in the game.
 
 If you want to see a good balance of serious themes and macabre humor, I recommend checking out the 2004 remake of the classic film *Dawn of the Dead*. There are some really fantastic moments in that movie where the line between comedy and tragedy is quickly and often unexpectedly crossed. I remember moments (no spoilers!) in that movie where I would be laughing at some line of dialogue, only to be shocked into fright by something really unexpectedly twisted, and vice-versa. Oh, and two words: *Zombie Baby*. Okay, I lied, that’s a minor spoiler.
 
@@ -1208,7 +1208,7 @@ Here are some other simple tricks for using the mechanics to evoke stress:
 
 ## Scenario Development
 
-When putting together a game of ***CC***, it’s imperative that you prepare a sweet scenario idea. The “scenario” is the whole premise of the game’s story and setting. Where does the game take place? What has caused the world to go mad?
+When putting together a game of Cannibal Contagion, it’s imperative that you prepare a sweet scenario idea. The “scenario” is the whole premise of the game’s story and setting. Where does the game take place? What has caused the world to go mad?
 
 When creating your own scenario, you will need to consider the following variables:
 
@@ -1224,7 +1224,7 @@ When creating your own scenario, you will need to consider the following variabl
 
 ### Setting
 
-The first important variable is the setting, and the scope of that setting. You’ve probably noticed by now that ***Cannibal Contagion*** does not have a built-in world or setting. The rules were written as a universal set of mechanics for all kinds of monster-survival games, and as such I didn’t include any World History or fictional stories. This game is for *your* stories, and not just my own told vicariously through your imaginations. As such, you’ll have to take some initiative here and create your own setting.
+The first important variable is the setting, and the scope of that setting. You’ve probably noticed by now that Cannibal Contagion does not have a built-in world or setting. The rules were written as a universal set of mechanics for all kinds of monster-survival games, and as such I didn’t include any World History or fictional stories. This game is for *your* stories, and not just my own told vicariously through your imaginations. As such, you’ll have to take some initiative here and create your own setting.
 
 Probably the easiest and most popular zombie survival stories will take place in the here and now. Just start with the town that you and your fellow players live in, and throw it in the middle of a Zombie Apocalypse. Imagine places you know personally being set aflame as looters riot and your Infected neighbors scramble to eat your flesh. Choosing your own backyard as the backdrop for your stories can really help keep all the players on the same page, especially if everyone is familiar with the locations the characters visit. It can also add to the atmosphere when they see their beloved hometown desolated and abandoned!
 
@@ -1236,7 +1236,7 @@ Establishing a cool setting is crucial, as it lets everyone know a major focus o
 
 Just what the hell is going on, anyway? Is there some crazy Bad Guy causing all kinds of horrid things to happen? Did some natural disaster open a weird portal to another dimension? Have demons infected the souls of the townspeople? Is an alien plague the source of all this chaos, and are the players now charged with stopping it?
 
-The premise of your scenario gives you an idea of what is happening in the setting. It is not necessary at all to let the players know the secrets of your premise beforehand. In fact, keeping a lot of its intricacies hidden allows them to discover things as they play. You could even leave a lot of it totally unexplained at all, and have the characters only be exposed to a very small part of the Big Picture, if they get any answers at all. Suspense can be quite crucial to a fun game of ***CC***.
+The premise of your scenario gives you an idea of what is happening in the setting. It is not necessary at all to let the players know the secrets of your premise beforehand. In fact, keeping a lot of its intricacies hidden allows them to discover things as they play. You could even leave a lot of it totally unexplained at all, and have the characters only be exposed to a very small part of the Big Picture, if they get any answers at all. Suspense can be quite crucial to a fun game of Cannibal Contagion.
 
 ### Purpose
 
@@ -1248,11 +1248,11 @@ Once the characters are made, some of them may have personal secret goals that i
 
 ### Contagion
 
-Every scenario of ***CC*** should have a Contagion the players must deal with. The Contagion is one of the most important parts of this game, and without it, the game is really something completely different. The Contagion is the threat of infection and corruption that plagues the characters’ every action and decision. These rules give you a system for developing custom Contagions to suit your own games. Please see the Contagion section of the rules (see page 156).
+Every scenario of Cannibal Contagion should have a Contagion the players must deal with. The Contagion is one of the most important parts of this game, and without it, the game is really something completely different. The Contagion is the threat of infection and corruption that plagues the characters’ every action and decision. These rules give you a system for developing custom Contagions to suit your own games. Please see the Contagion section of the rules (see page 156).
 
 ### Primary Threat
 
-What is the primary source of the characters’ adversity? What is the danger they face? The primary theme of ***CC*** is characters up against the zombie contagion. Zombies are fun, everyone loves them, and if you’re the type of person who doesn’t, well then I just don’t think we can be friends anymore and I would very much like my DVDs returned, thanks. But just having the zombies there might not be enough. Why are they there in the first place? Is some evil necromancer responsible for this, or are they here for no reason other than they just woke up one day and started eating people?
+What is the primary source of the characters’ adversity? What is the danger they face? The primary theme of Cannibal Contagion is characters up against the zombie contagion. Zombies are fun, everyone loves them, and if you’re the type of person who doesn’t, well then I just don’t think we can be friends anymore and I would very much like my DVDs returned, thanks. But just having the zombies there might not be enough. Why are they there in the first place? Is some evil necromancer responsible for this, or are they here for no reason other than they just woke up one day and started eating people?
 
 If the zombies aren’t the primary threat, what is? Demons? Giant Monsters? Robot Dino-Vikings from Jupiter? Is there even a primary threat at all? Do the zombies exist “just ‘cause” and that’s all we need to think about it?
 
@@ -1274,9 +1274,9 @@ The sole mechanical variable of the scenario setup process, the Threat Factor de
 * **Steady:** For a game with a steady and even (and predictable) buildup of danger, increase Adversity after every scene by an amount = the number of players at the table (yourself included).
 * **Solid:** You can predefine a set number by which your Adversity Pool increases. If you want a slow-paced game with few Threats, set this somewhere from 2-4. For a game with a decent balance of Threat and role-playing, set it between 5-8. If you want all action all the time in a high-octane Threat-heavy game, set it at 9 or higher. **I recommend using a Solid Threat Factor if you are brand new to running the game**.
 * **Unpredictable:** For a game with a random and unpredictable buildup of danger, increase Adversity after every scene by an amount based on a single drawn card. Draw a card and look at the suit, and then increase your Adversity by the following: Spades = 8, Hearts = 4, Clubs = 2, and Diamonds = 1. If you draw a Joker, consider it a Spade and then draw a second card, adding the results together.
-* **Doomsday!** For games which are all about the gods-be-damned end of the world, the monster apocalypse to end all monster apocalypses, use *three* of the above Threat Factors at once (Slow + Steady + Unpredictable). Not only does this establish a large and steadily-increasing Adversity, it also includes a bit of random effect, *and* it lets the players know that the longer their characters survive, the more powerful their enemies will be. For experienced players of the game, I ***highly recommend*** using this as your default Threat Factor, simply because it tends to be the most fun. Also, if you are planning to only play for a couple of hours and a handful of scenes, this setting will get the action pumping fast and heavy.
+* **Doomsday!** For games which are all about the gods-be-damned end of the world, the monster apocalypse to end all monster apocalypses, use *three* of the above Threat Factors at once (Slow + Steady + Unpredictable). Not only does this establish a large and steadily-increasing Adversity, it also includes a bit of random effect, *and* it lets the players know that the longer their characters survive, the more powerful their enemies will be. For experienced players of the game, I **highly recommend** using this as your default Threat Factor, simply because it tends to be the most fun. Also, if you are planning to only play for a couple of hours and a handful of scenes, this setting will get the action pumping fast and heavy.
 
-You might want to hold off on setting this until after the players have made their characters. If the characters all have high ranks in **<span style="font-variant:small-caps;">Kill</span>** and **<span style="font-variant:small-caps;">Savvy</span>**, you will find that they frequently overcome your Threats if your Adversity Pool is low. In such cases, should the characters all be “psycho killers” and the game be all about combat, then set a high Threat Factor.
+You might want to hold off on setting this until after the players have made their characters. If the characters all have high ranks in ***Kill*** and ***Savvy***, you will find that they frequently overcome your Threats if your Adversity Pool is low. In such cases, should the characters all be “psycho killers” and the game be all about combat, then set a high Threat Factor.
 
 When setting this, it’s important to keep in mind the Adversity costs of the Threats. Fodder Threats only cost a single token to bring in, and while they are easily dispatched, a lot of them can work together and really hurt the Survivors. On the other hand, a Bigger-Badder Big Bad costs sixteen tokens to introduce, and with a high Threat Factor you might find yourself tempted to do so too early.
 
@@ -1290,7 +1290,7 @@ The very last step of character creation involves you asking each player a quest
 
 ### Conclusion
 
-Once you’ve got the above variables defined, you’ve got yourself the beginnings of a kick-ass ***Cannibal Contagion*** scenario. All that’s left is to get some players together and try it out as soon as you possibly can. Let’s hope it’s wicked fun!
+Once you’ve got the above variables defined, you’ve got yourself the beginnings of a kick-ass Cannibal Contagion scenario. All that’s left is to get some players together and try it out as soon as you possibly can. Let’s hope it’s wicked fun!
 
 ### Scenario Ideas
 
@@ -1298,7 +1298,7 @@ On the next few pages you will find a small collection of predesigned stock scen
 
 #### Zombie Survival Scenarios
 
-**The Zombie Apocalypse Is Now:** This is considered the “default” scenario for ***Cannibal Contagion***, simply because this is the primary theme behind most of the game’s core source material. Please check out the complete scenario after this section of the book for a fully fleshed-out zombie survival scenario using the four example characters printed and detailed earlier in these rules.
+**The Zombie Apocalypse Is Now:** This is considered the “default” scenario for Cannibal Contagion, simply because this is the primary theme behind most of the game’s core source material. Please check out the complete scenario after this section of the book for a fully fleshed-out zombie survival scenario using the four example characters printed and detailed earlier in these rules.
 
 **Very Tragic Forest Battle Good and Evil for Fate of World Attack!:** A handful of seemingly-random strangers find themselves trapped in the same endless misty forest, trying to figure out why they’re there and why the dead won’t die. All the while, a powerful cosmic war across time and space wages subtly through their every action. \[Inspiration: *Versus, Wild Zero*\]
 
@@ -1328,7 +1328,7 @@ On the next few pages you will find a small collection of predesigned stock scen
 
 ## Scenes
 
-To use an old cliché, the Scene is the basic building block of game structure in ***CC***. A scene is a chunk of in-game time during which we get a glimpse at something important happening in the game. Scenes usually involve the characters interacting with one another and the world around them, and in various ways. Maybe they’re exploring the ruins of a demonic temple, maybe they’re trying to find where the robot ninja zombies are coming from, maybe they’re trying to get a train to its destination while under attack from contagious hordes of cannibals.
+To use an old cliché, the Scene is the basic building block of game structure in Cannibal Contagion. A scene is a chunk of in-game time during which we get a glimpse at something important happening in the game. Scenes usually involve the characters interacting with one another and the world around them, and in various ways. Maybe they’re exploring the ruins of a demonic temple, maybe they’re trying to find where the robot ninja zombies are coming from, maybe they’re trying to get a train to its destination while under attack from contagious hordes of cannibals.
 
 The scene is where everything happens. Typically, scenes involve a lot of setting exploration and spontaneous narration. Players can ultimately push the scene in whatever direction they feel is appropriate. If players disagree on the flow of the scene, the Showdown mechanics allow them to contest their ideas.
 
@@ -1350,7 +1350,7 @@ The **When** of a scene is equally important. If you like, you can easily skip t
 
 The **Why** of the scene lets you know why the scene is happening in the first place. Do you want to showcase some new Bad Guy? Do you want to give the characters a chance to find some new gear? Do you want to give one or more characters some good moments of drama? Do you want to tie together some ends of the story? Do you want to murder one or more characters, or instead introduce some new ones? Deciding your purpose for the scene helps you guide it, and bring it to a close when that purpose has been fulfilled.
 
-Finally, the **Explosion!** is my favorite part. Every scene in ***CC*** should start off with an explosion of some kind. Now, by “explosion” I don’t necessarily mean that you have to open every scene with a literal grenade blast or anything (although that would be goddamn cool, wouldn’t it!). I’m talking about solid, definite, scene-starting actions. Perhaps the scene opens right at the moment the door to the storeroom is kicked in, and then framed in the door is the silhouette of Vera’s shotgun-wielding, blood-soaked waitress, with the rest of the characters behind her. Or maybe the scene opens with a close-up shot of a zombie’s head right as it explodes, and it drops away and we zoom out to see the waitress has just shot him, and they’re all standing in a bright meadow surrounded by the corpses of the dead.
+Finally, the **Explosion!** is my favorite part. Every scene in Cannibal Contagion should start off with an explosion of some kind. Now, by “explosion” I don’t necessarily mean that you have to open every scene with a literal grenade blast or anything (although that would be goddamn cool, wouldn’t it!). I’m talking about solid, definite, scene-starting actions. Perhaps the scene opens right at the moment the door to the storeroom is kicked in, and then framed in the door is the silhouette of Vera’s shotgun-wielding, blood-soaked waitress, with the rest of the characters behind her. Or maybe the scene opens with a close-up shot of a zombie’s head right as it explodes, and it drops away and we zoom out to see the waitress has just shot him, and they’re all standing in a bright meadow surrounded by the corpses of the dead.
 
 The explosion can involve a Showdown if necessary, but more often than not it is really fun to just describe the aftermath of a Showdown that was just concluded as the scene began, and then let the players take over from there. Instead of starting with Jian the Badass facing off against a Bad Guy, start with the moment that Jian’s sword removes said Bad Guy’s head. Starting a scene off with visceral gore is always lots of fun.
 
@@ -1358,9 +1358,9 @@ Of course, if you *do* decide to go the “grenades everywhere!” route, at lea
 
 ### The “Cold Open” Scenes
 
-In the television industry, the term “**<span style="font-variant:small-caps;">Cold Open</span>**” is used to describe the scene that some shows use to kick-start an episode before the opening credits roll. These scenes often serve as preludes, setting up some important element of that episode’s story, and foreshadowing the events that are to come.
+In the television industry, the term “***Cold Open***” is used to describe the scene that some shows use to kick-start an episode before the opening credits roll. These scenes often serve as preludes, setting up some important element of that episode’s story, and foreshadowing the events that are to come.
 
-In ***Cannibal Contagion***, a Cold Open scene is used to introduce a Survivor and throw them into a world gone mad. Once all of the Survivors have been created, you should give each character their own unique Cold Opener. In this scene, you work with the player to answer the question you wrote down when you were first putting the scenario together. Typically this is some variant of “Where were *you* when the zombies first attacked?” Look at a player, ask the question, and use this scene to answer it.
+In Cannibal Contagion, a Cold Open scene is used to introduce a Survivor and throw them into a world gone mad. Once all of the Survivors have been created, you should give each character their own unique Cold Opener. In this scene, you work with the player to answer the question you wrote down when you were first putting the scenario together. Typically this is some variant of “Where were *you* when the zombies first attacked?” Look at a player, ask the question, and use this scene to answer it.
 
 Cold Open scenes are played just like other scenes, but tend to run a little shorter. Additionally, an Explosion isn’t always necessary to start one off. When you ask The Question, work with the player to decide where and when the scene happens. The Purpose of these scenes is almost always to introduce the Contagion and see how the Survivor reacts to it.
 
@@ -1402,7 +1402,7 @@ To end a scene, just hold up your hand and say “and, Scene!” while dropping 
 3. Ask if any players wish to spend Survival tokens to recover character aspects and buy Gear.
 4. Check for possible Infection and Turning (see below)
 5. CiC increases Adversity Pool by the scenario’s predetermined Threat Factor.
-6. Finally, once they’re done, give them more Survival tokens = their **<span style="font-variant:small-caps;">Grit</span>** rank plus the number of scenes that have passed (these cannot be spent until the *next* scene begins)
+6. Finally, once they’re done, give them more Survival tokens = their ***Grit*** rank plus the number of scenes that have passed (these cannot be spent until the *next* scene begins)
 
 For ease of in-game reference, a much-condensed version of this checklist is also printed on the handy CiC cheat sheet, included with the player sheet in the back of this book.
 
@@ -1412,7 +1412,7 @@ Here’s an idea that’s a lot of fun: have the *players* frame the scenes. Whe
 
 ### Scene Example
 
-Here’s an example of the basic flow of a scene in a game of ***Cannibal Contagion***:
+Here’s an example of the basic flow of a scene in a game of Cannibal Contagion:
 
 > Screg opens the next scene with Carla, Jian, Roger, and Mei Li all together, running for their lives. Hunter (Jian’s player) suggests that the scene should take place in an abandoned bomb shelter, and Screg agrees, giving Hunter a bonus Survival Token for the great idea. The scene takes place an hour after their last one, which ended with Carla, Roger, and Mei Li being saved from a pack of rabid ghouls by a motorcycle-riding, guitar-swinging Jian. The Why of the new scene is to allow them to explore a bit more of the desolation of the environment and make some plans, while hoping the horde doesn’t somehow break through into their shelter.
 > 
@@ -1432,20 +1432,20 @@ Here’s an example of the basic flow of a scene in a game of ***Cannibal Contag
 
 ## Conflicts, Threats, and Adversity
 
-One of the most important jobs of the CiC is to provide challenges and obstacles for the players to overcome – in this game and many others, we call these challenges and obstacles **conflicts**. The ***Cannibal Contagion*** mechanics provide two major tools for you to bring in mechanical conflicts: **<span style="font-variant:small-caps;">Threats</span>** and the **<span style="font-variant:small-caps;">Adversity Pool</span>**. In ***Cannibal Contagion***, any force that actively works against the Survivors is called a Threat, including zombie hordes, plant-creatures, rioting looters, trigger-happy soldiers and more. In order to introduce these Threats into a scene, the CiC uses a fluctuating pile of tokens called the Adversity Pool, spending tokens to purchase the presence of these menaces into the game. These two systems work hand-in-hand to help you provide constant and engaging challenges for your groups of players to encounter. Whether they can survive these challenges, however, is up to them.
+One of the most important jobs of the CiC is to provide challenges and obstacles for the players to overcome – in this game and many others, we call these challenges and obstacles **conflicts**. The Cannibal Contagion mechanics provide two major tools for you to bring in mechanical conflicts: ***Threats*** and the ***Adversity Pool***. In Cannibal Contagion, any force that actively works against the Survivors is called a Threat, including zombie hordes, plant-creatures, rioting looters, trigger-happy soldiers and more. In order to introduce these Threats into a scene, the CiC uses a fluctuating pile of tokens called the Adversity Pool, spending tokens to purchase the presence of these menaces into the game. These two systems work hand-in-hand to help you provide constant and engaging challenges for your groups of players to encounter. Whether they can survive these challenges, however, is up to them.
 
 ### The Adversity Tokens
 
 The CiC has a collective Adversity Pool with which to challenge their players. This pool of tokens gives them the power to forcefully insert danger into the lives of the Survivors by inserting Threats into a scene, among other things. The Adversity Pool increases by a pre-set amount determined at the beginning of the game (the Threat Factor). As the scenes go by and the Showdowns are played, this pool of tokens will fluctuate wildly, gaining and losing tokens frequently. The current size of the CiC’s Adversity Pool can serve as an effective tool for foreshadowing, allowing them to guess just how much potential pain might be sent their way in the not-too-distant future.
 
-During a game session, the pool is most often used to introduce new Threats. It can also function as CGP points for the Threats, allowing the CiC to spend a token in the same ways a Survivor would gain a point of CGP, with no Negotiation required. See below for a full list of the various Adversity token uses in ***Cannibal Contagion***:
+During a game session, the pool is most often used to introduce new Threats. It can also function as CGP points for the Threats, allowing the CiC to spend a token in the same ways a Survivor would gain a point of CGP, with no Negotiation required. See below for a full list of the various Adversity token uses in Cannibal Contagion:
 
 * Use to purchase new Threats and bring them into the scene. The costs vary depending upon the Threat’s Role. 
 * Use a token to re-introduce a *previously-introduced but undefeated* Threat from an earlier scene.
 * Increase the Threat Score of an introduced Threat on a one-for-one basis. This can only be done at immediately after the Threat has been introduced *or* when the Threat is re-introduced into a later scene.
-* Use a token to active a **<span style="font-variant:small-caps;">Panic Button</span>**. See the Mad Half section (see page 104) for more details
+* Use a token to active a ***Panic Button***. See the Mad Half section (see page 104) for more details
 * Use to draw bonus cards for any in-scene Threat with a purchased Threat score. 
-* Use a token to attempt a soak check when a Threat is hit with Hurtin’. This is handled as a standard Quickie, but uses the Threat’s Hand Size (determined by Role) in place of **<span style="font-variant:small-caps;">Grit</span>**. Don’t forget this! If the Survivors are beating your Threats down too easily, make some soak checks! 
+* Use a token to attempt a soak check when a Threat is hit with Hurtin’. This is handled as a standard Quickie, but uses the Threat’s Hand Size (determined by Role) in place of ***Grit***. Don’t forget this! If the Survivors are beating your Threats down too easily, make some soak checks! 
 * Use to take away a Survivor’s Gear between scenes. Do this *after* they have spent their tokens to purchase new Gear. The cost is 1 Adversity Token per Gear, and 2 per custom weapon.
 
 When initially setting up a game, determine the session’s Threat Factor. This number sets the amount by which the CiC’s Adversity Pool (see below) increases at the end of every scene. The CiC starts the game with an Adversity Pool set by the numerical value of a random card draw, and she can increase it in-game using the following methods:
@@ -1458,17 +1458,17 @@ When initially setting up a game, determine the session’s Threat Factor. This 
 
 As the CiC, you are responsible for the introduction and management of all the *non-player* characters and enemies that stand beside or against those played by the players themselves – in other words, all the background characters that fill out the scenes of the world that you and your players create. Allies have already been covered previously in the rules, so in this section we’re going to focus on the forces that actively stand against the Survivors. These could be terrible man-eating zombies, twisted alien overlords, or just masses of fodder for the Survivors to mow down with bullets.
 
-In ***Cannibal Contagion***, we call these enemies <span style="font-variant:small-caps;">Threats</span>. Whether they are upset neighbors, corrupt cops, zombies, giant effing monsters, naughty succubus librarians, flesh-melting aliens or whatever, they’re all Threats, and the rules for handling them are the same. It is your job to portray these Threats as best you can, and play their conflicts when the time arises.
+In Cannibal Contagion, we call these enemies <span style="font-variant:small-caps;">Threats</span>. Whether they are upset neighbors, corrupt cops, zombies, giant effing monsters, naughty succubus librarians, flesh-melting aliens or whatever, they’re all Threats, and the rules for handling them are the same. It is your job to portray these Threats as best you can, and play their conflicts when the time arises.
 
-Before we go any further, let’s talk about the differences between “non-player characters” and actual Threats. If you have played other role-playing games, then you are probably familiar with the ways in which non-player characters (usually called NPCs) are usually handled. Other games tend to give these characters the same stats and mechanics as the regular Player Characters (which we call Survivors). Frequently, creating NPCs in these games can take just as long as creating the actual player characters, if not longer. ***Cannibal Contagion*** simplifies this greatly.
+Before we go any further, let’s talk about the differences between “non-player characters” and actual Threats. If you have played other role-playing games, then you are probably familiar with the ways in which non-player characters (usually called NPCs) are usually handled. Other games tend to give these characters the same stats and mechanics as the regular Player Characters (which we call Survivors). Frequently, creating NPCs in these games can take just as long as creating the actual player characters, if not longer. Cannibal Contagion simplifies this greatly.
 
-In ***Cannibal Contagion***, all characters that are not directly controlled by the players – meaning, all non-Survivor characters – fall into one of three categories: **<span style="font-variant:small-caps;">Allies</span>**, **<span style="font-variant:small-caps;">Wallflowers</span>**, and **<span style="font-variant:small-caps;">Threats</span>**. The previous chapter already detailed the use and mechanics of Allies. Basically, they are advanced types of Gear that have personalities and a bit more autonomy (see page 76).
+In Cannibal Contagion, all characters that are not directly controlled by the players – meaning, all non-Survivor characters – fall into one of three categories: ***Allies***, ***Wallflowers***, and ***Threats***. The previous chapter already detailed the use and mechanics of Allies. Basically, they are advanced types of Gear that have personalities and a bit more autonomy (see page 76).
 
 Wallflowers are characters who have no direct mechanical impact in the current scene. That weird crazy street vendor who sells the Survivor a Glock is a Wallflower, as are those poor sods you just described being eaten alive by the zombies that the Survivors just accidentally stumbled upon. They can be quite important to the flow and the current narrative, and can have rich and detailed personalities, but they have no mechanical sway in Quickies and Showdowns. Ultimately, Wallflowers exist only at the allowance of the players’ and the CiC’s narrative whims. The CiC can narrate their deaths or other such elimination at any time, and the players can do so as well through the use of successful Showdown narration.
 
 **Wallflower Examples**: Creepy Bag Lady, Marv the Pharmacist, Chewed-upon Severed Leg \#24, that sleeping guard over there, the cowering cashier at the Grab-and-Dash, etc.
 
-Threats, on the other hand, are the bad guys. They represent the forces that directly oppose the characters, the challenges that the Survivors must overcome. They are bought and introduced into scenes using the Adversity rules, which are defined further below. These fellas have two major in-game mechanical descriptors, called **<span style="font-variant:small-caps;">Role</span>** and **<span style="font-variant:small-caps;">Threat</span>**, which they use to directly participate in Showdowns against the Survivors. Because they were paid for with Adversity tokens, Threats can only be eliminated through the use of Showdowns and Hurtin’. Just like the Survivors, they have a potential to directly change the scenes and mechanically conflict with other characters. Any group of monsters that the CiC wishes to throw at the Survivors falls into this group.
+Threats, on the other hand, are the bad guys. They represent the forces that directly oppose the characters, the challenges that the Survivors must overcome. They are bought and introduced into scenes using the Adversity rules, which are defined further below. These fellas have two major in-game mechanical descriptors, called ***Role*** and ***Threat***, which they use to directly participate in Showdowns against the Survivors. Because they were paid for with Adversity tokens, Threats can only be eliminated through the use of Showdowns and Hurtin’. Just like the Survivors, they have a potential to directly change the scenes and mechanically conflict with other characters. Any group of monsters that the CiC wishes to throw at the Survivors falls into this group.
 
 **Threat Example**: The rotting walking corpse that used to be your mail man, a pack of hungry hounds, Murderous Deke, the hungry hungry hobos, a knife-wielding psychopath, rioting townspeople, etc.
 
@@ -1478,7 +1478,7 @@ It is also possible for characters of one type to change into another type. For 
 
 Any character – Survivor *or* Threat – that is somehow considered important in the game has a Threat score. Threats use their Threat score as their single all-purpose Characteristic, and the CiC uses it as a gauge to determine how super nasty the Survivors will be when they eventually succumb to the Infection, die, or both.
 
-Important Threats in ***CC*** use their Threat ratings as a sort of “hit point” tally. When characters win in Showdowns against Threats, any Hurtin’ they cause is taken directly from those Threat Scores. Unlike normal Hurtin’, this does not in any way impact the Card Draws of those Threats. Threats are handled just like other characters for purposes of elimination. It is important to note that if a character is in a scene and he does not have Characteristic scores or was not paid for with Adversity tokens (meaning: he is a Wallflower), then he can be killed at any time by narration. Only Survivors and Threats *require* Hurtin’ to be eliminated.
+Important Threats in Cannibal Contagion use their Threat ratings as a sort of “hit point” tally. When characters win in Showdowns against Threats, any Hurtin’ they cause is taken directly from those Threat Scores. Unlike normal Hurtin’, this does not in any way impact the Card Draws of those Threats. Threats are handled just like other characters for purposes of elimination. It is important to note that if a character is in a scene and he does not have Characteristic scores or was not paid for with Adversity tokens (meaning: he is a Wallflower), then he can be killed at any time by narration. Only Survivors and Threats *require* Hurtin’ to be eliminated.
 
 Every Survivor also has a Threat score known only by the CiC, which starts at zero and increases by +1 every time that character survives a scene. By “survive” we mean “ends the scene still alive.” The Survivors’ individual Threat Scores mainly exist as a bit of foreshadowing: the higher a character’s Threat, the more dangerous they might eventually be. Should your Contagion’s aftermath involve Turning, then this Threat score is the basis for the Turned character’s power as a Threat.
 
@@ -1486,7 +1486,7 @@ Every Survivor also has a Threat score known only by the CiC, which starts at ze
 
 When bringing new non-player characters into the game, you have to determine if they’re going to be important in the scene (they are Allies or Threats), or if they exist only as color (they are Wallflowers). A random street vendor might not be that important, and will be unlikely to exist as anything other than color. Chances are, he won’t even be an Ally, and will just be there for descriptive purposes of the scene. A gun-collecting nutjob who hunts down the characters for trespassing on his land, however, will likely be quite important, as will a pack of cannibals trying to eat them, or the mad doctor trying to infect the world with his demon plague. These latter folks are Threats, and here are the rules on how to bring them into play.
 
-Every Threat in a game of ***CC*** has two major attributes: **<span style="font-variant:small-caps;">Role</span>** and **<span style="font-variant:small-caps;">Threat</span>**. The Threat attribute was described in the previous section, but Role is definitely a new one. Every Threat introduced in the game needs to have a defined Role, which gives it a purpose in the scene and sets the number of cards it draws in Showdowns. There are five pre-set roles for Threats in **CC**: Fodder, Hindrance, Miniboss, Big Bad, and Bigger-Badder Big Bad.
+Every Threat in a game of Cannibal Contagion has two major attributes: ***Role*** and ***Threat***. The Threat attribute was described in the previous section, but Role is definitely a new one. Every Threat introduced in the game needs to have a defined Role, which gives it a purpose in the scene and sets the number of cards it draws in Showdowns. There are five pre-set roles for Threats in **CC**: Fodder, Hindrance, Miniboss, Big Bad, and Bigger-Badder Big Bad.
 
 When you introduce a new Threat into a scene, you must pick what role it will be and then pay the associated cost in Adversity tokens. A Threat’s role determines how many tokens it costs to introduce, what cards are used to determine its Threat score, and how many cards it gets to draw during Showdowns. Each role uses a variant of the same mechanic for determining initial Threat scores, which involves drawing a card and keeping its value as the Threat score. Once you’ve determined the Threat score, you can then choose to spend more of your Adversity tokens to increase that Threat score on a one for one basis. If you are using the optional Threat cards to keep track of your Threats in the game, you can keep the Threat card and the drawn card next to each other for ease of reference in play.
 
@@ -1585,9 +1585,9 @@ Threats don’t have to be all stats and numbers, mind you. You should take care
 
 #### Other, Possibly Greater Threats
 
-Zombies are awesome, but why stop there? The ***CC*** rules are designed to allow you to role-play mad crazy survival against mad crazy monsters. Zombies obviously fit that bill, but you can most certainly include different threats as well or instead. Perhaps the enemies are people possessed by demons, and you have to find a way to clear them out without killing the people. Perhaps there is a wide variety of enemies, each with different motivations, dangers, and weaknesses. Some may do different types of damage, some may even affect the players’ cards and CGP meters.
+Zombies are awesome, but why stop there? The Cannibal Contagion rules are designed to allow you to role-play mad crazy survival against mad crazy monsters. Zombies obviously fit that bill, but you can most certainly include different threats as well or instead. Perhaps the enemies are people possessed by demons, and you have to find a way to clear them out without killing the people. Perhaps there is a wide variety of enemies, each with different motivations, dangers, and weaknesses. Some may do different types of damage, some may even affect the players’ cards and CGP meters.
 
-Below are some examples of alternate Threats you can use in ***CC***, and of course you are encouraged to create your own.
+Below are some examples of alternate Threats you can use in Cannibal Contagion, and of course you are encouraged to create your own.
 
 ##### Alternate Threat: Murder Fiends
 
@@ -1649,7 +1649,7 @@ Starting Threat**: As Fodder**
 
 Showdown Hand Size**: As Fodder**
 
-**Special**: Although only Fodder, Ugglies are very dangerous. When a Survivor is hurt by an Uggly, the Hurtin’ *must* come first out of **<span style="font-variant:small-caps;">Grit</span>**. If the character has no more **<span style="font-variant:small-caps;">Grit</span>**, only then can the rest of the Hurtin’ be applied as the player sees fit. Also, the Ugglies don’t infect, but if they kill you, you will Turn as one of them.
+**Special**: Although only Fodder, Ugglies are very dangerous. When a Survivor is hurt by an Uggly, the Hurtin’ *must* come first out of ***Grit***. If the character has no more ***Grit***, only then can the rest of the Hurtin’ be applied as the player sees fit. Also, the Ugglies don’t infect, but if they kill you, you will Turn as one of them.
 
 ##### Possessed Villagers (Hindrance)
 
@@ -1775,25 +1775,25 @@ Showdown Hand Size**: As 4B**
 
 #### Non-Combat Threats and Showdowns
 
-Not all Showdowns have to be combat-focused, and not all Threats have to be terrible bad guys. The Threat mechanics can be used to introduce non-character menaces into the game, indirect challenges that will more frequently require guile and the **<span style="font-variant:small-caps;">Savvy</span>** Characteristic in order to overcome. Showdowns can be used to play out any number of dramatic conflicts with these Threats.
+Not all Showdowns have to be combat-focused, and not all Threats have to be terrible bad guys. The Threat mechanics can be used to introduce non-character menaces into the game, indirect challenges that will more frequently require guile and the ***Savvy*** Characteristic in order to overcome. Showdowns can be used to play out any number of dramatic conflicts with these Threats.
 
 Below are some examples of other conflicts which can be played out via a Showdown, and the Threats that might be faced in them. The Threats in these examples can be purchased and introduced like any other Threat. Overcoming them in conflicts will often require indirect action and cleverness beyond the usual “shoot until it’s dead” that fixes most issues.
 
-**Diffuse the Viral Bomb!** For this Showdown, the Bomb would be a Threat of most likely Miniboss role. A showdown against the bomb could involve the player(s) using their **<span style="font-variant:small-caps;">Savvy</span>** and technical resources to either diffuse it completely or simply delay its countdown to explode. Should the bomb win, well, good bye, heroes, and welcome to the world of the infected. When the Bomb “steps it up,” you could have its timer start spinning down, technical lockouts and short-circuits could hinder the players, foreign interfaces could confuse the, etc.
+**Diffuse the Viral Bomb!** For this Showdown, the Bomb would be a Threat of most likely Miniboss role. A showdown against the bomb could involve the player(s) using their ***Savvy*** and technical resources to either diffuse it completely or simply delay its countdown to explode. Should the bomb win, well, good bye, heroes, and welcome to the world of the infected. When the Bomb “steps it up,” you could have its timer start spinning down, technical lockouts and short-circuits could hinder the players, foreign interfaces could confuse the, etc.
 
-**Get through the collapsing hallway before the lava fills the room!** Here the Threat is the Lava itself, of either Hindrance or Miniboss role, depending on how powerful a force you want it to be. The players could use Kill to try and rush past it or kick down the door out of the hallway, **<span style="font-variant:small-caps;">Savvy</span>** to try and divert it or help their fellows through safely, or anything else along those lines. Should the lava win, it bursts through and floods over the Survivors, burning them extensively. When the Lava “steps it up,” it could collapse new sections of the wall, spout up from the floor, burst down from the ceiling, and so on.
+**Get through the collapsing hallway before the lava fills the room!** Here the Threat is the Lava itself, of either Hindrance or Miniboss role, depending on how powerful a force you want it to be. The players could use Kill to try and rush past it or kick down the door out of the hallway, ***Savvy*** to try and divert it or help their fellows through safely, or anything else along those lines. Should the lava win, it bursts through and floods over the Survivors, burning them extensively. When the Lava “steps it up,” it could collapse new sections of the wall, spout up from the floor, burst down from the ceiling, and so on.
 
 **Defeat the Malfunctioning Supercomputer!** The Supercomputer is the Threat this time, most likely as a Big Bad role bad guy. It possesses all kinds of traps and gadgets and attack drones it can throw at the Survivors. They will soon find that attacking the drones is pointless, as they just keep coming endlessly. The Survivors will have to use Kill to damage its power sources, and Savvy to bypass its controls.
 
 **Get the sailboat through the terrible storm!** In this conflict, the players have escaped the infected island on a sailboat and must make it through a storm to get back to land. The storm would be a Hindrance or Miniboss Threat, and would have all manner of crashing waves, violent winds, and lightning strikes with which to assault the Survivors. As the Survivors take cover in the boat, direct the sails, and shift their weight on board, they can draw some cards and maybe make it through the storm.
 
-**Get past the Deathtrap Cube!** The Threat here is the Room itself, of Miniboss or Big Bad role, full of traps and dangers intended to murderize the Survivors in as grisly a way as possible. Survivors can use **<span style="font-variant:small-caps;">Kill</span>** and **<span style="font-variant:small-caps;">Savvy</span>** equally here, as some traps can be dodged and brute-forced, while others require insight and preparation in order to bypass. Each time the Room steps it up, it could throw another trap at the Survivors, drop blades from the ceiling, manifest invisible razor wires, and so on.
+**Get past the Deathtrap Cube!** The Threat here is the Room itself, of Miniboss or Big Bad role, full of traps and dangers intended to murderize the Survivors in as grisly a way as possible. Survivors can use ***Kill*** and ***Savvy*** equally here, as some traps can be dodged and brute-forced, while others require insight and preparation in order to bypass. Each time the Room steps it up, it could throw another trap at the Survivors, drop blades from the ceiling, manifest invisible razor wires, and so on.
 
 In summation, any type of challenge or opposing force can be introduced as a Threat with some creative thinking. Play around with different ideas and see what you can come up with!
 
 #### Conflicts Without Threat
 
-In fact, not all dangers in ***CC*** have to be purchased with Adversity, have Threat scores, or even involve Bad Guys at all. As the CiC, you should feel free to throw all sorts of non-Showdown dangers and challenges at the Survivors. The best challenges are those that force the characters to make decisions about their survival, and even better are those that challenge their morals, ethics, and attitudes about the quality of their lives and those of their friends and families.
+In fact, not all dangers in Cannibal Contagion have to be purchased with Adversity, have Threat scores, or even involve Bad Guys at all. As the CiC, you should feel free to throw all sorts of non-Showdown dangers and challenges at the Survivors. The best challenges are those that force the characters to make decisions about their survival, and even better are those that challenge their morals, ethics, and attitudes about the quality of their lives and those of their friends and families.
 
 Introducing these challenges is as simple as narrating them into the game at your desire. If you want a careening car to charge the characters frantically from the highway they’re walking down, then just say it and see how they respond. If you want to have the building they’re hiding in collapse around them, then do it. It’s not only your right as the CiC to keep the players on their toes, it’s your *entire mission*.
 
@@ -1819,7 +1819,7 @@ In your game sessions, if the players come up with a good way to bypass a Threat
 
 ## Contagion
 
-As the game is played and the crap flies around, there is a good chance one or more Survivors will become Infected with the Cannibal Contagion. When the nasty monsters bite you, chances are, you will get the sickness, and it’s only a matter of time before friends become not just enemies, but ravenous man-eating cannibals. This should be a core feature of every game of ***Cannibal Contagion***, as many of the rules revolve around it. This system of entirely personalized and customizable contagious infection is one of the big things that makes ***Cannibal Contagion*** different from a lot of other zombie-themed games.
+As the game is played and the crap flies around, there is a good chance one or more Survivors will become Infected with the Cannibal Contagion. When the nasty monsters bite you, chances are, you will get the sickness, and it’s only a matter of time before friends become not just enemies, but ravenous man-eating cannibals. This should be a core feature of every game of Cannibal Contagion, as many of the rules revolve around it. This system of entirely personalized and customizable contagious infection is one of the big things that makes Cannibal Contagion different from a lot of other zombie-themed games.
 
 ### What is the Contagion?
 
@@ -1829,7 +1829,7 @@ When you are putting together a scenario for this game, you should define the ex
 
 #### Contagion Variables
 
-The five important mechanical variables you must define are the **<span style="font-variant:small-caps;">Vector</span>**, the **<span style="font-variant:small-caps;">Effects</span>**, the **<span style="font-variant:small-caps;">Threshold</span>**, the **<span style="font-variant:small-caps;">Aftermath</span>**, and the **<span style="font-variant:small-caps;">Antidote</span>** of the Contagion.
+The five important mechanical variables you must define are the ***Vector***, the ***Effects***, the ***Threshold***, the ***Aftermath***, and the ***Antidote*** of the Contagion.
 
 ##### Contagion Vector
 
@@ -1869,7 +1869,7 @@ The Threshold of the Contagion sets the point at which the infection permanently
 
 The Aftermath of the Contagion decides what happens after the Threshold has been crossed. When an infected character passes the above-defined Threshold, you should apply the mechanics of whatever you have chosen for your Contagion’s Aftermath.
 
-**Explosion!**: When the Contagion’s Threshold is crossed, the character explodes (and dies, of course). Everyone nearby takes Hurtin’ equal to the character’s Infection tally at the time of their death. This can be resisted by **<span style="font-variant:small-caps;">Grit</span>**, and if the CiC so decides, the explosion also infects anyone it hits. Talk about a dirty bomb! (Example: *Cloverfield*)
+**Explosion!**: When the Contagion’s Threshold is crossed, the character explodes (and dies, of course). Everyone nearby takes Hurtin’ equal to the character’s Infection tally at the time of their death. This can be resisted by ***Grit***, and if the CiC so decides, the explosion also infects anyone it hits. Talk about a dirty bomb! (Example: *Cloverfield*)
 
 **Just Plain Death**: Once the Threshold is crossed, the character is immediately dead. There’s no threat of them coming back or anything, just death. Perhaps they’re really the lucky one, right? (Example: Any historical plague of epic proportions)
 
@@ -1881,9 +1881,9 @@ Can the Infection be delayed or cured in your game? That’s what this variable 
 
 The Antidote variable determines not only if the infection can be cured, but also if it can even be resisted at all.
 
-**Mind Over Matter**: If Mind Over Matter is in place, then the Infection can be resisted with natural abilities alone. This is good news for the players! Each time the character is set to take Infection, you (the CiC) should tell them so, and offer to let them try a **<span style="font-variant:small-caps;">Grit</span>** check to resist it. Each Ace or Face they draw resists one point of incoming Infection. Don’t tell them how much, though, and only give them a vague idea if they succeed or not. Keep asking them if they want to Negotiate to draw more cards, too – they’ll rack up the CGP if the threat of Infection is upon them! Note that if the character was not previously Infected before this Showdown, he remains un-Infected if he can reduce the incoming Infection to zero.
+**Mind Over Matter**: If Mind Over Matter is in place, then the Infection can be resisted with natural abilities alone. This is good news for the players! Each time the character is set to take Infection, you (the CiC) should tell them so, and offer to let them try a ***Grit*** check to resist it. Each Ace or Face they draw resists one point of incoming Infection. Don’t tell them how much, though, and only give them a vague idea if they succeed or not. Keep asking them if they want to Negotiate to draw more cards, too – they’ll rack up the CGP if the threat of Infection is upon them! Note that if the character was not previously Infected before this Showdown, he remains un-Infected if he can reduce the incoming Infection to zero.
 
-**Only Delays the Inevitable**: If the Antidote only delays the inevitable, then the player has to keep track of a supply of special expendable Gear (pills, serum, special food, human flesh, etc) that keeps the infection from rising. This gear is special in that it can *only* be Sacrificed, and it can only be used on **<span style="font-variant:small-caps;">Grit</span>** checks made to resist the Infection. The mechanics function just like the Mind Over matter option above, but with two changes: 1) the player *must* have one or more units of the special Gear in order to attempt the check, and 2) the Infection prevention is only temporary, and any prevented Infection must again be resisted at the end of the next scene.
+**Only Delays the Inevitable**: If the Antidote only delays the inevitable, then the player has to keep track of a supply of special expendable Gear (pills, serum, special food, human flesh, etc) that keeps the infection from rising. This gear is special in that it can *only* be Sacrificed, and it can only be used on ***Grit*** checks made to resist the Infection. The mechanics function just like the Mind Over matter option above, but with two changes: 1) the player *must* have one or more units of the special Gear in order to attempt the check, and 2) the Infection prevention is only temporary, and any prevented Infection must again be resisted at the end of the next scene.
 
 **Destroy the Source**: The Contagion can’t be eliminated until you find and destroy the source of the infection. This could be a super-vampire, a master zombie, an alien hive queen, or any other sinister Alpha Source of the infection. This enemy should most definitely be of the Bigger-Badder Big Bad role, although it could be fun to make the players think that the mere Big Bad they just fought was their actual nemesis.
 
@@ -1929,7 +1929,7 @@ Should an Ally Turn, the new Threat must be purchased into the scene just liked 
 
 Like Threats, player-controlled characters can become Turned, too. When the Survivor turns, she becomes a CiC-controlled Threat with a Threat score equal to her Threat tally at the time of Turning, plus any remaining Characteristic ranks they may have had at that moment. Remember that Threat tally you’ve been counting since the game began? That’s the one. The longer a character has survived, the more badass she will be when she becomes a zombie. Total the Threat and Characteristics and the result is the new Threat score for the character.
 
-Unlike turned Threats, turned Survivors under the control of the CiC ***do not*** need to be purchased into the scene. However, you can choose to spend Adversity to boost their Threat scores using the normal rules for doing so. They automatically come into the game as Minibosses, getting four-card hands for use in Showdowns. Once they’ve Turned, you can bring them into play at any time during any scene without needing to pay any Adversity tokens. You can do this as often as you like, up until the turned Survivor is somehow eliminated.
+Unlike turned Threats, turned Survivors under the control of the CiC **do not** need to be purchased into the scene. However, you can choose to spend Adversity to boost their Threat scores using the normal rules for doing so. They automatically come into the game as Minibosses, getting four-card hands for use in Showdowns. Once they’ve Turned, you can bring them into play at any time during any scene without needing to pay any Adversity tokens. You can do this as often as you like, up until the turned Survivor is somehow eliminated.
 
 Of course, if the CiC allows it, the players whose Survivors have turned can choose to continue playing as their turned characters, or can instead opt to stat up new characters and bring them into play. Playing Turned characters can be quite fun, and can lead to zombie-driven games of exciting inter-player conflict. Framing new scenes around this can be difficult, though. If one or two characters have Turned and their players opt to keep on playing, consider framing scenes around them, and have the other players temporarily take over other in-game characters that are either fighting against or running away from these player-cannibals.
 
@@ -1995,17 +1995,17 @@ When there’s no more room in hell, the dead shall walk the earth, and this is 
 
 Did you all die? No worries, just curious...
 
-Every story has an end, as does every game of ***CC***. Sometimes the end will come when the characters defeat a final boss, or destroy the source of the Contagion. In other games, the game will end when they’re killed by the monsters – or by the hands of their friends, even. Sometimes, a game might even end with a good solid cliffhanger, which is my personal favorite way to end any game in which I am a player or a CiC.
+Every story has an end, as does every game of Cannibal Contagion. Sometimes the end will come when the characters defeat a final boss, or destroy the source of the Contagion. In other games, the game will end when they’re killed by the monsters – or by the hands of their friends, even. Sometimes, a game might even end with a good solid cliffhanger, which is my personal favorite way to end any game in which I am a player or a CiC.
 
-A typical session of ***Cannibal Contagion*** tends to last from four to ten scenes in length. When it comes time to bring the game to a close, just resolve the last scene and let things end. There’s really no need for any post-game awards, unless your group has their own system for things like that. Let the players enjoy the story that they helped bring to a close, and then go out with them afterwards and talk about it over beer and chicken wings. Find out what everyone liked, what anyone disliked, and learn ways to make your next games even more awesome than your last.
+A typical session of Cannibal Contagion tends to last from four to ten scenes in length. When it comes time to bring the game to a close, just resolve the last scene and let things end. There’s really no need for any post-game awards, unless your group has their own system for things like that. Let the players enjoy the story that they helped bring to a close, and then go out with them afterwards and talk about it over beer and chicken wings. Find out what everyone liked, what anyone disliked, and learn ways to make your next games even more awesome than your last.
 
 ### Extended Play
 
-***CC*** is primarily intended as a “pick-up” game, best used for short-run, one-or-two-shot gaming sessions. The scope of the game is fairly limited, focused almost entirely on immediate survival. However, some groups may find that the stories they start telling in one session are just too good to let go after only a single sitting. Some groups may want to explore those stories much more deeply by picking them up in additional follow-up sessions.
+Cannibal Contagion is primarily intended as a “pick-up” game, best used for short-run, one-or-two-shot gaming sessions. The scope of the game is fairly limited, focused almost entirely on immediate survival. However, some groups may find that the stories they start telling in one session are just too good to let go after only a single sitting. Some groups may want to explore those stories much more deeply by picking them up in additional follow-up sessions.
 
-Setting up a follow-up session of ***CC*** is actually a lot easier than creating the first session, as the scenario preparation and character creation is already take care of. Just sit back down, whip those characters back out onto the gaming table, grab your cards and start playing. You can pick up right where you left off, or you might enjoy jumping ahead in time a bit and picking up sometime after the previous game’s events.
+Setting up a follow-up session of Cannibal Contagion is actually a lot easier than creating the first session, as the scenario preparation and character creation is already take care of. Just sit back down, whip those characters back out onto the gaming table, grab your cards and start playing. You can pick up right where you left off, or you might enjoy jumping ahead in time a bit and picking up sometime after the previous game’s events.
 
-Players experienced with other published role-playing games will be familiar with the concept of Character Advancement, wherein characters in those games receive “experience points” and use them to acquire new abilities and such. ***CC*** doesn’t really have that option, as by default the system is pretty skewed against the characters’ survival – if a character makes it to the end of the session, that’s usually reward enough! While the Survival token system is intended to allow characters to heal and “recharge” their stuff between scenes, the system isn’t entirely designed for long-term campaign-style play. However, should particularly well-played characters survive a session of ***CC*** and wish to continue in a follow-up session, the CiC may wish to award them with some sort of character bonus.
+Players experienced with other published role-playing games will be familiar with the concept of Character Advancement, wherein characters in those games receive “experience points” and use them to acquire new abilities and such. Cannibal Contagion doesn’t really have that option, as by default the system is pretty skewed against the characters’ survival – if a character makes it to the end of the session, that’s usually reward enough! While the Survival token system is intended to allow characters to heal and “recharge” their stuff between scenes, the system isn’t entirely designed for long-term campaign-style play. However, should particularly well-played characters survive a session of Cannibal Contagion and wish to continue in a follow-up session, the CiC may wish to award them with some sort of character bonus.
 
 Probably the easiest character bonus would come in the form of increases to the characters’ Characteristic Scores. Consider allowing each player to increase the maximum rank of any one of their four Characteristics by one or more points, making them a lot more badass come next session.
 
@@ -2021,11 +2021,11 @@ As with the Characters section, here I’ve compiled some various bits of advice
 
 # The Zombie Apocalypse is Now
 
-This section of the rules contains a demo scenario for you to use to get your players into the action of ***Cannibal Contagion***. This is the original demo I frequently run at playtests and pick-up games, and I’ve found that it really works well for some high-octane zombie-killing fun. There are four complete scenes here for you to run, and more than a handful of suggestions for scenes to run as follow-ups. Read over the background and basic scenario setup information, and pass out the four pregenerated stock characters from the Survivors section of this book.
+This section of the rules contains a demo scenario for you to use to get your players into the action of Cannibal Contagion. This is the original demo I frequently run at playtests and pick-up games, and I’ve found that it really works well for some high-octane zombie-killing fun. There are four complete scenes here for you to run, and more than a handful of suggestions for scenes to run as follow-ups. Read over the background and basic scenario setup information, and pass out the four pregenerated stock characters from the Survivors section of this book.
 
 ## Welcome to the End of Days!
 
-**Setting and Premise:** *“And I heard, as it were, the noise of thunder: One of the four beasts saying: “Come and see.” And I saw.”* This is the core, default scenario for ***Cannibal Contagion***. In this scenario, Doomsday has arrived, and its royal litter is being carried by waves of zombies. The characters are a collection of unconnected strangers who have been forced together, trying to survive and find safe shelter against the cannibals that now run wild on the streets.
+**Setting and Premise:** *“And I heard, as it were, the noise of thunder: One of the four beasts saying: “Come and see.” And I saw.”* This is the core, default scenario for Cannibal Contagion. In this scenario, Doomsday has arrived, and its royal litter is being carried by waves of zombies. The characters are a collection of unconnected strangers who have been forced together, trying to survive and find safe shelter against the cannibals that now run wild on the streets.
 
 **Contagion:** A variant of the Shambling Sickness or the Maddening Murderness works best with this scenario. This specific introductory game does not need to go into the details of the Contagion’s nature or origin, as the primary focus is staying alive and not getting infected. If you want to jump right in, just use the default Shambling Sickness outlined below:
 
@@ -2098,11 +2098,11 @@ The characters need some gear, and fast! They venture into the city to McGurdy�
 
 ##### Conflicts
 
-**The Crowd:** The folks trying to break in will definitely be a Threat of some sort. The Survivors can try and just tag along and see what happens, challenge them for looting rights, or deal with them once inside. Showdowns against the crowd don’t have to all be violent, mind you, as some good moments of negotiation and “Let us fight together, folks!” speeches can be quite fun. Both **<span style="font-variant:small-caps;">Savvy</span>** and **<span style="font-variant:small-caps;">Cool</span>** can be very useful in these situations.
+**The Crowd:** The folks trying to break in will definitely be a Threat of some sort. The Survivors can try and just tag along and see what happens, challenge them for looting rights, or deal with them once inside. Showdowns against the crowd don’t have to all be violent, mind you, as some good moments of negotiation and “Let us fight together, folks!” speeches can be quite fun. Both ***Savvy*** and ***Cool*** can be very useful in these situations.
 
 **The Store:** Getting into the store itself will require some ingenuity. The front is made of heavy-duty glass, so trying to shatter the windows won’t be all that useful. Let the players come up with a good way to get in on their own.
 
-**The Looting:** Once the Survivors get in, they have to deal with other looters. There could be Showdowns with other people over who gets what loot, and quite possibly some bloke might try and “take over” as a warlord, using this as his fortress. Have the players make **<span style="font-variant:small-caps;">Savvy</span>** checks when they’re looking for specific gear.
+**The Looting:** Once the Survivors get in, they have to deal with other looters. There could be Showdowns with other people over who gets what loot, and quite possibly some bloke might try and “take over” as a warlord, using this as his fortress. Have the players make ***Savvy*** checks when they’re looking for specific gear.
 
 **The Chainsaw Zombies:** C’mon, you knew these guys were coming. These fells are at least Miniboss rank, and carry chainsaws. They will scream and howl and pursue the Survivors relentlessly until somehow destroyed. For some reason, someone tied burlap sacks around their heads, probably so the Survivors wouldn’t have to see their hideous faces.
 
@@ -2129,9 +2129,9 @@ The Survivors have found temporary shelter in the sewers beneath the city, but d
 
 ##### Conflicts
 
-**Getting Lost:** Getting lost in the foul darkness of the sewers is a constant threat. As the characters wander the veritable maze of waste, they can very easily get lost in the oppressive black. Periodically have one or more of them make **<span style="font-variant:small-caps;">Savvy</span>** checks, with failures resulting in them getting lost. If they have some kind of Gear that provides light, or some kind of mapping tools, then they can use them for bonus draws. This is a great opportunity to work out that Panic Button.
+**Getting Lost:** Getting lost in the foul darkness of the sewers is a constant threat. As the characters wander the veritable maze of waste, they can very easily get lost in the oppressive black. Periodically have one or more of them make ***Savvy*** checks, with failures resulting in them getting lost. If they have some kind of Gear that provides light, or some kind of mapping tools, then they can use them for bonus draws. This is a great opportunity to work out that Panic Button.
 
-**Disease and Sickness:** Sickness is another major danger, as the Survivors are literally walking in or very close to the bodily wastes of all the people of the city. Additionally, any number of other disgusting things are in the muck too, from dirty needles to diseased rats and more. Feel free to periodically have them startled by a creature running up their pants legs, or freak them out when the step on something sharp. Use an Adversity token to force a character to make a **<span style="font-variant:small-caps;">Grit</span>** quickie, and if they fail, make him resist a point of Hurtin’.
+**Disease and Sickness:** Sickness is another major danger, as the Survivors are literally walking in or very close to the bodily wastes of all the people of the city. Additionally, any number of other disgusting things are in the muck too, from dirty needles to diseased rats and more. Feel free to periodically have them startled by a creature running up their pants legs, or freak them out when the step on something sharp. Use an Adversity token to force a character to make a ***Grit*** quickie, and if they fail, make him resist a point of Hurtin’.
 
 **Escape:** How are they going to get out of the sewers? They might stumble upon an underground waterway, or find the railway mentioned above, or bust into their city’s Subway tunnels, or just keep trying the various access shafts until they find one they can open. Give them the tiniest hints, but ultimately let them try and come up with ideas on their own.
 
@@ -2182,10 +2182,234 @@ They’ve made it across town to a small private airfield, and now they only nee
 
 ## Conclusion
 
-Congratulations! You have now just run your first session of ***Cannibal Contagion***! Awesome! I hope everything turned out well, and I hope everyone had a whole lot of fun.
+Congratulations! You have now just run your first session of Cannibal Contagion! Awesome! I hope everything turned out well, and I hope everyone had a whole lot of fun.
 
 Wrapping up the session should be pretty simple. As you clean up the tokens and other supplies, ask your players what they thought about the experience (if it was their first time). You can learn a lot from these player comments, and they can help you make your games even more fun in the future.
 
 So what’s next? If you had fun, I suggest trying another scenario of your own some time, possibly basing it off any of the sample scenario ideas provided in the CiC section of these rules. If the players had such fun that they want to continue on with these characters, then just plan a new scenario starting where you left off, and give it a whirl when you next meet.
+
+
+
+
+
+
+
+
+# Appendices
+
+> “And I heard a voice in the midst of the four beasts,  
+> And I looked and behold: a pale horse.  
+> And his name, that sat on him, was Death.  
+> And Hell followed with him.”
+
+## Appendix A: References and Inspirations
+
+First and foremost, the movies *Versus* (2000) and *Wild Zero* (2000) were perhaps the biggest inspirations for this game. In many ways, *Cannibal Contagion* could be considered to be the unofficial RPG of those two movies. Come on: Zombies, guns, swords, and rock-and-roll! Another big one for me was the 2004 remake of *Dawn of the Dead*. Some hardcore George Romero purists might be crying “Blasphemy!” at me right now, but screw ‘em, I really loved that movie. The kill-dozer with the razorwire and the chainsaw slots is *exactly* in line with the wicked creative spirit that this game is all about. But even more than that, watching the chaotic tension as the characters are forced to frequently kill their own after turning into zombies is great for getting into the role-playing mindset of this game. While you’re at it, check out *Planet Terror* (2007) – you won’t be disappointed. And more than any other, you NEED to see *Zombieland* (2009). It’s like this game, but in movie format.
+
+And when all is said and done, in the end this game really is just one gigantic love letter to the original *Resident Evil* (1996).
+
+## Appendix B: Glossary of Terms
+
+**Activating Gear:** The act of using a piece of Gear for a single-card bonus. 
+**Adversity Tokens:** The CiC’s ever-increasing pool of points with which he can “purchase” enemies to put into a scene. 
+**Ally:** A helpful non-player character who gives the Survivors special mechanical bonuses. 
+**Ally Rank:** The mechanical value of an Ally when evoked for bonus cards, denotes both the number of bonus draws allowed and the type of tests the Ally can assist. 
+**Characteristics:** Every character has four major characteristics, used to affect most of the game’s mechanics: Kill, Savvy, Cool, and Grit. 
+**CiC:** The Cannibal-in-Charge. She prepares and runs the game and you should bribe her with delicious candy. 
+**Cold Open:** The scenes that start the game off, in which characters are introduced individually and the main themes are established. 
+**Cool:** The Characteristic attributed to being Cool. 
+**Crazy-Go-Psycho (CGP):** As your character does and see crazy things, they gain CGP points. These points are tallied on the CGP Meter, which tracks your character’s descent into madness. 
+**Facts:** Extra (optional) statements of narration added to a scene when players win Showdowns with faces or aces in the Play Pile. 
+**“Faces or Aces”:** When cards are drawn or played, a “Faces or Aces” result occurs when one or more of those cards is a Jack, Queen, King, or Ace. 
+**Gear:** Specific items and objects which you can call upon in Showdowns and Quickies for extra cards. 
+**Grit:** The Characteristic attributed to Toughness. 
+**Hand:** At the beginning of a Showdown, the cards dealt to a player form that player’s Hand for the duration of the Showdown. 
+**Hurtin’:** When a Showdown ends, the cards in the Play Pile are the winner’s Hurtin’, which can be used to damage opponents. Each card is one point of Hurtin’.
+**Infection:** A tally of points that goes up as a character grows closer to turning into a flesh-eating cannibal monster. 
+**Juice:** Ammunition. Gear with a Juice stat builds up Juice tallies when they are used, and can stop working when the tally gets high. 
+**Kill:** The Characteristic attributed to Offensive ability. 
+**Longshot Quickie:** A Quickie that can only be won by drawing Aces. 
+**Mad Half:** This named player represents the voice of your character’s insanity. 
+**Negotiation:** The act of convincing your Mad Half to empower your character in exchange for gaining CGP points. 
+**Pawn:** When you are the Mad Half, the person you mess with is called your Pawn. 
+**Play Pile:** During a Showdown, every card played by a participant is placed on the table, and those cards are collectively called the Play Pile. 
+**Psychotrigger (PT):** A predetermined thematic element which, when present in a conflict, can be evoked by the Mad Half to drive a character crazy. 
+**Quickie:** A quick single-player card-draw mechanic for resolving instant decisions, random choices, and some resistance checks. 
+**Royal Pain Quickie:** A Quickie that can only be won by drawing Kings or Queens. 
+**Sacrificing Gear:** The act of throwing away a piece of Gear for four immediate bonus draws. 
+**Savvy:** The Characteristic attributed to Smarts and Resourcefulness. 
+**Scene:** A span of game time in which actions and story take place. The scene is the basic building block of the game. 
+**Showdown:** The card-battle mechanic for resolving inter-character conflicts. 
+**Survival Pool:** A pool of Survival Tokens available to all of the Survivors at once. 
+**Survival Tokens:** A pool of points which the Survivors use to recover their losses between scenes. 
+**Survivor:** The main character directly under the control of a player. 
+**Threats:** Any characters or group thereof that exist to oppose and directly challenge the Survivors. 
+**Threat Score:** Serves two purposes: 1) it serves as “health points” of CiC-controlled characters and monsters, and 2) it gauges how powerful a Survivor will be should she ever turn into a cannibal. 
+**Turned:** A status applied to characters who have been overcome by the Infection and transformed into dangerous cannibal-monsters. 
+**Wallflowers:** Any characters that mainly exist to color a scene.
+
+## Appendix C: The “Serious” Game
+
+If you’ve read this far, then you should be pretty aware that Cannibal Contagion is primarily geared towards playing games of crazy monster-killing survival-comedy action. If the fact that its main inspirations are some of the campiest gore-fu movies ever made didn’t give that away, the flavor of this book’s rules text certainly should have. The primary goal of this game is to allow you to enjoy a fast and wild recreation of the action and themes present in those movies (and the video games and comics they’ve inspired over the years).
+
+That being said, it is also entirely possible to use this system to play out more serious-themed games with similar monster apocalypse tropes – I’ve done so, and so can you. Many of the stories that inspired this game are full of some really emotionally intense moments, which focus more on the psychological impact of the so-called “End of the World” upon its survivors than they do on scenes of visceral gore and murderiffic action. Characters see their whole world crumble around them, watch their friends and loved ones die or transform into terrible monsters, and must learn to trust complete strangers with their hopes of staying alive in a world turned onto its side. The protagonists of these stories often watch their own psyches crumble under the stress of survival. Groups that wish to focus heavily upon these themes should not be put off by the inherent campiness of this book’s text.
+
+Arranging and running a more serious game first requires that all the players be on the same page of maturity and gaming motivation. If some folks are there to joke around and others are there to explore the psychology of the setting, a serious game probably won’t be happening. If everyone is there to explore the emotions of the setting, however, then you’re off to a good start.
+
+When preparing to run such a game, you should probably take some time to plan out some scenes in advance that will focus upon the heavier themes. Find out beforehand what really gets under the skin of your actual players, and then include those things in your scene-planning. If you know that one of your players is affected by creepy children, for example, then play more on themes of children being infected, or of parents being forced to make choices between survival and abandonment of their kids when the chaos hits. Do your best to work in those themes and tie in the players’ own emotions to the story you all tell.
+
+You should probably also not use the pre-made character sheets from this book. Those were designed to look pretty campy, and having them on the table in front of everyone could make it a bit more difficult for them to focus on the themes you are trying to evoke. Instead, just have them write out their information on sheets of loose leaf paper, and even index cards will do in a pinch. Additionally, the names of the four characteristics might be a bit odd, so instead of ***Kill, Savvy***, ***Cool***, and ***Grit***, consider using Action, Resourcefulness, Calm, and Endurance, respectively.
+
+When preparing the gaming environment, take some time to set up some good mood lighting and atmospheric assistance. Darker lighting is always more conducive to heavier, more horrific gaming than the usual lights in your living room at your local gaming store. Cover the lamps with darker shades, put in some low-wattage light bulbs, maybe open a curtained window for a light breeze and ruffling curtains. Making sure roommates and family members who aren’t part of the experience don’t constantly shuffle through is also a must; I can’t count the number of so-called “horror game” sessions I’ve tried to run that have been ruined by the presence of a curious or disruptive roommate. Also, tell everyone in advance to *turn off their cell phones and pagers*. These can absolutely *ruin* any ambience of darkness and tension. Additionally, making sure all food arrangements are taken care of before game time can help to eliminate distractions once the game begins.
+
+When actually running the game at the table, you are going to need to take a lot of care to avoid gaming jokes and funny anecdotes. If you have something humorous to say, write it down and tell it later. If your players start goofing off, quickly tell them to cut it out, or just arrange a break and let everyone get their sillies out away from the gaming table. When establishing your scenes, keep your descriptions short yet evocative, and don’t let the players dally around on minor details. Focus on the What and the Why, and keep it moving.
+
+When describing gore and carnage, do it with a tasteful bit of horror, and put more emphasis in describing how it makes the characters *feel* more than just how messy and hideous it *looks*. Since serious games will most definitely include a lot more connection between the players and their characters, it is important to emphasize the characters’ feelings and evoke those emotions as much as possible. Try not to put a lot of detail in your descriptions of monsters and such, as too much description can make a threat feel much less threatening. The most terrible menaces are those that you can’t quite see, or those whose descriptions are simple and just disturbing enough to let the players’ minds fill in all the unspoken details.
+
+## Appendix D: Helpful Random Tables
+
+Cannibal Contagion was designed with many intentions in mind, one of which is that it should be able to be picked up and immediately played with pretty much zero prep time, should that be how you wish to roll. To better meet that goal, I’ve included a few handy random charts for you to use and quickly draw up a variety of variables for your game. From Scenario setup to character creation to scene-framing, it’s all here. Just grab a deck, draw some cards, and check the tables, jokers wild.
+
+### Random Character Creation
+
+If you want to just randomly draw up a character and hop right into the game, grab a deck of cards and use these draw-tables to produce some interesting results. All the listed archetypes are pulled directly from movies, comics, and other media relevant to the zombie survival genre.
+
+| D  | Spades Archetype         | Hearts Archetype         | Clubs Archetypes       | Diamonds Archetype      |
+|----|--------------------------|--------------------------|------------------------|-------------------------| 
+| 2  | The Prize Fighter        | The Cheerleader          | The Secret Nerd        | The Silent Badass       |
+| 3  | The Escaped Convict      | The Calm Preacher        | The Goddamn Batman     | The Cop/Soldier         | 
+| 4  | The Warrior Nun          | The Chainsaw Guy         | The Cab Driver         | The Gun Bunny           | 
+| 5  | The Loser Boyfriend      | The Dude-Bro             | The Buffy Fangirl      | The Twink               | 
+| 6  | The Fast-Mart Clerk      | The Irritating Kid       | The Damn Doctor        | The Accidental Tourist  | 
+| 7  | The Scottish Sailor      | “The End is Near” Guy    | The Heinous Bitch      | The Screaming Girl      | 
+| 8  | The Damsel-turned-Badass | The Private Dick         | The Mother             | The Suit                | 
+| 9  | The Wise Professor       | The Bloody Waitress      | The “Warrior Princess” | The Freak/Weirdo/Goth   | 
+| 10 | The Hayseed              | The Crazy Cat Lady       | The 2nd Amendment Guy  | The Conspiracy Theorist | 
+| J  | The Leet Haxxor          | The Creepy Little Girl   | The Psycho Killer      | The Trucker             | 
+| Q  | The Girl With Glasses    | The “But I’m Famous” Guy | The Arrogant Playboy   | The Super Girl          | 
+| K  | The Action Photographer  | The Ass-Kicking Babe     | The Clueless Gaijin    | The Village Idiot       | 
+| A  | The Prom Queen           | The Zombie Fangirl       | The Carnie             | The Game Dork           | 
+
+
+| D  | Red Psychotriggers         | Black Psychotriggers  | Red Goals                      | Black Goals                   | 
+|----|----------------------------|-----------------------|--------------------------------|-------------------------------| 
+| 2  | Something of a pyromaniac  | Can’t stop screaming  | Find missing family            | Prevent any escape            | 
+| 3  | Obsessive-Compulsive       | Martyr complex        | Destroy evidence               | Blow it all up!               | 
+| 4  | Have to be the Hero        | Afraid of the Dark    | Get revenge on enemy           | Study the Infection           | 
+| 5  | Agoraphobic                | Afraid of Blood       | Find missing heirloom          | Lead this rabble to safety    | 
+| 6  | Compulsive Liar            | Delusional            | Go out in a blaze of glory     | Find a sign from God          | 
+| 7  | Need my missing Girlfriend | Flashbacks            | Field testing of new monster   | Collect many powerful weapons | 
+| 8  | Weak Stomach               | Drug Addict           | Find a cure                    | Get the package to safety     | 
+| 9  | Cigarette addiction        | Kleptomaniac          | Expose the truth               | Protect your family           | 
+| 10 | Always the Bridesmaid…     | Daddy issues          | Secretly kill another Survivor | Set up reliable defenses      | 
+| J  | Phasmophobia               | Abandonment Issues    | Never leave a man behind       | Kill ‘em all!                 | 
+| Q  | No self-confidence         | Self-Cutting          | Survival at any cost           | Get everyone to safety        | 
+| K  | Mindless aggression        | Dangerous drug habit  | Religious cleansing            | Lose your Virginity           | 
+| A  | I want my kids back!       | Conspiracy Theorist   | Start a new family             | Get the hell out of here!     | 
+
+
+### Random Weapon Table
+
+Use this table to quickly generate random weapon attributes on the fly for weapons whose stats you can’t create off the top of your head. Draw one card for each column.
+
+
+| D  | Type                 | Hurtin’ | Draw | Juice | Special Attribute   | 
+|----|----------------------|---------|------|-------|---------------------| 
+| 2  | Yard/House Tool      | +1      | +1   | +4    | Hard to find ammo   | 
+| 3  | Sports Equipment     | +1      | +1   | +3    | Easy to find ammo   | 
+| 4  | Kitchen Knife        | +1      | +1   | +3    | Lame                | 
+| 5  | Club or Pipe         | +1      | +1   | +2    | Scary               | 
+| 6  | Pistol               | +2      | +2   | +2    | Ammo hog            | 
+| 7  | Shotgun              | +2      | +2   | +2    | Penetrating         | 
+| 8  | Rifle                | +2      | +2   | +1    | Self-destruct       | 
+| 9  | Submachine Gun       | +2      | +2   | +1    | Psychobilly         | 
+| 10 | Automatic Weapon     | +3      | +3   | +1    | Knock-off           | 
+| J  | Military Experiment  | +3      | +3   | +1/2  | Recharging          | 
+| Q  | Exotic Weapon        | +4      | +3   | +1/2  | Last resort         | 
+| K  | Sword                | +5      | +4   | +1/2  | Disposable          | 
+| A  | Something Improvised | +6      | +4   | +1/3  | Dial Goes to Eleven | 
+
+
+### Random Scenario Table
+
+Use this table when you feel like throwing down a completely unprepared scenario for your group. You can use these columns to quickly generate some of the scenario basics, and even to help you out if you’re having problems coming up with scene-starting Explosions.
+
+| D  | Characters Are       | The Bad Guys         | Setting               | Purpose                   | Explosion               | 
+|----|----------------------|----------------------|-----------------------|---------------------------|-------------------------| 
+| 2  | Special Forces       | The Living Dead      | Anytown, USA          | Find a cure               | Grenade Blast           | 
+| 3  | High Schoolers       | Alien Infestation    | Modern Tokyo          | Destroy the Source        | Door kicked in          | 
+| 4  | Samurai Warriors     | Strange Parasites    | Ancient Japan         | Survive for 7 Days        | Character is stabbed    | 
+| 5  | Trained Assassins    | Enraged Cannibals    | New York              | Escape the City           | Building collapses      | 
+| 6  | Mall Employees       | Reptiles             | Prison                | Start a Resistance        | Bloody Vomit            | 
+| 7  | Research Team        | Robot Overlords      | Spaceship             | Search for Survivors      | Severed limb/head       | 
+| 8  | American Colonists   | Intelligent Virus    | Lost Colony           | Escort the MacGuffin      | Vehicle crash           | 
+| 9  | Road-Tripping Family | Crazed Junkies       | Quarantine Zone       | Destroy all the Undead    | Gunshot in the distance | 
+| 10 | Random People        | Madness Spirits      | Trapped in the Sewers | Restore Order from Chaos  | Shattered glass         | 
+| J  | Prisoners            | Giant Effing Monster | Cross-Country Train   | Defeat the Overlord       | Explosive Bodily Organs | 
+| Q  | Para-Investigators   | Vampires/Wendigo     | Airplane              | Gather Field Data         | Systems Crash           | 
+| K  | Psych Ward Patients  | Angry Plants         | Amusement Park        | Make it to the Checkpoint | Earth-shaking roar      | 
+| A  | Cowboys              | Soul-Eaters          | Fantasy Castle        | Rescue Someone Important  | Ear-splitting scream    | 
+
+### Random Characters Table
+
+Need a character idea (Wallflower, Ally, or Threat), stat? Draw some cards against this table.
+
+| D  | Relation              | Pers. Trait        | Phys. Trait             | Occupation 1    | Occupation 2          | 
+|----|-----------------------|--------------------|-------------------------|-----------------|-----------------------| 
+| 2  | Immediate Family      | Angry              | A bit on the small side | Teacher         | EMT                   | 
+| 3  | Extended Family       | Confused           | Broken Nose             | Soldier         | Politician            | 
+| 4  | Lover (Current or Ex) | Horny              | Scantily Clad           | Gardener        | Waitstaff             | 
+| 5  | The Help              | Arrogant           | Amazingly Unscathed     | Shop Clerk      | Unemployed            | 
+| 6  | Current Friend        | Crying             | Mean-Looking            | Driver          | Professional Criminal | 
+| 7  | Rival                 | Addict             | Obese                   | Secret Agent    | Mortician             | 
+| 8  | Childhood Friend      | Off the deep end   | Anorexic                | Sailor          | Barber                | 
+| 9  | Neighbor              | Too much coffee    | Sucking Chest Wound     | Programmer      | Massage Therapist     | 
+| 10 | Co-Worker / Associate | Hates You          | Big Hairy Hands         | Athlete         | Religious             | 
+| J  | Complete Strangers    | Frightened         | Covered with Blood      | Nurse           | Construction          | 
+| Q  | Complete Strangers    | Amnesiac           | Missing body parts      | Doctor          | Bellhop               | 
+| K  | Complete Strangers    | Hungry             | Infected                | Law Enforcement | Stock Broker          | 
+| A  | Long-Lost Twin        | Too Many Questions | Immune to Infection     | Murderous Hobo  | Scholar Adventurer    | 
+
+## Appendix E: Custom Printables
+
+When running my own games of Cannibal Contagion, I’ve found that it is quite helpful to have one or two decks of custom cards handy to assist with in-game minutiae. A stack of quick weapons, some handy random Threats, and some Mojo cards can go a long way towards making your own games more awesome. [On our website](http://cannibalcontagion.com), you will be able to download and print out free templates for making your own Mojo, Weapon, and Threat cards. I find they are most useful after I cut them out and slide them into deck protector sleeves, which you can get real cheap at just about any collectible-games hobby store. Once they’re in the sleeves, you can use dry-erase pens to write on them, and just wipe them off when you’re done. Below, you will find instructions on their use, and advice on how best to maximize their potential in your own games.
+
+**Gear Cards:** The Gear Card deck is useful both as a way to introduce new gear and random weapon stats into the game with even more quickness than the quick-stat charts in this book, and as a way to simply keep track of the stats and Juice tallies of those already in the game. Before a game starts, you can lay out a handful of these and then fill out their stats by drawing on the weapon table a few times. Set them face-down in a stack, and when the game starts, you can draw from it to give stats to any new weapon narrated into the game. You can also pass out blank ones to the players so they can keep better track of the gear they already have and the pieces they eventually acquire.
+
+**Mojo Cards:** By printing out the pre-filled Mojo cards and their accompanying blank templates, you can allow each player to draw randomly from the deck when the game begins to ensure they all get separate powers. Additionally, you can use the templates to create your own and throw them into the random draw deck. Finally, by having the info there on the cards, players don’t have to write it all down on their character sheets, nor do they have to keep checking the book to look them up again.
+
+**NPC Cards:** Need a quick Threat or Ally? The printable NPC card templates can help make the Threat and Ally creation process a whole lot smoother for you. They can also be a blessing when you’re trying to keep track of multiple Threats at the same time. Just draw a blank card, give it a name and a Threat score, circle its Role, and you’re ready to go. You can just as easily use them to quickly jot down a new Ally.
+
+**Pawn Cards:** These nifty little note cards can make it easier for the Mad Halves in your game to keep tabs on their Pawns’ Psychotriggers and stages of Madness.
+
+**Vote Cards:** The Secret Votes are a vital part of the game, and having an easy way to jot them down and pass them to the CiC is always a good thing.
+
+**Madness Meter:** While not a deck of cards, the Madness Meter is a handy printable sheet that you can lay in the middle of your gaming table and use to keep track of everyone’s relevant stage of Madness. This is definitely handy for each of the Mad Halves to keep tabs on their Pawn’s current level of sanity, and can also serve to keep the tension high among the player group. When using it, each charactershould use a unique token or marker to represent their current position on the meter.
+
+ 
+
+A Message From the Chief
+
+Acknowledgements
+
+I’d like to thank four people here. First, a massive shout and thanks to fellow Portlander Jake Richmond, who encouraged me to take this idea and run with it. Thanks Jake.
+
+Second, I send *many, many* thanks to Gaston Phillips, who made it possible for me to create the Reverend Rufus D. “I am God’s Middle Finger” Hossweiler, and introduced me (kicking and screaming) to the joys of truly player-driven story games.
+
+Third, I’d like to give a big shout-out to Steve Saunders, for connecting me with Vero and Leo and helping to make this game come to life.
+
+Finally, I’d like to thank The Screg, for being everything that The Screg is.
+
+Last Words
+
+Well folks, there you have it. I hope you enjoyed reading Cannibal Contagion, and even more so do I hope you have (and continue to have) some wicked fun times playing it.
+
+I am always looking for feedback and play reports, so please drop by the website and leave me your thoughts. There you will find discussion forums and a sporadically-updated weblog of design notes and random gaming anecdotes. Notice any typos? Found some inconsistencies? Got some questions about articles you think need some additional clarification? Just want to stop by and buy me a beer? Come on over and drop a line!
+
+Many Thanks!
+
+Nathanael Phillip Cole
+
+Alliterated Games
 
 
