@@ -2210,42 +2210,42 @@ And when all is said and done, in the end this game really is just one gigantic 
 
 ## Appendix B: Glossary of Terms
 
-**Activating Gear:** The act of using a piece of Gear for a single-card bonus. 
-**Adversity Tokens:** The CiC’s ever-increasing pool of points with which he can “purchase” enemies to put into a scene. 
-**Ally:** A helpful non-player character who gives the Survivors special mechanical bonuses. 
-**Ally Rank:** The mechanical value of an Ally when evoked for bonus cards, denotes both the number of bonus draws allowed and the type of tests the Ally can assist. 
-**Characteristics:** Every character has four major characteristics, used to affect most of the game’s mechanics: Kill, Savvy, Cool, and Grit. 
-**CiC:** The Cannibal-in-Charge. She prepares and runs the game and you should bribe her with delicious candy. 
-**Cold Open:** The scenes that start the game off, in which characters are introduced individually and the main themes are established. 
-**Cool:** The Characteristic attributed to being Cool. 
-**Crazy-Go-Psycho (CGP):** As your character does and see crazy things, they gain CGP points. These points are tallied on the CGP Meter, which tracks your character’s descent into madness. 
-**Facts:** Extra (optional) statements of narration added to a scene when players win Showdowns with faces or aces in the Play Pile. 
-**“Faces or Aces”:** When cards are drawn or played, a “Faces or Aces” result occurs when one or more of those cards is a Jack, Queen, King, or Ace. 
-**Gear:** Specific items and objects which you can call upon in Showdowns and Quickies for extra cards. 
-**Grit:** The Characteristic attributed to Toughness. 
-**Hand:** At the beginning of a Showdown, the cards dealt to a player form that player’s Hand for the duration of the Showdown. 
-**Hurtin’:** When a Showdown ends, the cards in the Play Pile are the winner’s Hurtin’, which can be used to damage opponents. Each card is one point of Hurtin’.
-**Infection:** A tally of points that goes up as a character grows closer to turning into a flesh-eating cannibal monster. 
-**Juice:** Ammunition. Gear with a Juice stat builds up Juice tallies when they are used, and can stop working when the tally gets high. 
-**Kill:** The Characteristic attributed to Offensive ability. 
-**Longshot Quickie:** A Quickie that can only be won by drawing Aces. 
-**Mad Half:** This named player represents the voice of your character’s insanity. 
-**Negotiation:** The act of convincing your Mad Half to empower your character in exchange for gaining CGP points. 
-**Pawn:** When you are the Mad Half, the person you mess with is called your Pawn. 
-**Play Pile:** During a Showdown, every card played by a participant is placed on the table, and those cards are collectively called the Play Pile. 
-**Psychotrigger (PT):** A predetermined thematic element which, when present in a conflict, can be evoked by the Mad Half to drive a character crazy. 
-**Quickie:** A quick single-player card-draw mechanic for resolving instant decisions, random choices, and some resistance checks. 
-**Royal Pain Quickie:** A Quickie that can only be won by drawing Kings or Queens. 
-**Sacrificing Gear:** The act of throwing away a piece of Gear for four immediate bonus draws. 
-**Savvy:** The Characteristic attributed to Smarts and Resourcefulness. 
-**Scene:** A span of game time in which actions and story take place. The scene is the basic building block of the game. 
-**Showdown:** The card-battle mechanic for resolving inter-character conflicts. 
-**Survival Pool:** A pool of Survival Tokens available to all of the Survivors at once. 
-**Survival Tokens:** A pool of points which the Survivors use to recover their losses between scenes. 
-**Survivor:** The main character directly under the control of a player. 
-**Threats:** Any characters or group thereof that exist to oppose and directly challenge the Survivors. 
-**Threat Score:** Serves two purposes: 1) it serves as “health points” of CiC-controlled characters and monsters, and 2) it gauges how powerful a Survivor will be should she ever turn into a cannibal. 
-**Turned:** A status applied to characters who have been overcome by the Infection and transformed into dangerous cannibal-monsters. 
+**Activating Gear:** The act of using a piece of Gear for a single-card bonus.  
+**Adversity Tokens:** The CiC’s ever-increasing pool of points with which he can “purchase” enemies to put into a scene.  
+**Ally:** A helpful non-player character who gives the Survivors special mechanical bonuses.  
+**Ally Rank:** The mechanical value of an Ally when evoked for bonus cards, denotes both the number of bonus draws allowed and the type of tests the Ally can assist.  
+**Characteristics:** Every character has four major characteristics, used to affect most of the game’s mechanics: Kill, Savvy, Cool, and Grit.  
+**CiC:** The Cannibal-in-Charge. She prepares and runs the game and you should bribe her with delicious candy.  
+**Cold Open:** The scenes that start the game off, in which characters are introduced individually and the main themes are established.  
+**Cool:** The Characteristic attributed to being Cool.  
+**Crazy-Go-Psycho (CGP):** As your character does and see crazy things, they gain CGP points. These points are tallied on the CGP Meter, which tracks your character’s descent into madness.  
+**Facts:** Extra (optional) statements of narration added to a scene when players win Showdowns with faces or aces in the Play Pile.  
+**“Faces or Aces”:** When cards are drawn or played, a “Faces or Aces” result occurs when one or more of those cards is a Jack, Queen, King, or Ace.  
+**Gear:** Specific items and objects which you can call upon in Showdowns and Quickies for extra cards.  
+**Grit:** The Characteristic attributed to Toughness.  
+**Hand:** At the beginning of a Showdown, the cards dealt to a player form that player’s Hand for the duration of the Showdown.  
+**Hurtin’:** When a Showdown ends, the cards in the Play Pile are the winner’s Hurtin’, which can be used to damage opponents. Each card is one point of Hurtin’.  
+**Infection:** A tally of points that goes up as a character grows closer to turning into a flesh-eating cannibal monster.  
+**Juice:** Ammunition. Gear with a Juice stat builds up Juice tallies when they are used, and can stop working when the tally gets high.  
+**Kill:** The Characteristic attributed to Offensive ability.  
+**Longshot Quickie:** A Quickie that can only be won by drawing Aces.  
+**Mad Half:** This named player represents the voice of your character’s insanity.  
+**Negotiation:** The act of convincing your Mad Half to empower your character in exchange for gaining CGP points.  
+**Pawn:** When you are the Mad Half, the person you mess with is called your Pawn.  
+**Play Pile:** During a Showdown, every card played by a participant is placed on the table, and those cards are collectively called the Play Pile.  
+**Psychotrigger (PT):** A predetermined thematic element which, when present in a conflict, can be evoked by the Mad Half to drive a character crazy.  
+**Quickie:** A quick single-player card-draw mechanic for resolving instant decisions, random choices, and some resistance checks.  
+**Royal Pain Quickie:** A Quickie that can only be won by drawing Kings or Queens.  
+**Sacrificing Gear:** The act of throwing away a piece of Gear for four immediate bonus draws.  
+**Savvy:** The Characteristic attributed to Smarts and Resourcefulness.  
+**Scene:** A span of game time in which actions and story take place. The scene is the basic building block of the game.  
+**Showdown:** The card-battle mechanic for resolving inter-character conflicts.  
+**Survival Pool:** A pool of Survival Tokens available to all of the Survivors at once.  
+**Survival Tokens:** A pool of points which the Survivors use to recover their losses between scenes.  
+**Survivor:** The main character directly under the control of a player.  
+**Threats:** Any characters or group thereof that exist to oppose and directly challenge the Survivors.  
+**Threat Score:** Serves two purposes: 1) it serves as “health points” of CiC-controlled characters and monsters, and 2) it gauges how powerful a Survivor will be should she ever turn into a cannibal.  
+**Turned:** A status applied to characters who have been overcome by the Infection and transformed into dangerous cannibal-monsters.  
 **Wallflowers:** Any characters that mainly exist to color a scene.
 
 ## Appendix C: The “Serious” Game
